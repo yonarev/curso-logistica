@@ -1,0 +1,1572 @@
+﻿                    CURSO TÉCNICAS DE ADMINISTRACIÓN DE LOGÍSTICA
+ENCARGADO
+    Diego Barrera
+    probiobioinscripciones@gmail.com
+INSCRIPCION
+    con certificación Sence, 
+	de manera gratuita y 
+	certificado al aprobar su capacitación. 
+    Este programa de capacitación no contempla subsidios adicionales, solo el acceso a la capacitación de manera certificada.
+    Las clases son con asistencia de carácter obligatoria, por lo que es necesario que evalúe antes de inscribirse la disponibilidad de tiempo para realizar el curso 
+        (clases duran 1 mes).
+    La metodología de enseñanza es con clases en vivo a través  de	 Zoom 
+        y también el acceso a nuestra plataforma de aprendizaje a través de Moodle, donde se concentra todo el material del curso. 
+    Para inscribirse solicito que envíe 
+        los siguientes datos por esta misma vía, 
+            además de su copia de Cédula de Identidad por ambos lados Vigente y 
+            su Cartola del Registro Social de Hogares 
+    para continuar con su proceso de inscripción al curso "Técnicas de Administración Logística)
+
+    Nombre Completo: 
+    Rut: 
+    Edad: 
+    Fecha Nacimiento: 
+    Dirección: 
+    Comuna: 
+    Nacionalidad:
+    Teléfono: 
+    Mail: 
+    Nivel de escolaridad: 
+    ¿Cuenta con PC (que tenga Excel y Word instalado) y acceso a internet?
+    ¿Cuenta con clave única? (Si no cuenta con dicha clave, favor obtenerla ya que con ella se marca asistencia durante la capacitación).
+    ¿Cuenta con Zoom descargado?
+    Horario:  06 de noviembre a 07 de diciembre de 19:00 hrs a 22:30 horas
+CONEXION
+    www.aulaprobiobio.cl
+    nombre de usuario 10059036
+    clave EVA jove0
+    Una vez dentro del EVA Pro Biobío, debes hacer click/pinchar el curso en el cual estás matriculado
+    click en "Iniciar sesión SENCE"redirigido a la plataforma de asistencia de SENCE. para poder registrar tu asistencia.
+        10059036-0
+        Logisticonim0$
+    luego en asistencia ir abajo a enlace de acceso en vivo.... 
+    VIDEO CONEXION
+        https://www.youtube.com/watch?v=KgsHmGfMY_I
+HORARIO
+    3,5 hrs
+    total 85 horas
+    20	21	22	23	24	25	27	28	29	30	1	2	4	5	6	7	8	9	11	12	13	14	15	16	18
+    830 BREAK 20min 850
+    2130 BREAK 20 MIN 2150
+    lunes a viernes 19 a 2230
+    sabado de 9 a 13hrs
+PROFESORA
+    Patricia Vásquez Costella
+    Ing. Ejecución Industrial
+    Tecnicas.adm.logistica@gmail.com
+OBJETIVO GRAL:
+    Al finalizar el curso, los participantes podrán 
+        reconocer 
+        y aplicar 
+            conceptos 
+            y técnicas 
+            para una gestión administrativa 
+                eficiente de bodegas
+                y centros de distribución, 
+                    desarrollando un trabajo 
+                        estructurado 
+                        y planificado.
+    Aplicarán técnicas de administración de logística considerando
+        indicadores de gestión 
+        y mecanismo de control de procesos.
+OBJETIVOS ESPECIFICOS:
+    Identificar los fundamentos sobre administración de logística 
+        considerando los indicadores de gestión.
+    Reconocer aspectos relativos al servicio logístico al cliente 
+        considerando 
+            sus elementos 
+            y efectos sobre las ventas.
+    Desarrollar modelos de logística inversa 
+        como estrategia diferenciadora 
+        basada en la responsabilidad social empresarial.
+    Utilizar técnicas de detección del punto óptimo de instalación de trabajo, 
+        respetando criterios de micro 
+        y macro localización.
+    Emplear metodologías de mejora continua considerando 
+        protocolos de detección de oportunidades +
+        de aumento de la productividad logística.
+    Aplicar técnicas de administración de logística respetando 
+        mecanismos de control de proceso.
+VIDEOS 
+    https://www.youtube.com/@curriculummineduc3996
+MÓDULO I
+    FUNDAMENTOS DE ADMINISTRACION LOGISTICA
+    INTRODUCCIÓN A LA ADMINISTRACIÓN DE LOGÍSTICA
+        DEFINICIÓN
+        ELEMENTOS ESENCIALES
+        IMPORTANCIA
+        CARACTERÍSTICAS
+    DEFINICIÓN DE ADMINISTRACIÓN LOGÍSTICA
+        Es el conjunto de planificaciones y estrategias de las actividades 
+        de la empresa que buscan aprovechar de la mejor forma los recursos.
+        ¿Qué aporta la logística a la administración?
+            La gestión logística administrativa permite visualizar de una manera 
+            amplia y eficiente todas las fases de la cadena de suministros,
+            desde el proceso de almacenamiento hasta la entrega del producto al cliente. 
+            Haciendo que el trabajo 
+                sea más ágil 
+                al tener un proceso controlado. 
+    LOGÍSTICA
+        La Logística es aquella parte de la gestión de 
+        la Cadena de Suministro 
+            que planifica, 
+            implementa 
+            y controla 
+                el flujo -hacia atrás y adelante- 
+                y el almacenamiento 
+                    eficaz 
+                    y eficiente 
+                        de los bienes, 
+                        servicios 
+                        e información relacionada 
+            desde el punto de 
+                origen 
+                al punto de consumo 
+            con el objetivo de 
+                satisfacer los requerimientos de los consumidores”
+    LOGISTICA EMPRESARIAL    
+        La logística empresarial es 
+            todo movimiento 
+            y almacenamiento que 
+                facilite el flujo de productos desde 
+                    el punto de compra de los materiales 
+                    hasta el punto de consumo, 
+                    así como los flujos de información que se ponen en marcha, 
+                con el fin de dar al consumidor 
+                    el nivel de servicio adecuado 
+                    a un costo razonable
+    ELEMENTOS ESENCIALES DE LA LOGÍSTICA
+        CALIDAD
+            Es la eficiencia 
+            y la satisfacción del cliente 
+                cuando se trata de trasladar productos de un punto a otro. 
+            
+            Es una parte esencial de las operaciones empresariales, 
+                ya que los clientes confían en 
+                    una entrega precisa 
+                    y puntual de sus pedidos.
+        TIEMPO
+            Es el mecanismo de rastreo y control que se encarga de 
+                definir los tiempos que transcurren 
+                    desde que inicia el proceso de almacenamiento, 
+                    hasta cuando se realiza la entrega del producto al cliente. 
+            Su objetivo es 
+                reducir al máximo posible en ejecutar los procesos 
+                de cada etapa de la logística administrativa.
+        PRODUCTIVIDAD
+            La productividad es la capacidad de 
+                desarrollar tareas 
+                en determinado tiempo 
+                y con cierta cantidad de recursos asignados que tiene cada empresa. 
+            
+            Hay que tener en cuenta los valores de productividad 
+            que maneja la  empresa, ya que es importante para optimizar los procesos.
+        EFICACIA+EFICIENCIA=EFECTIVIDAD
+            MUY EFICIENTE MUY EFICAZ
+                Cumple los objetivos (en los tiempos apropiados)
+                administra bien los recursos (con la maxima economia)
+            MUY EFICIENTE POCO EFICAZ
+                administra bien los recursos 
+                pero no llega a los objetivos (al tardar demasiado?)
+            POCO EFICIENTE MUY EFICAZ
+                Logra los objetivos 
+                sin medir los recursos para alcanzarlos (hay derroche?)  
+            POCO EFICIENTE POCO EFICAZ
+               No llega a los objetivos 
+               no daministra bien los recursos 
+            [EFICACIA -> OBJETIVOS -> Tiempos]
+            [EFICIENCIA -> RECURSOS -> costos]
+            Diferencia entre eficiencia y eficacia en logística        
+            Aunque los términos de eficiencia y eficacia se han utilizado 
+            en la gestión empresarial durante décadas, 
+            todavía existe cierta confusión en el uso cotidiano, 
+            incluso utilizándolos como sinónimos.
+            Si bien las definiciones pueden parecer similares, 
+            se trata más bien de conceptos que se aplican 
+            a diferentes aspectos de la gestión y 
+            ! requieren un equilibrio para lograr los resultados deseados. !
+
+            Eficiencia en el sector logístico
+                La eficiencia se refiere a la búsqueda de 
+                una productividad u operativa interna 
+                que obtenga 
+                    los mejores resultados 
+                    utilizando la menor cantidad de recursos posibles. 
+                    En otras palabras, implica 
+                        lograr los objetivos 
+                            en el menor tiempo 
+                            y costo operativo posible.
+
+            Eficacia en el sector logístico
+                La eficacia, por otro lado, implica 
+                    lograr el mayor grado de satisfacción 
+                    de las necesidades reales del cliente.
+                    (no solo tiempo sino que tambien objetivos) 
+                Se refiere a proporcionar el servicio adecuado para cumplir 
+                    con las expectativas 
+                    y requerimientos del cliente.
+            
+            Para simplificar 
+                la eficiencia se relaciona con el cómo se llevan a cabo los procesos,
+                mientras que la eficacia se enfoca en lo que se brinda como servicio.
+                Es decir, 
+                    la eficiencia se centra en 
+                        los medios y en 
+                            lograr los objetivos 
+                            de manera eficiente, 
+                    la eficacia se enfoca en 
+                        la entrega de un servicio que cumpla con las expectativas del cliente.
+
+            Efectividad y calidad en el sector logístico
+                Además de la eficiencia y la eficacia,
+                también es importante considerar 
+                    la efectividad 
+                    y la calidad en la gestión logística. 
+                Estos son conceptos adicionales que representan 
+                    el equilibrio entre la eficiencia y la eficacia, 
+                    asegurando que lo que se hace 
+                        sea lo correcto 
+                        en el momento adecuado 
+                        y al menor costo posible.
+                Desde la perspectiva del cliente, 
+                    la eficacia tiene más peso al contratar un servicio logístico, 
+                    ya que se espera que las mercancías se entreguen 
+                        en tiempo, 
+                        en una forma adecuada 
+                        y que el servicio cumpla con lo acordado.
+                Sin embargo, es importante tener en cuenta que 
+                    (desde la prespectiva de la empresa?)
+                    tanto la eficacia como la eficiencia 
+                    son consideraciones relevantes para los clientes ?las empresas?
+                    y la competencia en un entorno empresarial cada vez más exigente.
+    PRECIO COSTO VALOR
+        Diferencias entre precio, valor y costo
+            entre la cantidad de dinero que gastamos en 
+                adquirir alguna mercancía (precio),
+            lo mucho que nos sirve o nos gusta (valor) 
+            y lo que se invierte para producirla (costo).
+        PRECIO
+            Dinero que el consumidor debe pagar por un producto o servicio
+        VALOR   
+            Estimacion o percepcion 'social'
+            que cada usuario le otorga a un producto o servicio
+            Depende de factores como
+                la utilidad 
+                comodidad 
+                diseno 
+                elegancia..etc  
+       COSTO 
+            Dinero que una empresa invierte para 
+                disenar 
+                producir
+                distribuir
+                y vender un producto  
+    COSTOS Y GASTOS LOGISTICOS 
+        Las empresas para realizar su función recurren a 
+            gastos 
+            y costos. 
+        que es necesario tener en cuenta para 
+            la buena organización 
+            y administración.
+        El análisis del costo total es la clave
+             para gestionar la función logística 
+             y poder mantener un equilibrio.
+        GASTO
+            (es el egreso o salida de dinero)
+            Son aquellos pagos efectuados o por efectuar que la empresa 
+            tiene que realizar para llevar a cabo sus operaciones, 
+            ? aunque no haya salida de dinero inmediatamente. ?
+            y obligatorio para que la empresa funcione 
+        COSTO 
+            (gastos adicionales para operar)      
+            Es el gasto que se realiza para llevar a cabo las actividades operativas.
+            Los costos son los gastos que se van incorporando al proceso productivo, 
+                por ejemplo:
+                    La adquisición de un camión provoca un gasto, que se transforma en costo 
+                    a medida que su amortización es incorporada al proceso operativo.
+        COSTOS LOGISTICOS
+            Son todos los gastos incurridos en 
+                el transporte del producto,
+                     desde la obtención de materias primas 
+                     hasta la entrega de los pedidos de los clientes 
+                     y todos los pasos intermedios.
+            CATEGORIAS
+                Costos de aprovisionamiento (compras)
+                Costos de almacenamiento
+                Costos de inventario
+                Costos de transporte
+                Costos de distribución
+                Costos de personal               
+    EMBALAJES EN LOGÍSTICA
+        EMBALAJE 
+            Todo aquello necesario en el proceso de 
+                    acondicionar los productos para 
+                    protegerlos,
+                    y/o agruparlos de manera temporal pensando en
+                        su manipulación, 
+                        transporte 
+                        y almacenamiento.
+            Es el contenedor de un producto que fue 
+                diseñado 
+                y producido para 
+                    protegerlo 
+                    y preservarlo durante 
+                        su traslado, 
+                        almacenamiento 
+                        y entrega al cliente final. 
+                Es de gran utilidad para diferenciar al producto o marca.
+        ASPECTOS A CONSIDERAR EN LA ELECCION DEL EMBALAJE
+            formato adecuado al producto que contiene 
+            Proteccion sin sobrecoste 
+            Facil de manipular
+            Sostenibilidad economica
+            Compromiso mediambiental 
+            imagen de marca 
+        TIPOS DE EMBALAJE 
+            El tipo de embalaje para un determinado producto tiene implicaciones 
+            que van más allá de la protección del mismo. 
+                El tamaño, material y diseño de los embalajes 
+                    ejercen un impacto directo en 
+                        los costos ligados 
+                            al almacenaje 
+                            y al transporte, 
+                        además del efecto del aspecto estético en el cliente. 
+            Por tanto, las decisiones de la elección del embalaje 
+                primario, secundario y terciario poseen
+                un marcado carácter estratégico para la empresa.
+            EMBALAJE PRIMARIO envase
+                Embalaje primario, de venta o unidad de consumo
+                también conocido como embalaje principal o embalaje minorista, 
+                está en contacto directo con el producto. 
+                es la primera capa o material que
+                    envuelve 
+                    y protege el producto.
+                define la unidad de consumo más pequeña, 
+                facilitando la venta unitaria del producto. 
+                Está en contacto directo con el artículo 
+                y sirve para mantenerlo en condiciones óptimas. 
+                Toma formas muy diversas: 
+                    latas, botes, sacos, botellas, bolsas.
+                FUNCIONES DEL EMBALAJE PRIMARIO 
+                    Identificar el producto según las normativas vigentes 
+                    y mostrar la información de uso, 
+                    así como otros datos fundamentales como 
+                        la fecha de caducidad.
+                        info nutricional
+                        la marca
+                    Dependiendo del producto, también debe cumplir 
+                        con el importante papel de identificar la marca 
+                        y generar una mayor atracción del consumidor.
+                        Asegurar que mantenga una posición estable 
+                            en la ubicación de venta en la tienda (que no se caiga).
+                        Garantizar el aislamiento del contenido.
+                        Proteger el producto con el mínimo material posible.            
+            EMBALAJE SECUNDARIO empaque 
+                El embalaje secundario es una agrupación de embalajes primarios. 
+                Añaden 
+                    una mayor protección 
+                    y facilitan la comercialización del producto a una mayor escala. 
+                Son, sobre todo, 
+                    las cajas de cartón 
+                    (también podrían ser de plástico). 
+                Por ejemplo, en el caso de la leche, 
+                    una caja individual sería un embalaje primario 
+                    y la caja de cartón que contiene el pack de diez unidades
+                    representaría un embalaje secundario.
+                FUNCIONES DEL EMBALAJE SECUNDARIO 
+                    resistente 
+                        al apilado (en la bodega y en el punto de venta) 
+                        y a la manipulación durante el transporte,
+                        asegurando que el producto no sufra daños.
+                        (senaletica fragil,apilado,unidades)
+                    Contener una cantidad concreta de productos.
+                    Atraer la atención del cliente, 
+                        especialmente en aquellos embalajes secundarios 
+                        destinados directamente a la venta al público.
+            EMBALAJE TERCIARIO embalaje
+                El embalaje terciario es el que reúne embalajes 
+                    primarios 
+                    y secundarios
+                para así crear una unidad de carga mayor cuya forma más extendida son 
+                    los pallets o contenedores (no containers)
+                    y las cajas de cartón modulares que los conforman.
+                FUNCIONES DEL EMBALAJE TERCIARIO
+                    Ser estable 
+                    y permitir la compactación de las cargas.
+                    Aprovechar al máximo la capacidad de almacenaje 
+                        de las instalaciones 
+                        y los vehículos industriales.
+                    Estar fabricados con materiales resistentes.
+                    En ocasiones, el embalaje terciario también puede desempeñar un papel relevante
+                    en relación con la imagen de marca. 
+
+                    En este contexto logístico, cabe destacar el papel de la unidad de carga. 
+                    Se trata de la unidad básica que utiliza la empresa en 
+                            el transporte 
+                            y almacenaje de sus productos. 
+                    Pueden ser 
+                        pallets, cajas, contenedores, bidones, bobinas, 
+                        grandes recipientes para productos a granel (GRG, IBC) 
+                        o sacos.
+                        
+                    En una misma instalación de almacenaje pueden convivir distintas unidades de carga 
+                    diferenciadas 
+                        por zonas 
+                        y con distintos tipos de estanterías adaptadas a cada una de ellas.
+
+            FACTORES QUE DETERMINAN LA ELECCION DEL EMBALAJE
+                La elección del mejor embalaje busca 
+                    reducir los costos 
+                        directos 
+                            (compra de materiales y gestión de residuos) e 
+                        indirectos 
+                            (proceso de packing, manipulación, almacenamiento y pérdidas por daños).
+
+                Destacamos los principales aspectos que condicionan la selección de 
+                los distintos tipos de embalaje:
+                
+                LAS CARACTERISTICAS DEL PRODUCTO 
+                    el estado en que se presenta (líquido, sólido o gaseoso), 
+                    peso
+                    volumen, 
+                    fragilidad, 
+                    estabilidad (si se deforma o se mantiene rígido), 
+                    si es perecedero o no, 
+                    nivel de peligrosidad 
+                    y valor del producto.
+                EL PROCESO DE PRODUCCION Y EMBASADO determinará 
+                    qué tipo de embalajes primarios y secundarios pueden emplearse. 
+                    También tendrá formatos diversos dependiendo de si 
+                        el envasado y empaquetado se realizan
+                            manualmente 
+                            o de manera automática.
+                LA MANIPULACION EN EL TRANSPORTE Y ALMACENAJE]: 
+                    hay que tener en cuenta múltiples aspectos como 
+                        la altura de apilado que debe soportar, 
+                        el tiempo que va a estar almacenado, 
+                        los diferentes métodos de transporte que usa la empresa, 
+                        el número de cargas y descargas que va a sufrir, 
+                        la temperatura y humedad ambiental a la que se ve sometida 
+                            el producto en las operaciones de
+                                almacenamiento 
+                                y transporte.
+                EL IMPACTO MEDIO AMBIENTAL 
+                    que tienen los residuos que genera el embalaje 
+                    y las opciones para su reciclado o reutilización.
+                PUNTO DE VENTA 
+                    hay que considerar dónde se va a emplazar en el establecimiento físico 
+                    y qué manipulación va a requerir. 
+                    Por otro lado, si se trata de comercio electrónico, 
+                        conviene cuidar la experiencia de desempaquetado 
+                        ya que es el primer contacto físico del cliente 
+                        con la marca y el producto.
+                LEGISLACION NORMATIVA QUE REGULA LAS CARACTERISTICCAS DEL EMBALAJE
+                    como las normas técnicas estándares como UNE o ISO, 
+                    normativas de transporte internacional
+                    (Norma Internacional para Medidas Fitosanitarias N.º 15 o NIMF-15),
+                    legislación relacionada con el medio ambiente 
+                    o las regulaciones que afectan 
+                        a la manipulación 
+                        y marcado de mercaderías peligrosas 
+                            como el Acuerdo Europeo sobre el Transporte Internacional de 
+                            Mercaderías Peligrosas por Carretera, ADR.
+                ESTANDARIZACION DE LAS MEDIDAS DEL EMBALAJE
+                    Una de las principales ventajas de la estandarización de medidas es 
+                        el aprovechamiento del espacio en todas las etapas de la cadena de suministro 
+                        desde la producción 
+                        hasta el transporte,
+                        pasando por el almacenamiento. 
+                    De ahí la generalización del uso del pallet como embalaje terciario 
+                    base para la compactación de cargas.
+                    A partir de ahí, una mejora que implementar es el acuerdo entre 
+                        proveedores, operadores logísticos, distribuidores y puntos de venta para 
+                            elegir embalajes con dimensiones que se correspondan con el tamaño modular 
+                            (múltiplo de euro-pallet) de 
+                            600x400mm (1/4 respecto al pallet europeo) 
+                            600x800mm (la medida de 1/2 pallet europeo) 
+                            300x400mm (1/3 de un pallet europeo). 
+                    Esto optimiza el apilado de cajas sobre los pallets 
+                    y permite aprovechar al máximo el espacio disponible en 
+                        bodegas y vehículos de transporte.
+
+                EMBALAJE EFICIENTE
+                    Para identificar los puntos de mejora en la gestión,
+                    es recomendable 
+                        clasificar los distintos tipos de embalaje
+                            primario, secundario y terciario 
+                        y estudiar 
+                            cómo 
+                            y a quién afecta una posible modificación 
+                                en cada uno de ellos.
+                    En el ámbito industrial, conviene evaluar 
+                        el grado de optimización del embalaje 
+                        en función 
+                            del material del que está compuesto,
+                            del transporte, 
+                            de la manipulación 
+                            y almacenaje, 
+                            de la gestión de residuos 
+                            y del costo que acarrea.
+                    Solo con una visión global del proceso se podrá elegir el tipo de 
+                    embalaje logístico mejor adaptado a la realidad de la empresa
+        TIPOS DE ALMACENES
+        ALMACEN 
+            es el lugar en donde se conserva la mercancía 
+            durante el tiempo que transcurre 
+                entre su producción 
+                y su envío al cliente. 
+        De esta forma, se debe asegurar 
+            un flujo continuo 
+            y actualizado 
+                de mercancías 
+                e información 
+                    que permita garantizar que 
+                        la cadena de suministro funciona correctamente, 
+            y esta labor corresponderá, entre otras muchas, al almacén. 
+
+        Tipos de almacén según el grado de logística 
+            Existen varios sistemas para clasificar los diferentes tipos de almacenes. 
+            Estos se pueden catalogar, según 
+                su funcionalidad, 
+                ubicación respecto a los centros de fabricación, 
+                proveedores o clientes finales, 
+                tipo de construcción, 
+                técnica o método de almacenamiento utilizado o, 
+                incluso, por el grado de automatización.  
+
+                Una de las clasificaciones más utilizadas de un almacén 
+                está relacionada con la función logística para la que 
+                    ha sido construido 
+                    y organizado. 
+                Entre ellas encontramos 4 grandes tipos:
+          + Almacenes Central o regulares
+                Son almacenes que se encuentran lo más cerca posible del centro
+                de fabricación, aunque en la actualidad no siempre es posible,
+                debido a la globalización de las industrias y otras causas. 
+                Por general se trata de almacenes de gran tamaño, 
+                desde donde se gestiona una gran cantidad de mercancías, 
+                que luego se distribuyen entre almacenes más pequeños.
+                En estos almacenes centrales se reciben mercancías de 
+                las distintas fábricas y, una vez gestionado el stock,
+                pasan a disponibilidad para venta.
+
+          + Almacenes Regionales
+                        Son almacenes que, en funcionamiento y organización logística, 
+                        son muy parecidos de los almacenes centrales o reguladores. 
+                        La diferencia principal es que se ubican en una zona de expedición 
+                        menor, para poder cubrir las necesidades de un ámbito
+                        geográfico concreto, y así poder distribuir los productos más rápidamente.
+
+          + Almacenes de Tránsito
+                (Conectan almacenes centrales con regionales)
+                Este tipo de almacén se crea cuando 
+                    la distancia o posibilidad de conexión entre 
+                    los almacenes regionales y los de tránsito 
+                    impiden llevar la mercancía con la celeridad 
+                    necesaria al cliente final. 
+                    Es decir, actúan como punto intermedio entre 
+                        el almacén regional 
+                        y el centro de consumo.
+
+          + Almacenes Temporales  
+                Como su nombre indica, se utilizan para almacenar 
+                stock u otro tipo de materiales de forma temporal. 
+                Se usan, sobre todo, durante aquellas temporadas 
+                donde la demanda de un producto es más elevada. 
+                De esta forma, se consigue generar un stock avanzado  
+                para 
+                    ganar tiempo 
+                    y evitar que haya roturas en la cadena de suministros.
+                    (quiebre de stock)
+  
+            A la hora de decidir qué tipo de almacén crear e implementar 
+                debemos valorar, de manera integral, diferentes aspectos:
+                Funciones concretas dentro de la logística.
+                Características de la instalación:
+                     ubicación geográfica, metros cúbicos disponibles, 
+                     tipos de estanterías, etc.
+                Logística propia de cada empresa: 
+                    tipo de producto, rotación, carretillas 
+                    y otros equipos de manutención o metodología de almacenamiento,
+                    sistemas de preparación de pedidos (picking),
+                    funcionamiento de la logística inversa, etc. 
+                Cada tipo de almacén y organización logística 
+                tiene sus propias ventajas e inconvenientes. 
+                La clave está en encontrar el sistema que más se adapte a 
+                las necesidades de cada empresa, teniendo en cuenta factores como 
+                    la distancia entre las plantas de fabricación 
+                    y los consumidores finales,
+                    el tipo de artículo,
+                    rotación de stock 
+                    y un largo etcétera. 
+    SISTEMA DE ADMINISTRACIÓN DE ALMACENAMIENTO
+        DEFINICION 
+            La Administración de Almacenaje es
+            Aquella que se dedica a  
+                aplicar las normas necesarias para 
+                la conservación de 
+                    los materiales +
+                    y productos, 
+                verificando el cumplimiento de estas disposiciones al interior de las bodegas.
+        TIENE 2 SENTIDOS 
+            un sentido normativo 
+                (promueve 
+                    políticas 
+                    y procedimientos de gestión 
+                    al interior de una central de distribución), 
+            y por otro lado, un sentido de control 
+                (en razón 
+                    del monitoreo,
+                    registro 
+                    y evaluación 
+                    de los procesos sucedidos de manera práctica). 
+        ES UN PROCESO
+            horizontal 
+            y continuo 
+                que desde 
+                    la gestión de ingreso de los recursos, 
+                    su acopio bajo normativas de conservación, 
+                    y el planeamiento previo a 
+                        su distribución al cliente 
+                        o a otro espacio de recepción. 
+        REQUIERE
+            un planeamiento estratégico 
+                o sea permite establecer los pasos a seguir 
+                para conseguir determinados objetivos que 
+                incluya el análisis de la gestión de los espacios disponibles, 
+                no obstante, sin importar lo exhaustivo o meticuloso del proceso, 
+                es imposible que los procedimientos planificados dejen de estar 
+                mediados por el azar y lo fortuito, en tanto siempre se sucederán:
+                        Despachos fuera de plazo
+                        Atrasos por parte de los proveedores
+                        Problemas en el traslado de los recursos
+                        Retrasos por carencias de stock
+
+                Esto requiere que el proceso de Administración de Almacenaje,
+                en relación a la gestión de los espacios disponibles, 
+                implique 
+                    capacidad de sortear constantes imprevistos 
+                    y la necesidad imperativa del traslado de artículos 
+                        a lugares más convenientes dentro de la misma central 
+                        o inclusive a otros lugares, 
+                            con la finalidad de dejar espacios disponibles a mercaderías
+                            con características prioritarias
+        PROCEDIMIENTOS DEFINIDOS 4                    
+            La Administración de Almacenaje,requiere que la empresa cuente 
+            con 4 (cuatro) procedimientos definidos para su gestión:
+                Recepción de Mercaderías
+                Almacenamiento
+                Despacho de Productos
+                Registros
+            1-RECEPCION DE MERCADERIAS
+                A TENER EN CUENTA 
+                    Que la mercaderia este solicitada 
+                    Entrega en fecha y horario acordados 
+                    Vehiculo idoneo y en condiciones 
+                    Comportamiento personas externas 
+                    documentacion exigida 
+                        factura 
+                        Guia de despacho 
+                        Orden de compra 
+                            revisar los datos correctos
+                                fecha
+                                rut 
+                                razon social 
+                            detalle debe coincidir en la orden de compra    
+                                cantidades 
+                                productos 
+                                valores
+                            mercaderia 
+                                que coincida con la documentacion
+                                    cantidades 
+                                    productos 
+                                calidad aceptable
+                                    sin dano 
+                                    limpia 
+                                    fecha de vencimiento aceptable 
+                                si aplica 
+                                    inspeccion 
+                                    y analisis de muestra        
+                    si hay detalles 
+                        anotar en observacion  
+                            por falta cantidad
+                                nota de credito 
+                                para descontar items del cobro 
+                    tomar decision de aceptar o rechazar
+                        al rechazar verificar 
+                            impacto negativo
+                            la estetica es irrelevante frente a un 
+                            posible quiebre de stock
+                            (dejar observacion)
+                        firmar
+                        timbrar
+                        quedarse con una copia
+                RECEPCION
+                    materiales, 
+                    suministros, 
+                    artículos 
+                    o cualquier otro bien que la empresa reciba, 
+                    comprobando fehacientemente que dichos productos cumplan 
+                            cualitativa 
+                            y cuantitativamente 
+                                con el set de especificaciones propuesto 
+                                    en la orden de compra, 
+                                    factura de recepción 
+                                    o guía de despacho del proveedor que envía la carga, 
+                    y rechazando todos y cada uno de los elementos antes citados 
+                    que no cumplan 
+                            con las especificaciones 
+                            o presenten deterioro debido al proceso de despacho.
+                REGISTRO
+                        Este procedimiento también incluye 
+                                tomar registro 
+                                e informar al Departamento de Adquisiciones 
+                                o al Jefe Administrativo 
+                                (según corresponda las cadenas de mando de la organización), 
+                            cualquier irregularidad que suceda en el proceso antes citado.
+                CONTROL
+                        La recepción de mercaderías o productos está 
+                        directamente asociada con el Control de ingreso de materiales 
+                            a la bodega, 
+                            central de distribución o almacenamiento. 
+
+                        Es decir, el proceso de recepción es clave para para 
+                            el monitoreo 
+                            y seguimiento 
+                                de los productos, 
+                                mercancías, 
+                                insumos y bienes
+                                    que se incorporan al stock vigente de la empresa. 
+                RESPONSABILIDAD
+                        Por lo tanto, la persona que realiza la Recepción 
+                        de los productos en la Bodega 
+                        (funcionario responsable de la gestión de ingreso de productos), 
+                        es en quien recae la responsabilidad de recibir 
+                            materias primas,
+                            repuestos,
+                            mercaderías,
+                            materiales 
+                            y otros insumos adquiridos por la empresa. 
+
+                        Durante el proceso de recepción de la mercadería en la empresa,
+                        el receptor de la bodega debe comunicarse con algún funcionario 
+                        representante de la División o Departamento que solicitó el producto, 
+                        comprobando que lo expuesto en la Orden de Compra concuerda con lo recibido.
+                INSPECCION LOGISTICA Y TECNICA
+                        Lo anterior tiene por finalidad realizar una inspección
+                            tanto logística 
+                                (a cargo del receptor de la bodega, experto en la gestión de ingreso 
+                                y documentación), 
+                            como técnica 
+                                (a cargo del funcionario especialista en las características del 
+                                producto adquirido), 
+                            cuando sea necesaria una revisión técnica,
+                                (el Receptor de Bodega) 
+                                debe solicitar la inspección del funcionario solicitante de la compra.
+                FECHA Y HORA
+                    Además, es necesario y pertinente 
+                        llevar registro de fecha y hora de la Recepción de la Mercadería,
+                        para controlar de mejor modo los ingresos 
+                        (debe adjuntarse a la Orden de Compra o a la Nota de Pedido).
+                RESPONSABILIDAD COMPARTIDA
+                    Por último, en relación a las responsabilidades sucedidas 
+                    en el proceso de recepción de mercaderías, 
+                    es pertinente aclarar que existen responsabilidades 
+                        tanto para el Proveedor 
+                            (Responsabilidades de entrega en plazos y calidad propuestos), 
+                        como para la Empresa 
+                            (Controlar el ingreso de mercaderías 
+                            y rechazar las que no cumplan con el Set de Especificaciones 
+                            necesarios para cumplir con los requerimientos que de ellos 
+                            se tiene en la organización). 
+                    ORGANISMO                       RESPONSABILIDAD
+                    PROVEEDOR(entrega productos)    Entregar productos en buen estado
+                    EMPRESA (recibe productos)      Revisar y rechazar todo aquello que no 
+                                                    venga en perefectas condiciones
+                PROCEDIMIENTO RECEPCION
+                    El procedimiento de Recepción de Materiales incluye toda forma 
+                    en la cual ingresen productos a la empresa, durante la ejecución 
+                    de dicho procedimiento el personal de Bodega o personal de Recepción 
+                    es el responsable de la recepción de todos los insumos o enseres que 
+                    ingresen al espacio físico o instalaciones de la empresa, siempre y 
+                    cuando cumplan con alguna de las siguientes características 
+                    o pertenezcan a alguna de las siguientes categorías: 
+                        1- Que sean adquiridas por la empresa 
+                                (manufacturadas por un tercero). 
+                        2. Que sean semi-elaboradas en la empresa y que deban almacenarse 
+                                hasta ser requeridas posteriormente. 
+                        3. Que hayan sido enviadas fuera de la empresa 
+                                (o a otra sucursal), para recibir algún tratamiento especial.
+                    NO RECOMENDABLE
+                        No es recomendable guardar o almacenar” productos o enseres de 
+                            proveedores o clientes (tanto internos como externos) 
+                            que no pertenezcan a las 3 categorías antes citadas 
+                            (con excepción de las autorizadas por agentes internos 
+                            que tengan por fin 
+                                la mejora de los procesos empresariales 
+                                y que se hagan responsables de la decisión sucedida), 
+                            ya que esto 
+                                reducirá los espacios de almacenaje de productos prioritarios 
+                                o redestinará recursos en tareas que no son propias del giro empresarial.
+                    PASOS
+                        El procedimiento para la recepción de materiales se estructura 
+                        a razón de los siguientes pasos:
+                        1.- Cuando la empresa requiere un producto por parte de un proveedor,
+                            emite una Orden de Compra (documento que indica la especificación 
+                                cualitativa 
+                                y cuantitativa 
+                                    de los productos a adquirir), 
+                                        la cual es producida por 
+                                            el Área o Departamento de Adquisiciones 
+                                        y remitida 
+                                            a la Bodega para que se tome registro de las especificaciones 
+                                            de la mercadería o producto que se recepcionará para su 
+                                            posterior acopio 
+                                                cantidad,
+                                                código,
+                                                calidad,
+                                                especificaciones técnicas, 
+                                                proveedor 
+                                                y fecha de recepción.
+                        2.- DOCUMENTOS 
+                                Al momento de la recepción de la mercadería o producto enviada por 
+                                el proveedor a la bodega, 
+                                    el personal de Recepción exigirá la Guía de Despacho 
+                                        (documento que define las especificaciones de los productos 
+                                        que adjunta). 
+                                    Debe existir absoluta correspondencia 
+                                        entre los expuesto en la Orden de Compra 
+                                        y la Guía de Despacho. 
+                        3.- CHEQUEO 
+                                El personal de recepción deberá 
+                                chequear la coherencia de los 2 documentos anteriormente mencionados, 
+                                como también deberá verificar que las mercaderías o productos recepcionados
+                                físicamente correspondan a lo expuesto en los documentos.
+                        6.- CONTROL CALIDAD
+                                Por último, el personal de Recepción de Mercadería o productos 
+                                deberá realizar un proceso de control de calidad a los envases 
+                                y envoltorios de los productos recepcionados, 
+                                en tanto, los daños o roturas a ellos pueden ser indicios de mermas 
+                                en la calidad de la mercadería. 
+                        4.  FIRMA Y ARCHIVO 
+                                Luego de la revisión conforme de los productos recibidos, 
+                                el personal de Bodega deberá 
+                                    firmar la Guía de Despacho, en su versión original y con copia; 
+                                    entregará la copia del documento al encargado del transporte, 
+                                    y archivará el original al interior de la empresa.
+                        5.- SI NO CUMPLE 
+                                El personal de la Bodega revisa la mercadería y si ésta 
+                                    no cumple con las especificaciones 
+                                    o no se encuentra en condiciones óptimas de recepción, 
+                                        se procede a lo siguiente según sea el caso sucedido: 
+
+                                    1 - Recepción parcial por cantidad inferior 
+                                        (la mercadería cumple los estándares de calidad, 
+                                        pero la cantidad de stock es menor a la informada 
+                                        en la Guía de Despacho), se especifica en la Guía de Recepción. 
+
+                                    2 - Recepción parcial por rechazo 
+                                        (la mercadería cumple el stock necesario, 
+                                        pero algunos productos no cumplen con los estándares de calidad 
+                                        requeridos, por lo que deben ser devueltos), 
+                                        se especifica en la Guía de Recepción. 
+
+                                    3 - Devolución de guía y materiales 
+                                        (Debido al no cumplimiento de 
+                                            Stock mínimo necesario 
+                                            o falencias severas en la calidad de los productos recibidos),
+                                            se informa al proveedor el rechazo de la carga. 
+                VIDEO
+                    https://www.youtube.com/watch?feature=shared&v=_3OobXetjs8&ab_channel=CurriculumMineduc
+        VIDEO
+            https://www.youtube.com/watch?v=6hwb8GToDnc
+    INDICADORES DE GESTION
+            2-ALMACENAMIENTO
+                Almacenar, 
+                acopiar, 
+                reunir 
+                y resguardar 
+                    los insumos, 
+                    enseres, 
+                    artículos 
+                    y materiales, 
+                        bajo condiciones 
+                            apropiadas 
+                            y pertinentes 
+                                que los mantengan en condiciones ideales para su posterior utilización. 
+                INFORMAR ANOMALIAS
+                    Además, este procedimiento incluye informar a los responsables 
+                    en las cadenas de mando sobre situaciones anómalas, 
+                    tales como: 
+                        problemas en las dependencias de la bodega, 
+                        faltas a la seguridad del espacio, 
+                        personas o animales extraños al interior de la central,
+                        irregularidades en los servicios eléctricos, de gas, 
+                        u otros que puedan atentar a la seguridad de la carga o de los operarios,
+                        
+                        necesidades de inspección en prevención de riesgos, 
+                        en materias como 
+                            techumbres,
+                            pisos 
+                            u otros aspectos que afecten la movilidad de los productos 
+                            al interior de la bodega, entre otras situaciones.
+                PROCESO
+                    Este proceso se refiere 
+                        al acopio,
+                        guardado 
+                        y resguardo de 
+                            las especies, 
+                            artículos 
+                            o materiales al interior de la Bodega de la empresa. 
+                    La clave consiste en el desarrollo de procedimientos de almacenamiento 
+                    que tengan por objetivo el cuidado de la integridad de los productos, 
+                        manteniéndolos en condiciones óptimas, 
+                        Y con stock 
+                        y ordenamiento preciso 
+                            para ser despachados cuando sea necesario de manera eficiente. 
+
+                    Para que el procedimiento de almacenamiento de artículos sea eficaz y eficiente, 
+                    es muy importante que el personal de la Bodega deba regirse de acuerdo 
+                        a los principios 
+                        y recomendaciones de las especificaciones de cada producto.
+
+                    Por último, es necesario recalcar que 
+                        luego de la recepción de la mercadería 
+                        y su correspondiente ingreso a la bodega, 
+                        el personal de la Bodega pasa a ser directo responsable 
+                            del resguardo 
+                            y control del stock de los productos a su cargo.
+                NORMAS 
+                    Normas para el almacenamiento y distribución de materiales 
+                    El procedimiento de almacenamiento y distribución de materiales 
+                    es un proceso complejo, en tanto en él confluyen múltiples variables 
+                    que influyen y condicionan la calidad del proceso. 
+
+                    A razón de ello, es fundamental trabajar bajo normas para un 
+                        correcto 
+                        y eficiente 
+                            aprovechamiento de los espacios físicos propios de la bodega,
+                    para una gestión temporal apropiada que dé 
+                        fluidez 
+                        velocidad a los procesos, 
+                        y proporcione un control 
+                            eficaz 
+                            y expedito de las mercaderías almacenadas
+                    Con el fin de tender a los objetivos anteriores, se necesario tener en consideración 
+                    las normas y recursos de recepción siguientes:
+                        1.- Contar con un área de recepción apropiada: 
+                            Es recomendable contar con 
+                                mesones amplios, 
+                                desocupados 
+                                y dispuestos para 
+                                    la recepción, 
+                                    revisión 
+                                    y despacho de la mercadería de manera cómoda y expedita.
+                        2.- Contar con estantes apropiados: 
+                            Para el almacenamiento y acopio de mercaderías es necesario 
+                            contar con 
+                                estanterías y casilleros apropiados para los requerimientos 
+                                    de los diferentes artículos presentes en la bodega, 
+                                como también contar con pasillos que 
+                                    faciliten el tránsito entre ellos 
+                                    y el traslado de los materiales.
+                        3.- Contar con medios de protección contra organismos vivos: 
+                            La bodega, al ser un espacio generalmente cerrado, 
+                            cuenta con condiciones de 
+                                nacimiento 
+                                y reproducción de organismos vivos 
+                                que pueden deteriorar las mercancías, 
+                            como hongos, bacterias, roedores e insectos. 
+
+                            Debido a esto, es necesario priorizar 
+                                la ventilación, 
+                                la reducción de la humedad, 
+                                el control de la temperatura, 
+                                la higiene, 
+                                y otros aspectos orientados a reducir la producción de ácaros.
+                        4.- Contar con implementos de Prevención de Riesgos: 
+                            La bodega debe disponer de 
+                                implementos 
+                                y medios orientados a la reducción de deterioros y daños de la mercadería, 
+                                como también insumos de seguridad, como son: 
+                                    extintores de incendio 
+                                    o redes húmedas.
+                        5.- Contar con registros específicos de resguardo por producto: 
+                            Los productos, en razón de sus especificaciones técnicas, 
+                            poseen diversas condiciones de acopio, lo cual debe ser gestionado 
+                            de manera diferenciada, controlando: 
+                                Luz, 
+                                calor, 
+                                humedad, 
+                                entre otros factores. 
+                        6.- Contar con accesos restringidos: 
+                            Es necesario que los accesos al interior de la bodega sean restringidos 
+                            a toda persona o funcionario ajeno a las labores propias de la bodega; 
+                            toda vez que el ingreso de una persona extraña puede 
+                                alterar el normal funcionamiento del espacio, 
+                                y/o entorpecer los procesos que se suceden en dinámicas 
+                                    propias de la Central de Distribución. 
+
+                            Cabe destacar que, en casos de fuerza mayor, puede acceder un 
+                            funcionario externo, previa autorización del 
+                                Encargado de Bodega 
+                                o Jefe de Bodega.
+                        7.- Contar con procedimientos de acopio y apilamiento regulares: 
+                            Tan importante como el proceso de recepción de mercaderías, 
+                            es el proceso de acopio de los productos. 
+
+                            Es fundamental que el apilado de los materiales sea sobre Pallets 
+                                (estructuras de madera construidas con el fin 
+                                de crear distancia 
+                                    entre los productos 
+                                    y el suelo), 
+                                y nunca directamente sobre el piso de la bodega. 
+
+                            Esto evitará el deterioro en contenedores o envases, 
+                            producido por la absorción de la humedad del ambiente
+            3-DESPACHO 
+                Despachar, 
+                entregar 
+                o enviar 
+                    los artículos, 
+                    materiales, 
+                    e insumos, 
+                        a razón de
+                            las cantidades, 
+                            montos 
+                            y especificaciones técnicas, 
+                                establecidas y especificadas en el documento de solicitud 
+                                    de abastecimiento 
+                                    en otro documento que la empresa que
+                                        establezca como válido para tomar registro del procedimiento. 
+
+                El procedimiento de despacho se refiere 
+                    al envío de
+                        productos, 
+                        artículos 
+                        o materiales 
+                        desde la bodega de la empresa, generalmente, a 
+                            un cliente externo (comprador de la mercadería) 
+                            o interno (funcionario de la misma organización que requiere 
+                                        un insumo para su labor). 
+
+                Para que el proceso antes mencionado suceda con normalidad, 
+                el personal de la Bodega debe solicitar 
+                    la orden de entrega 
+                    (documento mercantil que indica los productos a ser llevados desde la bodega 
+                    a otra dependencia) al solicitante; 
+                    cabe destacar que el personal de Bodega, no debiera retirar ningún producto 
+                    de la Central de Distribución sin el documento necesario, 
+                    ya que de no cumplir con dicho proceso, el stock de la Bodega no tendrá solidez 
+                    (no habrá claridad de la cantidad de productos con que cuenta la empresa).
+                hay PROCESO Piccking y packing
+            4-REGISTRO 
+                DEFINICION 
+                    Tomar nota 
+                        escrita 
+                        y/o digital 
+                            del estado 
+                            y ubicación de 
+                                los productos 
+                                e insumos 
+                                    a cada momento al interior de la bodega, 
+                    como también, 
+                            mantener actualizados los registros 
+                                de monitoreo 
+                                y control de existencias, 
+                                con el fin de mantener información fidedigna de los bienes bajo custodia.
+                    Este proceso tiene por finalidad mantener 
+                        un control administrativo de la gestión de la bodega, 
+                        en todos sus procesos: 
+                            ingreso,
+                            acopio, 
+                            distribución 
+                            y despacho de materiales; 
+
+                            por lo tanto, es fundamental tener archivo de registro físico de,
+                            a lo menos, todos y cada uno de los siguientes documentos: 
+                                Copia de las Órdenes de Compra. 
+                                Notas de Recepción 
+                                notas de entrega de Mercaderías. 
+                                Mapa o Plano de la Bodega, que indique espacios utilizados y disponibles. 
+                                Plano de distribución de las áreas de almacenamiento de la Bodega. 
+                                Guías de Despacho de proveedores. 
+                                Guías de Ingreso de Mercaderías. 
+                    Es necesario recalcar que los documentos mencionados funcionan 
+                    como registro oficial de los movimientos de mercadería, 
+                    por lo que su gestión y organización responde a 
+                        procesos logísticos 
+                        y legales.
+                PROCESO
+                    Tomar nota escrita del estado y ubicación de los productos a 
+                    cada momento al interior de la bodega, con el fin de 
+                    mantener información fidedigna de los bienes bajo custodia. 
+
+                    El procedimiento de Recepción de Materiales incluye toda forma 
+                    en la cual ingresan productos a la empresa. 
+
+                    Durante la ejecución de dicho procedimiento el personal de Bodega 
+                    es el responsable de la recepción de todos los materiales que ingresen a la empresa. 
+                NORMAS
+                    Durante el Procedimiento de Almacenamiento y Distribución de Materiales 
+                    es fundamental trabajar bajo normas, dentro de las cuales figuran:
+ 
+                        Contar con un área de recepción apropiada.
+                        Contar con estantes apropiados.
+                        Contar con medios de protección contra organismos vivos.
+                        Contar con implementos de Prevención de Riesgos.
+                        Contar con registros específicos de resguardo por producto.
+                        Contar con accesos restringidos; 
+                        Contar con procedimientos de acopio y apilamiento regulares. 
+                RESPONSABILIDAD
+                    El sistema de Administración de Almacenamiento es un procedimiento 
+                    normativo y de control de existencias, que cuenta con procesos definidos, 
+                    de los cuales el responsable es el personal de Bodega.
+
+            EN RESUMEN
+                En resumen, los cuatro Procedimientos de Administración de Bodegas 
+                anteriormente desarrollados, poseen una lógica sistémica, 
+                en tanto son fundamentales para la gestión de las mercancías 
+                al interior de la organización y comparten importancia 
+                en la calidad de la logística de la empresa.
+
+                REGISTRO ----> RECEPCION,ALMACENAMIENTO,DESPACHO
+        CONCLUSION
+                La Administración de almacenamiento 
+                    dicta y aplica las normas necesarias para la conservación de los materiales, 
+                    y controla el cumplimiento de estas disposiciones al interior de las bodegas. 
+
+                La Administración de almacenamiento , requiere que la empresa 
+                cuente con los siguientes procedimientos definidos y estandarizados para su gestión: 
+
+                    Recepción de Mercaderías:
+                        Recepcionar materiales comprobando que dichos productos cumplan 
+                        con el set de especificaciones propuesto en la orden de compra 
+                        del proveedor que envía la carga, y rechazando los elementos 
+                        que no cumplan con las especificaciones necesarias. 
+                    Almacenamiento: 
+                        Acopiar, materiales bajo condiciones apropiadas y pertinentes que 
+                        los mantengan en condiciones óptimas para su posterior utilización. 
+                    Despacho de Mercaderías: 
+                        Enviar los materiales a razón de las especificaciones técnicas, 
+                        establecidas en el documento "solicitud de abastecimiento". 
+                    Registro    
+    INDICADORES EN LOGISTICA KPI
+        Se denominan indicadores o KPI logísticos 
+        (KPI por Key Performance Indicators) 
+        al vinculo de datos numéricos que muestran 
+            el rendimiento de una sucesión, 
+            al compararlo con un punto en 
+                el historial de la empresa 
+                o alguna otra métrica de referencia. 
+        Con estos indicadores es posible 
+            identificar los avances 
+                positivos 
+                o negativos, 
+                    de manera que se podrá actuar en consecuencia.
+        PERMITEN            
+            Los KPI logísticos permiten 
+            cuantificar el desempeño de una amplia variedad de procesos como:
+                Recepción de mercancías
+                Almacenaje
+                Preparación de pedidos
+                Gestión de inventarios
+                Expediciones
+                Entregas
+                Transporte 
+                y gestión de devoluciones. 
+        PARA QUE
+            Gracias a los indicadores logísticos se puede 
+                mejorar la productividad, 
+                optimizar los costos,
+                mantener la calidad del servicio.
+                o incrementar la calidad del servicio.
+        DEBEN SER    
+            ¿Cómo deben de ser los KPI?
+            Para alcanzar los objetivos que se plantean en una empresa, 
+            se debe tener en claro que la medición de los indicadores sea:
+                Relevantes: 
+                    con datos 
+                        significativos, 
+                        útiles 
+                        y claros.
+                Realistas: 
+                    que se realicen las condiciones en coherencia de 
+                        tiempo, 
+                        recursos 
+                        y presupuesto.
+                Cuantificables: 
+                    que se exprese en 
+                        números 
+                        o porcentajes, 
+                        y el resultado con cifras concretas.
+                Periódicos: 
+                    al recoger los datos se debe tener 
+                    una frecuencia que se determinará desde la definición del indicador.
+                Atribuibles: 
+                    se determinan responsables de mediciones a cada KPI 
+                    por lo que éstos, se deberán 
+                        reportar a las personas a cargo de 
+                            registrar 
+                            y analizar las mismas métricas.
+                Variables: 
+                    conforme a la función de 
+                        su validez 
+                        y necesidad, 
+                    los indicadores deben estar asociados a 
+                        variables temporales 
+                        o permanentes.
+                Consistentes: 
+                    para que sea posible la comparación de resultados, 
+                    se utilizará siempre la misma fórmula.
+        LOS MAS IMPORTANTES
+            Ya que existe variedad de indicadores, 
+            la empresa debe analizar su línea de negocio, 
+            así como sus procesos para implementar 
+                los más adecuados 
+                y convenientes para la compañía. 
+            A continuación, se presentan los indicadores relevantes 
+            en la gestión de la logística:
+                De producción
+                    Para determinar el grado de eficiencia de la empresa 
+                    en los aspectos relacionados a su función de fabricación.
+                        Capacidad máxima de producción
+                        Capacidad de producción utilizada
+                        Rendimiento de equipos
+                        Rotación de bienes y productos
+                        Costos de control de calidad
+                        Estado de la producción
+                De almacenamiento e inventario
+                    Ayuda a tener idea exacta de lo que es apto en el inventario 
+                    y su función de almacén, 
+                    así también para su adecuación a las necesidades 
+                    en las cadenas de suministro.
+                        Costos de almacenamiento globales
+                        Costos de inventario globales
+                        Costo de unidad almacenada
+                        Costo del control de almacén
+                        Costo del control de inventario
+                        Costo del mantenimiento de instalaciones
+                        Estado del almacén
+                        Estado del inventario
+                De gestión de logística de abastecimiento y compra
+                    Para entender el rendimiento del sistema a utilizar en las áreas, 
+                    lo que permite 
+                        confirmar si los costos están siendo justificados; 
+                        y también facilita la detección de anomalías.
+                    Costos de abastecimiento globales
+                    Costos unitarios
+                    Costos de control de calidad
+                    Costos de certificaciones
+                    Estado de los pedidos a su recepción
+                    De transporte y distribución
+                    De entrega y servicio al cliente
+                De transporte y distribución
+                    Permite obtener visibilidad 
+                        en capacidad 
+                        y flexibilidad de respuesta en la cadena de suministro.
+                    Costos de transporte
+                    Costos operativos
+                    Costos unitarios
+                    Costos de exportación
+                    Estado en función de transporte
+                    Estado en función de distribución
+                De entrega y servicio al cliente
+                    Se dirige a los costos relacionados a 
+                        las operaciones con la fiabilidad alcanzada; 
+                        lo que tendrá resultado en la satisfacción del cliente.
+                    Costos por operación del centro logístico
+                    Costos logísticos globales
+                    Costos documentales
+                    Estado de las entregas
+        VIDEOS 
+            https://www.youtube.com/watch?v=HhnbRA8hIks&t=19s
+    LEAN MANUFACTURING
+        también llamado Lean Production, es 
+        un método de organización del trabajo 
+        que se centra en 
+        la mejora continua 
+        y optimización del sistema de producción mediante 
+            la eliminación de 
+                desperdicios 
+                y actividades que no suman ningún tipo de valor al proceso.
+        OBJETIVO
+            Su objetivo fundamental es el de 
+                minimizar las pérdidas que se producen en cualquier proceso de fabricación, 
+                y en utilizar solo aquellos recursos que sean imprescindibles. 
+            Así, eliminando el despilfarro 
+                se mejora la calidad 
+                y se reducen el tiempo de fabricación 
+                y los costes.
+            Dimensión humana de la estrategia
+                Una de las claves de éxito es su dimensión humana, 
+                puesto que las personas son el capital más importante de la empresa. 
+                Una cultura empresarial Lean implica 
+                    colaboración 
+                    y comunicación de todos los niveles de la empresa. 
+                Los trabajadores están en contacto permanente con el medio de trabajo, 
+                por lo tanto, son los primeros en 
+                    observar 
+                    y mejorar los problemas. 
+                sin el apoyo de las personas del equipo donde haya un clima adecuado,
+                    haciéndoles partícipes 
+                    y comunicando con exactitud lo que se espera de ellos 
+                        será imposible utilizar las técnicas de mejora 
+                        de los procesos que propone esta estrategia.
+        Conceptos clave del Lean Manufacturing
+            Si tu empresa está interesada en saber más sobre 
+            este concepto de estrategia empresarial, 
+            debes saber que hay tres aspectos sobre los que bascula la filosofía lean:
+            Efectividad: 
+                Una organización que desarrolla con éxito lean Manufacturing 
+                es una empresa que se enfoca en satisfacer las expectativas del cliente.
+            Eficiencia: 
+                Se utilizan los recursos oportunos, 
+                se mejoran los procesos para eliminar aquello que no aporta valor 
+                y por lo tanto se alcanza la máxima eficiencia.
+            Innovación: 
+                Una cultura empresarial donde los trabajadores son capaces de 
+                    identificar los problemas 
+                    y subsanarlos 
+                    y que cuenta con un liderazgo comprometido que 
+                        persigue la mejora constante, 
+                es una cultura que apuesta por la innovación.
+        Filosofía Lean Manufacturing
+            Son siete los principios que conviene aplicar a una empresa 
+            que persigue la filosofía Lean Manufacturing:
+                1. Hacerlo bien a la primera: 
+                    Lo que implica conseguir cero defectos. 
+                    Para ello hay que 
+                        detectar el problema 
+                        y solucionarlo desde el origen.
+                2. Excluir actividades que no añaden valor: 
+                    Se excluye todo lo que suponga 
+                        un despilfarro o desperdicio 
+                        y que no agrega valor añadido a la experiencia de cliente.
+                3. Mejora continua: 
+                    Se mantiene la calidad del producto o servicio 
+                    tratando de 
+                        reducir costes 
+                        y aumentar la productividad.
+                4. Procesos Pull: 
+                    Se produce según demanda puesto que la clave es evitar stocks.
+                5. Flexibilidad: 
+                    Es necesario ser capaz de producir diferentes tipos de productos 
+                    y ajustarse con exactitud a las cantidades.
+                6. Colaborar con los proveedores: 
+                    Construir relaciones con los proveedores 
+                    basándose en el largo plazo, 
+                    con acuerdos donde compartir 
+                        riesgo 
+                        y costes.
+                7. Cambio de enfoque de venta: 
+                    Desde el punto de vista Lean Manufacturing, 
+                    al cliente se le aporta 
+                        una solución 
+                        y no un producto o servicio. 
+                    Esta filosofía tiene que ser única para toda la organización.
+        Beneficios y ventajas del Lean Manufacturing
+            Gran variedad de empresas se interesa por esta técnica,
+            ya que hace que el flujo de valor se centre en cómo atraer el cliente. 
+            Confiar en esta metodología conlleva 
+                muchos beneficios 
+                y puede significar la supervivencia de muchas empresas en el medio y largo plazo.
+
+            El pensamiento Lean implica ventajas 
+                como el incremento de la productividad, 
+                mejora de la calidad, 
+                aumento de las ventas 
+                o del valor de la empresa, por citar alguno de ellos.
+
+            Es una cultura empresarial 
+                flexible, 
+                abierta a la mejora constante, 
+                    que implica lograr 
+                        en el tiempo justo 
+                        lo que quieres 
+                            con la cantidad 
+                            y calidad perfectas 
+                            y con el mínimo despilfarro
+
+            Si tuviéramos que resumir en dos líneas toda la forma de entender 
+            la organización desde la estrategia Lean Manufacturing, 
+            diríamos que es 
+                una cultura empresarial flexible, 
+                que está abierta a la mejora constante, 
+                que implica lograr en el tiempo justo aquello que 
+                    quieres obtener con 
+                        la cantidad 
+                        y calidad perfectas, 
+                        y que implica el mínimo despilfarro.
+        Herramientas Lean Manufacturing
+            Es interesante conocer las diferentes herramientas lean 
+            que son utilizadas en esta estrategia, por lo que vamos a citar 
+            cinco sistemas de producción que se guían de esta filosofía:
+                TQM (Total Quality Management): 
+                    gestión de la calidad total 
+                        aumentando la eficiencia de la producción 
+                        y optimizando plazos de entrega.
+                JIT (Just in time o justo a tiempo): 
+                    respetar este sistema será producir solo a demanda.
+                Kaizen: 
+                    el sistema que asegura la mejora continua.
+                TOC (Teoría de las restricciones o de las limitaciones): 
+                    se basa en encontrar el cuello de botella 
+                    para marcar el ritmo productivo de la cadena.
+                Andon: 
+                    sistema de gestión visual que permite 
+                    conocer a operarios y directivos 
+                        el avance de las mejoras 
+                        y su estado de aplicación.
+                SMED (Single-Minute Exchange of Die): 
+                    tiene como finalidad 
+                        reducir el tiempo de cambio de referencia en el 
+                        utillaje de máquinas de entornos productivos.
+                Value Stream Mapping (Mapeo de Flujo de Valor):
+                    se basa en un diagrama que permite 
+                        visualizar, 
+                        analizar 
+                        y mejorar 
+                            el flujo de la producción 
+                            y de la información, 
+                                desde el inicio del proceso 
+                                hasta la entrega al cliente.
+                Heijunka: 
+                    técnica lean que reduce las desigualdades en un proceso de producción 
+                    y minimiza las posibilidades de sobrecarga
+                KPI: 
+                    indicador clave del desempeño para 
+                        medir el nivel del desempeño de un proceso.
+                Kanban: 
+                    sistema de información en los puestos de trabajo para 
+                        definir, 
+                        gestionar 
+                        y mejorar servicios.
+                Reingeniería de procesos: 
+                    persigue la mejora a gran escala trabajando sobre 
+                    la redundancia de procesos.
+        VIDEO
+            https://www.youtube.com/watch?v=sgqMtZniB9M
+        ESTUDIA PUSH PULL    
+        l sistema Push y Pull son dos métodos de producción 
+        que se utilizan en la logística y que tienen un 
+        impacto directo en la gestión del inventario. 
+        En el sistema Push, el producto se fabrica con antelación,
+         es decir, antes de que se produzca la compra del producto.
+          Por lo tanto, este modelo está directamente relacionado 
+          con la predicción de la demanda, ya que es indispensable 
+          saber previamente y con la máxima precisión qué productos 
+          requerirán los clientes, cuándo y en qué cantidad. 
+          En cambio, el sistema Pull adapta la producción a la 
+          demanda efectiva, lo que significa que el producto se 
+          fabrica únicamente cuando se genera una compra, es decir,
+           una vez que la compañía recibe la solicitud por parte 
+           del cliente, al que se le da una fecha de entrega 
+           determinada. La adopción de este método, que no contempla
+            la disponibilidad de stock de producto terminado, 
+            es habitual en empresas especializadas en productos 
+            elaborados bajo demanda o completamente personalizados.
+             Es común, por ejemplo, en la industria del automóvil. 
+             La principal diferencia entre el sistema Push y Pull 
+             reside en el inicio del proceso de producción.    
+CLASE 1
+    18:57 20-11-2023
+    Los archivo estan en la plataforma
+    editar a resumen diario
+    -bienvenida / 1-PPT DE BIENVENIDA CURSO TÉCNICAS DE ADM. DE LOGÍSTICA
+    -tecnicas / 2-MODULO I TÉCNICAS ADMINISTRACIÓN DE LOGÍSTICA
+    -embalajes / 3-EMBALAJES EN LOGÍSTICA
+    -tipos de almacenes / 4-TIPOS DE ALMACENES    
+
+CLASE 2
+    19:08 21-11-2023
+    RESUMEN CLASE ANTERIOR
+    VIDEO envase empaque y embalaje en youtube
+    https://www.youtube.com/watch?v=zM81vLVuuBQ
+    2030 break
+    Trabajo practico 1 enviado al correo 	
+        tecnicas.adm.logistica@gmail.com
+
+CLASE 3
+    19:00 22-11-2023 
+    RETROALIMENTACION TRABAJO PRACTICO 
+    SISTEMA DE ADMINISTRACIÓN DE ALMACENAMIENTO
+    830 BREAK
+    2139 break 2200
+    VIDEO OPERACIONES DE ALMACENAMIENTO YOUTUBE
+        https://www.youtube.com/watch?v=6hwb8GToDnc
+
+CLASE 4
+    19:00 23-11-2023 
+    REPASO 
+    VIDEO
+        https://www.youtube.com/watch?feature=shared&v=_3OobXetjs8&ab_channel=CurriculumMineduc
+    INDICADORES DE GESTION
+        para el control debe haber info mayor a un ano 
+        auditorias mensuales y de cierre del ano
+        VIDEO
+        https://www.youtube.com/watch?v=HhnbRA8hIks&t=16s&ab_channel=EstrategiaenAcci%C3%B3nconIv%C3%A1nMart%C3%ADnezLima
+    SE VERAN KPI DE COSTOS
+    EJEM 
+        compra de vehiculo costo            25000
+        costo de envio y transporte         1000
+        costo de almacenamiento 6meses       500
+        costo instalacion accesorios         200       
+            gps camaras
+        costo interese prestamo             2000 
+        seguro                               1200
+        registro tramites                   300
+        combustible                         1500  
+        costo preventivo                    400
+
+        csto total adquisicion del vehiculo 32100 
+        indicador de la adquisicion
+
+        despues de un ano se hace un analisis 
+        cuantas mantenciones
+        se utilizo costo prevencion 
+        averias
+        combustible ...se vera en pantalla 
+        SE VERAN CASOS 
+            DE ROTACION DE PROD
+            DE ENTRADA Y SALIDA 
+            DE INVENTARIO
+            LIFO FIFO FEFO  
+            
+CLASE 5 
+    19:00 24-11-2023    
+    REPASO  
+    DESARROLLANDOP TRABAJO PRACTICO ARCHIVO EXCEL 1 
+    Profesora con intermitencia ( se aborta la clase antes de las 21hrs)
+CLASE 6
+    19:00 25-11-2023 
+    Trabajos practicos en linea en excel 
+    del 24 de nov 
+    del 25 de nov hoy 
+    enviados 
+CLASE 7 
+    19:00 26-11-2023 
+    Desarrollo del caso practico  
+    del 25 nov de excel
+    y analisis con profesora 
+    PPT 
+        7-LEAN MANUFACTURING
+CLASE 8
+    19:00 27-11-2023 
+    video lean manufacturin 9 la casa tollota
+    8-Supply chain management.pptm
+
+
+https://github.com/
+  git init
+  git add README.md
+  git commit -m "primer commit"
+  git branch -M main
+  git remote add origin https://github.com/yonarev/curso-logistica.git
+  git push -u origin main
+  git status
+    git add .
+git commit -m "Mensaje descriptivo de los cambios"
+git push origin <nombre_de_tu_rama>
+
+

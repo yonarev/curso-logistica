@@ -1,0 +1,77 @@
+Trabajo Practico 1 
+21/11/2023 
+Jorge Vera Videla
+
+1-  LOGISTICA DE ADMINISTRACION
+    Conjunto de actividades que permiten visualizar y 
+    planificar estrategias para optimizar todas las etapas 
+    en la cadena de suministro, desde el almacenamiento 
+    hasta la entrega de los productos al usuario final. 
+2-  LOGISTICA
+    Gestion en la cadena de suministro que 
+        planifica ,
+        implementa y
+         controla  el flujo de productos e informacion en la 
+    cadena de suministro desde el origen hasta el consumidor
+    buscando satisfacer los requerimientos del cliente.
+3-  ELEMENTOS ESCENCIALES LOGISTICA
+    Calidad,tiempo,productividad,
+    efectividad,eficacia,eficiencia
+    precio,costo y valor.
+4-  RELACION EFECTIVIDAD,EFICIENCIA,EFECTIVIDAD
+    la efectividad es la integracion de la eficacia y la eficiencia 
+    de manera de lograr los objetivos en un tiempo optimo 
+    con el menor costo posible
+        EFICACIA+EFICIENCIA=EFECTIVIDAD 
+5-  El objetivo es satisfacer los requerimientos del cliente final 
+    optimizando el tiempo y los recursos.
+6-  EFICIENCIA
+    refiere a lograr el objetivo propuesto administrando los recursos 
+    con el minimo costo. 
+    EFICACIA
+    Tiene relacion con cumplir con el objetivo en el menor tiempo posible 
+7-  PRECIO 
+    Es el dinero que se debe pagar por un producto o servicio
+8-  VALOR
+    Es una apreciacion subjetiva con respecto 
+    a un producto o servicio relacionado con 
+    la utilidad, comodidad y otras caracteristicas asociadas 
+    que son relativamente importantes para el usuario.
+9-  COSTO
+    Dinero invertido por la empresa para hacer llegar 
+    un producto al cliente. 
+10- COSTO Y GASTO
+    El gasto es dinero ocupado por la empresa para realizar sus operaciones logisticas .
+    El costo en un gasto en el proceso productivo por medio de una inversion de la empresa 
+11- EMBALAJE 
+    Es todo elemento imprescindible para presentar y protejer los productos  
+    para su manipulacion ,transporte y almacenamiento.
+    3 Aspectos a considerar son 
+        Tamano,volumen
+        aspecto imagen de marca
+        fragilidad (proteccion sin sobrecosto)
+        facilidad de manipulacion,
+        economia,
+        medioambiente y caracteristicas especificas de cada tipo de producto
+12- TIPOS DE EMBALAJES
+        Primario es el envase
+            Es el que tiene contacto directo con el producto como mcontenedor 
+        principal (con una imagen atractiva para el cliente)
+        secundario es el empaque
+            es la agrupacion de embalajes primarios que deben ser resistentes 
+            y contener una cantidad de productos 
+            (con una imagen atractiva para el cliente)
+        terciario es el embalaje propiamente tal 
+            contiene embalejes primarios y secundarios 
+            siendo una unidad de carga mayor palet 
+13- ALMACEN
+    Espacio asegurado en condiciones logisticas apropiadas donde se almacenan 
+    productos por un tiempo antes de llegar al cliente.
+14- TIPOS DE ALMACENES
+    Almacenes Centrales o regulares,Regionales,de Transito y Temporales 
+
+
+
+
+
+
