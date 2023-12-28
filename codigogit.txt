@@ -1,0 +1,21 @@
+RESPALDO NUBE
+    https://github.com/
+    echo "# curso-logistica" >> README.md
+    git init
+    //git add README.md
+    git add .
+    git commit -m "commit final"
+    git remote add origin https://github.com/yonarev/curso-logistica.git
+    git branch -M main
+    git push -u origin main
+    git status
+    -----------------------
+    git add .
+    git commit -m "ultimo commit final"
+    git push origin ultimo_commit
+    ----------------------
+    git reset
+
+    git pull origin administracionLogistica
+    git fetch origin administracionLogistica 
+    git merge administracionLogistica

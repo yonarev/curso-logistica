@@ -37,8 +37,6 @@ CONEXION
     clave EVA jove0
     Una vez dentro del EVA Pro Biobío, debes hacer click/pinchar el curso en el cual estás matriculado
     click en "Iniciar sesión SENCE"redirigido a la plataforma de asistencia de SENCE. para poder registrar tu asistencia.
-        10059036-0
-        Logisticonim0$
     luego en asistencia ir abajo a enlace de acceso en vivo.... 
     VIDEO CONEXION
         https://www.youtube.com/watch?v=KgsHmGfMY_I
@@ -88,7 +86,41 @@ OBJETIVOS ESPECIFICOS:
     Aplicar técnicas de administración de logística respetando 
         mecanismos de control de proceso.
 VIDEOS 
-    https://www.youtube.com/@curriculummineduc3996
+    LISTA DE VIDEOS DE MINEDUC
+        https://www.youtube.com/@curriculummineduc3996
+    envase empaque y embalaje en youtube
+        https://www.youtube.com/watch?v=zM81vLVuuBQ
+    recepcion de mercaderias /Proceso de Recepción
+        https://www.youtube.com/watch?feature=shared&v=_3OobXetjs8&ab_channel=CurriculumMineduc
+    Operaciones de Almacenamiento / control entrada,almacena.salida
+        https://www.youtube.com/watch?v=6hwb8GToDnc
+    INDICADORES de desempeño de LOGÍSTICA
+        https://www.youtube.com/watch?v=HhnbRA8hIks&t=19s   
+    INDICADORES de desempeño de LOGÍSTICA Conoce la clasificación de KPI´s Logísticos
+        https://www.youtube.com/watch?v=HhnbRA8hIks&t=19s  
+    Lean Manufacturing 9 - La Casa del Sistema de Producción Toyota
+        https://www.youtube.com/watch?v=sgqMtZniB9M
+    L1- Cadena de Suministro (Concepto)
+        https://www.youtube.com/watch?v=tzpVyGLtTXQ   
+    Esquema y actividades de la Distribución física internacional DFI
+        https://www.youtube.com/watch?v=Q2h0msSrG3s   
+    atencion y servicio al cliente
+        https://www.youtube.com/watch?v=5xGoNUkHpZQ   
+    Aplicacion de Centro de gravedad
+        https://www.youtube.com/watch?v=NY0ggkTSgCc&ab_channel=Ingenierosconingenio
+    Metodo Sinergico 
+        https://www.youtube.com/watch?v=t8jj3cNojSk&ab_channel=ELSAMARGARITAGUERREROD%C3%8DAZ
+    KAIZEN
+        https://www.youtube.com/watch?v=TIluVXT0c1s
+        https://www.youtube.com/watch?v=tfXbK7R5sf8
+        https://www.youtube.com/watch?v=v3Ily-LKC4w
+        https://www.youtube.com/watch?v=SblJqSY4tdM   
+    FIFO FEFO LIFO 
+        https://www.youtube.com/watch?v=fzIrm8ZkVg8   
+    Diagramas de flujo
+        https://www.youtube.com/watch?v=pWVFKfTUeYQ      
+    CONTROL ESTADISTICO DE PROCESOS
+            https://youtu.be/g0yU4IT1Bok?si=jA2IqLhD9Ov4truF
 MÓDULO I
     FUNDAMENTOS DE ADMINISTRACION LOGISTICA
     INTRODUCCIÓN A LA ADMINISTRACIÓN DE LOGÍSTICA
@@ -608,6 +640,7 @@ MÓDULO I
                     los materiales +
                     y productos, 
                 verificando el cumplimiento de estas disposiciones al interior de las bodegas.
+        
         TIENE 2 SENTIDOS 
             un sentido normativo 
                 (promueve 
@@ -654,11 +687,20 @@ MÓDULO I
         PROCEDIMIENTOS DEFINIDOS 4                    
             La Administración de Almacenaje,requiere que la empresa cuente 
             con 4 (cuatro) procedimientos definidos para su gestión:
-                Recepción de Mercaderías
-                Almacenamiento
-                Despacho de Productos
-                Registros
+                    Recepción de Mercaderías:
+                        Recepcionar materiales comprobando que dichos productos cumplan 
+                        con el set de especificaciones propuesto en la orden de compra 
+                        del proveedor que envía la carga, y rechazando los elementos 
+                        que no cumplan con las especificaciones necesarias. 
+                    Almacenamiento: 
+                        Acopiar, materiales bajo condiciones apropiadas y pertinentes que 
+                        los mantengan en condiciones óptimas para su posterior utilización. 
+                    Despacho de Mercaderías: 
+                        Enviar los materiales a razón de las especificaciones técnicas, 
+                        establecidas en el documento "solicitud de abastecimiento". 
+                    Registro        
             1-RECEPCION DE MERCADERIAS
+            
                 A TENER EN CUENTA 
                     Que la mercaderia este solicitada 
                     Entrega en fecha y horario acordados 
@@ -876,11 +918,8 @@ MÓDULO I
                                             Stock mínimo necesario 
                                             o falencias severas en la calidad de los productos recibidos),
                                             se informa al proveedor el rechazo de la carga. 
-                VIDEO
+                VIDEO recepcion de mercaderias *
                     https://www.youtube.com/watch?feature=shared&v=_3OobXetjs8&ab_channel=CurriculumMineduc
-        VIDEO
-            https://www.youtube.com/watch?v=6hwb8GToDnc
-    INDICADORES DE GESTION
             2-ALMACENAMIENTO
                 Almacenar, 
                 acopiar, 
@@ -1122,35 +1161,45 @@ MÓDULO I
                     El sistema de Administración de Almacenamiento es un procedimiento 
                     normativo y de control de existencias, que cuenta con procesos definidos, 
                     de los cuales el responsable es el personal de Bodega.
-
             EN RESUMEN
                 En resumen, los cuatro Procedimientos de Administración de Bodegas 
                 anteriormente desarrollados, poseen una lógica sistémica, 
                 en tanto son fundamentales para la gestión de las mercancías 
                 al interior de la organización y comparten importancia 
                 en la calidad de la logística de la empresa.
-
                 REGISTRO ----> RECEPCION,ALMACENAMIENTO,DESPACHO
-        CONCLUSION
+            CONCLUSION
                 La Administración de almacenamiento 
                     dicta y aplica las normas necesarias para la conservación de los materiales, 
                     y controla el cumplimiento de estas disposiciones al interior de las bodegas. 
-
                 La Administración de almacenamiento , requiere que la empresa 
                 cuente con los siguientes procedimientos definidos y estandarizados para su gestión: 
-
-                    Recepción de Mercaderías:
-                        Recepcionar materiales comprobando que dichos productos cumplan 
-                        con el set de especificaciones propuesto en la orden de compra 
-                        del proveedor que envía la carga, y rechazando los elementos 
-                        que no cumplan con las especificaciones necesarias. 
-                    Almacenamiento: 
-                        Acopiar, materiales bajo condiciones apropiadas y pertinentes que 
-                        los mantengan en condiciones óptimas para su posterior utilización. 
-                    Despacho de Mercaderías: 
-                        Enviar los materiales a razón de las especificaciones técnicas, 
-                        establecidas en el documento "solicitud de abastecimiento". 
-                    Registro    
+        
+        VIDEO procedimientos *
+            https://www.youtube.com/watch?v=6hwb8GToDnc
+    INDICADORES DE GESTION
+        TQM (Total Quality Management):
+            gestión de la calidad total aumentando la eficiencia de la producción y optimizando plazos de entrega.
+        JIT (Just in time o justo a tiempo): 
+            respetar este sistema será producir solo a demanda.
+        Kaizen: 
+            el sistema que asegura la mejora continua.
+        TOC (Teoría de las restricciones o de las limitaciones): 
+            se basa en encontrar el cuello de botella para marcar el ritmo productivo de la cadena.
+        Andon: 
+            sistema de gestión visual que permite conocer a operarios y directivos el avance de las mejoras y su estado de aplicación.
+        SMED (Single-Minute Exchange of Die): 
+            tiene como finalidad reducir el tiempo de cambio de referencia en el utillaje de máquinas de entornos productivos.
+        Value Stream Mapping (Mapeo de Flujo de Valor): 
+            se basa en un diagrama que permite visualizar, analizar y mejorar el flujo de la producción y de la información, desde el inicio del proceso hasta la entrega al cliente.
+        Heijunka: 
+            técnica lean que reduce las desigualdades en un proceso de producción y minimiza las posibilidades de sobrecarga
+        KPI:
+            indicador clave del desempeño para medir el nivel del desempeño de un proceso.
+        Kanban: 
+            sistema de información en los puestos de trabajo para definir, gestionar y mejorar servicios.
+        Reingeniería de procesos: 
+            persigue la mejora a gran escala trabajando sobre la redundancia de procesos.
     INDICADORES EN LOGISTICA KPI
         Se denominan indicadores o KPI logísticos 
         (KPI por Key Performance Indicators) 
@@ -1279,21 +1328,25 @@ MÓDULO I
                     Costos logísticos globales
                     Costos documentales
                     Estado de las entregas
-        VIDEOS 
+        VIDEO 
+            INDICADORES de desempeño de LOGÍSTICA Conoce la clasificación de KPI´s Logísticos
             https://www.youtube.com/watch?v=HhnbRA8hIks&t=19s
-    LEAN MANUFACTURING
-        también llamado Lean Production, es 
-        un método de organización del trabajo 
-        que se centra en 
-        la mejora continua 
-        y optimización del sistema de producción mediante 
-            la eliminación de 
-                desperdicios 
-                y actividades que no suman ningún tipo de valor al proceso.
+    LEAN MANUFACTURING (CADENA DE SUMINISTRO)
+        DEFINICION
+            también llamado Lean Production, es 
+            un método de organización del trabajo 
+            que se centra en 
+                la mejora continua 
+                y optimización del sistema de producción mediante 
+                la eliminación de 
+                    desperdicios 
+                    y actividades que no suman ningún tipo de valor al proceso.
         OBJETIVO
             Su objetivo fundamental es el de 
-                minimizar las pérdidas que se producen en cualquier proceso de fabricación, 
-                y en utilizar solo aquellos recursos que sean imprescindibles. 
+                minimizar las pérdidas que se producen en 
+                    cualquier proceso de fabricación, 
+                y en utilizar solo aquellos recursos que sean 
+                    imprescindibles. 
             Así, eliminando el despilfarro 
                 se mejora la calidad 
                 y se reducen el tiempo de fabricación 
@@ -1350,6 +1403,36 @@ MÓDULO I
                         y aumentar la productividad.
                 4. Procesos Pull: 
                     Se produce según demanda puesto que la clave es evitar stocks.
+                    definiciones PUSH & PULL    
+                        El sistema Push y Pull son dos métodos de producción 
+                        que se utilizan en la logística y que tienen un etanoe
+                        impacto directo en la gestión del inventario. 
+                        SISTEMA PUSH (antes de la compra)
+                            el producto se fabrica con antelación,
+                            es decir, antes de que se produzca la compra del producto.
+                            Por lo tanto, este modelo está directamente relacionado 
+                            con la predicción de la demanda, 
+                            ya que es indispensable saber previamente 
+                            y con la máxima precisión 
+                                qué productos requerirán los clientes, 
+                                cuándo 
+                                y en qué cantidad. 
+                        SISTEMA PULL (es a pedido)
+                            adapta la producción a la demanda efectiva, 
+                            lo que significa que el producto se 
+                            fabrica únicamente cuando se genera una compra, 
+                            es decir,
+                            una vez que la compañía recibe la solicitud por parte 
+                            del cliente, al que se le da una fecha de entrega 
+                            determinada. 
+                            La adopción de este método, que no contempla
+                            la disponibilidad de stock de producto terminado, 
+                            es habitual en empresas especializadas en productos 
+                            elaborados bajo demanda o completamente personalizados.
+                            Es común, por ejemplo, en la industria del automóvil. 
+                        DIFERENCIAS ENTRE PUSH Y PULL    
+                            La principal diferencia entre el sistema Push y Pull 
+                            reside en el inicio del proceso de producción.
                 5. Flexibilidad: 
                     Es necesario ser capaz de producir diferentes tipos de productos 
                     y ajustarse con exactitud a las cantidades.
@@ -1371,13 +1454,11 @@ MÓDULO I
             Confiar en esta metodología conlleva 
                 muchos beneficios 
                 y puede significar la supervivencia de muchas empresas en el medio y largo plazo.
-
             El pensamiento Lean implica ventajas 
                 como el incremento de la productividad, 
                 mejora de la calidad, 
                 aumento de las ventas 
                 o del valor de la empresa, por citar alguno de ellos.
-
             Es una cultura empresarial 
                 flexible, 
                 abierta a la mejora constante, 
@@ -1445,128 +1526,2593 @@ MÓDULO I
                 Reingeniería de procesos: 
                     persigue la mejora a gran escala trabajando sobre 
                     la redundancia de procesos.
+        VIDEOS
+            Lean Manufacturing 9 - La Casa del Sistema de Producción Toyota
+                https://www.youtube.com/watch?v=sgqMtZniB9M
+            L1- Cadena de Suministro (Concepto)
+                https://www.youtube.com/watch?v=tzpVyGLtTXQ
+            Esquema y actividades de la Distribución física internacional DFI
+                https://www.youtube.com/watch?v=Q2h0msSrG3s
+    SUPPLY CHAIN MANAGEMENT (CADENA DE SUMINISTRO)
+        Administración de la cadena de suministro
+        DEFINICION
+            Supply Chain Management o SMC, es el término inglés 
+            utilizado a menudo para referirnos a 
+            la gestión de la cadena de suministro, 
+            es decir, a 
+                la planificación, 
+                optimización 
+                y control de los procesos 
+                y cadenas de valor.
+            La gestión de la cadena de suministro se refiere 
+            al proceso de 
+                planificación, 
+                implementación 
+                y control de las actividades involucradas 
+                    en la creación 
+                    y entrega de un producto o servicio. 
+        OBJETIVO        
+            El objetivo del Suply Chain Management es 
+            hacer que los procesos sean 
+                más eficientes para poder responder de manera 
+                    más flexible 
+                    y precisa a las necesidades de los clientes.
+            El objetivo del Supply Chain Management es 
+                mejorar la eficiencia 
+                y la efectividad de la cadena, 
+                    lo que se traduce en 
+                        una mayor satisfacción del cliente final 
+                        y en una ventaja competitiva para la empresa.
+        ¿Qué es la cadena de suministro?
+            Antes de hablar de la gestión de la cadena de suministro 
+            o Supply Chain Management, es importante entender 
+            qué es una cadena de suministro. 
+            Una cadena de suministro se refiere 
+            al conjunto de 
+                procesos 
+                y actividades 
+                    que se llevan a cabo para 
+                        producir 
+                        y entregar 
+                            un producto 
+                            o servicio a los consumidores finales. 
+            La cadena de suministro incluye todas las etapas, 
+                desde la adquisición de materias primas 
+                hasta la entrega del producto final al cliente.
+        DETALLES 
+            El Supply Chain Management implica 
+                la coordinación 
+                y el control de todas las actividades que se llevan a cabo, 
+                    desde la adquisición de materias primas 
+                    hasta la entrega del producto final al cliente. 
+            Esto incluye 
+                la gestión de proveedores, 
+                la planificación de la producción, 
+                la gestión de inventarios, 
+                la logística 
+                y el transporte, 
+                entre otros aspectos. 
+        RESPONSABLE Supply Chain Manager       
+            El responsable de Supply Chain Management de una empresa 
+            es el Supply Chain Manager. 
+            Su trabajo consiste en 
+                coordinar a los distintos proveedores, 
+                transportistas 
+                y distribuidores, 
+                para asegurarse de que los productos 
+                    lleguen a su destino final 
+                    en el momento 
+                    y las condiciones adecuadas. 
+            El Supply Chain Manager debe tener habilidades en 
+                logística, 
+                planificación, 
+                negociación 
+                y comunicación. 
+            Además, es importante 
+                tener conocimientos en tecnologías de la información 
+                y sistemas de gestión de inventarios.
+            En resumen, Supply Chain Management es 
+            un enfoque integral para la administración de la cadena de suministro, 
+            que busca 
+                mejorar la eficiencia 
+                y la efectividad de la cadena, 
+                lo que se traduce en 
+                    una mayor satisfacción del cliente 
+                    y una ventaja competitiva para la empresa.
+        Implementación de Supply Chain Management
+            La gestión de la cadena de suministro 
+            es un proceso integral que implica 
+                la planificación, 
+                el control 
+                y la ejecución de las operaciones de la cadena de suministro. 
+                Para asegurar 
+                    una gestión eficiente 
+                    y eficaz, 
+        ASPECTOS CLAVES            
+            es importante considerar los siguientes elementos clave:
+                Planificación
+                Gestión de Proveedores
+                Producción
+                Entrega o gestión de pedidos de clientes
+                Devoluciones
+            Planificación
+                    La planificación en Supply Chain Management es un proceso 
+                    que implica 
+                        la definición de las estrategias, 
+                        objetivos 
+                        y planes tácticos 
+                            para el suministro de bienes y servicios. 
+                    Esto incluye 
+                        la gestión de la demanda, 
+                        la planificación de la producción, 
+                        la gestión de la capacidad 
+                        y la planificación del transporte y la logística.
+                    Esta área implica la gestión básica de recursos. 
+                    Los recursos, como 
+                        la capacidad de los empleados,
+                        el presupuesto 
+                        y los materiales, 
+                        se planifican y proporcionan de manera que 
+                        los productos o servicios puedan ser fabricados 
+                        de acuerdo con las necesidades de los clientes.
+                    Aquí también es importante definir métricas para permitir 
+                        un control preciso de las cadenas de valor. 
+                    La elección de los indicadores clave de rendimiento KPI 
+                    (es una métrica cuantitativa que muestra como tu equipo o empresa 
+                    progresa hacia tus objetivos empresariales más importantes) 
+                    depende del tipo de producto o servicio.
+            Gestión de proveedores
+                La gestión de proveedores es un proceso que implica 
+                    la selección, 
+                    evaluación 
+                    y gestión de los proveedores de bienes y servicios. 
+                Esto incluye 
+                    la selección de proveedores,
+                    la negociación de contratos 
+                    y la gestión de la relación con los proveedores. 
+                Una buena gestión de proveedores puede ayudar 
+                    a reducir los costos 
+                    y mejorar la calidad de los productos y servicios suministrados.
+            Producción
+                Dentro del Supply Chain Management también se incluye 
+                    la planificación, 
+                    supervisión 
+                    y control de los procesos de producción. 
+                Todas las actividades en el flujo de trabajo que 
+                    convierten las materias primas y materiales 
+                        en el producto final pertenecen a esta área.
+                Esto incluye, sin duda alguna, 
+                    la inspección de calidad, 
+                    la logística interna de la empresa 
+                    y el embalaje de los productos para su entrega. 
+                En la producción o fabricación, es importante 
+                    ser flexible 
+                    y adaptarse a la demanda. 
+                    Esto permite una producción más rentable en términos de costes.
+            Entrega o gestión de pedidos de clientes
+                El procesamiento de pedidos es una parte fundamental 
+                del Supply Chain Management. Esto implica 
+                    el procesamiento de los pedidos de los clientes,
+                    la gestión del inventario 
+                    y la gestión de la facturación 
+                    y los pagos. 
+                Una gestión eficiente del procesamiento de pedidos puede ayudar 
+                    a reducir los costos 
+                    y mejorar la satisfacción del cliente. 
+                En esta área una de las disciplinas que cobra mayor importancia 
+                es el Inventory Management.
+                La gestión de inventario (Inventory Management), también conocida como 
+                administración de inventario, 
+                    se refiere al proceso de 
+                        supervisar 
+                        y controlar el flujo 
+                        y la disponibilidad de productos en stock dentro de una empresa. 
+                    Es una parte fundamental del Supply Chain Management y abarca todas las actividades 
+                    relacionadas con 
+                        la adquisición, 
+                        el almacenamiento, 
+                        el seguimiento 
+                        y el mantenimiento de los niveles de inventario.
+                    El objetivo principal del Inventory Management es 
+                        garantizar que la empresa tenga 
+                            la cantidad adecuada de productos disponibles 
+                            en el momento adecuado, 
+                            evitando tanto 
+                                la escasez de inventario que pueda afectar la capacidad 
+                                    de cumplir con la demanda de los clientes, 
+                                como el exceso de inventario que puede resultar 
+                                    en costos adicionales y obsolescencia.
+                    Dentro del Supply Chain Management también es importante tener en cuenta 
+                        la planificación de la demanda (demand planning). 
+                            Ésta implica prever 
+                            y anticipar las necesidades de los clientes 
+                                para asegurar que los productos o servicios 
+                                estén disponibles en el momento adecuado.
+            Devoluciones
+                Por último, es importante hablar sobre las devoluciones. 
+                    Si los clientes no están satisfechos con el producto 
+                    o si ha habido daños durante el transporte, 
+                        es posible que deseen 
+                            devolver el producto 
+                            y obtener una compensación o un nuevo producto.
+                Este paso a menudo se pasa por alto, pero es extremadamente importante 
+                    para la satisfacción del cliente 
+                    y la fidelización a largo plazo. 
+                Cuando un cliente desea devolver un producto y recibe ayuda profesional 
+                por parte de la empresa, se siente valorado como cliente y es más probable 
+                que vuelva a comprar en la compañía. 
+                Para manejar adecuadamente las devoluciones, es necesario 
+                    establecer procesos claros 
+                    y eficientes que 
+                        minimicen los costos para la empresa
+                        y satisfagan las necesidades del cliente. 
+                También es importante 
+                    monitorear 
+                    y analizar las devoluciones 
+                        para identificar 
+                            patrones 
+                            y oportunidades de mejora en Supply Chain Management
+        Beneficios del Supply Chain Management
+            Supply Chain Management es una estrategia clave 
+                para maximizar la eficiencia en la producción y distribución de productos. 
+            Los beneficios de implementar una gestión eficaz de la cadena de suministro 
+            son numerosos, entre los que se destacan 
+                la reducción de costes, 
+                la mejora en la eficiencia 
+                y la mayor satisfacción del cliente.
+    DISTRIBUCION FISICA INTERNACIONAL - DFI
+        DEFINICION
+            La Distribución Física Internacional, conocida por sus siglas DFI
+            Es el proceso logístico que se desarrolla en torno a 
+                situar un producto en el mercado internacional 
+                cumpliendo con los términos negociados entre el vendedor y el comprador. 
+        OBJETIVO
+            Su objetivo principal es 
+                reducir al máximo los tiempos, 
+                los costos 
+                y el riesgo que se puedan generar durante el trayecto, 
+                desde el punto de salida en origen hasta el punto de entrega en destino.
+        Etapas de la DFI
+            1. Análisis de la Carga a transportar
+                Tipos de Carga
+                    La carga es un conjunto de bienes o mercancías 
+                    protegidas por un embalaje apropiado que 
+                    facilita su rápida movilización.
+                    Tipos de Carga:
+                        1. Carga General
+                            Todo tipo de carga de distinta naturaleza que 
+                            se transporta conjuntamente, 
+                            en pequeñas cantidades y en unidades independientes.
+                            Se pueden contar el número de bultos 
+                            y en consecuencia se manipulan como unidades. 
+                            Se transportan y se almacenan según 
+                                sus respectivas características 
+                                y especificaciones por cada fabricante.
+                                Ejemplos:
+                                    Cilindros
+                                    Cajas
+                                    Botellas
+                        2. Carga Suelta
+                            Bienes sueltos manipulados y embarcados como unidades separadas.
+                            Ejemplos:
+                                Planchas de hierro
+                                Rieles
+                                Tubos
+                                Llantas    
+                        3. Carga Unitarizada (Unitarización)
+                            Agrupación de embalajes en una carga compacta de mayor tamaño, 
+                            para ser manejada como una sola unidad, 
+                                reduciendo superficies de almacenamiento, 
+                                facilitando operaciones de manipulación de mercancías 
+                                y favoreciendo labores logísticas.
+                            Ejemplo 
+                                Pallets
+                        4. Carga a Granel (Líquida, sólida, gaseosa)
+                            Los graneles se almacenan por lo general en tanques o silos. 
+                            Ninguno de estos productos necesita embalaje o unitarización.
+                            Ejemplos:
+                                Sólidos: granos, minerales, fertilizantes
+                                Líquidos: petróleo, lubricantes, gasolina
+                                Gases: gas propano, butano
+
+                Por su naturaleza puede ser:
+                        1. Perecedera 
+                                Carga Refrigerada o Perecedera
+                                Durante la distribución, la conservación cobra la mayor importancia.
+                                Ejemplos:
+                                    Frutas y verduras
+                                    Flores frescas
+                                    Carnes, pescados y mariscos
+                                    Lácteos
+                        2. Frágil
+                        3. Peligrosa
+                            Toxico
+                            Infeccioso
+                            Material Radiactivo
+                            Combustion Espontanea 
+                            Gas Inflamable
+                            Liquido Inflamable
+                            Peroxido Organico 
+                            Gas Toxico
+                            Solido Inflamable 
+                        4. Extra dimensionada
+                            Cargas voluminosas o pesadas que requieren un manejo especial.
+            2. Preparación del empaque y embalaje
+                    Empaque: 
+                        El empaque es un sistema diseñado donde los productos 
+                        son acomodados para su traslado 
+                            del sitio de producción 
+                            al sitio de consumo sin que sufran daño. 
+                        El objetivo también 
+                            es lograr un vínculo comercial permanente entre 
+                                un producto 
+                                y un consumidor. 
+                            Ese vínculo deber ser beneficioso 
+                                para el consumidor 
+                                y el productor.
+                    Embalaje
+                        El embalaje sirve para proteger el producto o conjunto de productos 
+                        que se exporten, durante todas las operaciones de 
+                            traslado, 
+                            transporte 
+                            y manejo; 
+                        de manera que lleguen a manos del destinatario 
+                            sin que se hayan deteriorado 
+                            o desperdiciado, 
+                            desde que salieron de las instalaciones en que se realizó la
+                            producción o acondicionamiento.
+                        Proteger las características de la carga 
+                        y preservar la calidad de los productos que contiene.
+                        Facilitar el traslado de la carga 
+                        y permitir su transporte en las mejores condiciones, según el modo que se utilice.
+                        Facilita:
+                            Manipulación de la carga.
+                            Almacenamiento.
+                            Unitarización.
+                            Distribución.
+                            Tarifas de fletes.
+                            Primas de seguro.
+                    Marcas - Empaque y Embalaje
+                        La marca tiene cada vez mayor importancia en la lucha contra el fraude.
+                        Existen tres tipos de marcas para el transporte de mercancías:
+                            Marcas estándar o de expedición: 
+                                Contienen información sobre 
+                                    el importador, 
+                                    destino, 
+                                    dirección, 
+                                    número de referencia, 
+                                    número de unidades, etcétera.
+                            Marcas informativas: 
+                                Es la información adicional que aparece en el empaque o embalaje como: 
+                                    País de origen, 
+                                    puerto de salida, 
+                                    puerto de entrada, 
+                                    peso bruto, 
+                                    peso neto, 
+                                    dimensiones de las cajas, entre otros.
+                            Marcas de manipulación: 
+                                Es la información sobre 
+                                    el manejo 
+                                    y advertencias 
+                                        en el momento de 
+                                            manipular 
+                                            o transportar la carga, 
+                                        en este caso se utilizan 
+                                        símbolos pictóricos internacionalmente aceptados.
+        Transporte internacional
+            El transporte internacional, también conocido como transporte principal, 
+            se encarga de 
+                cruzar las fronteras 
+                y entregar los productos en el país de destino. 
+            Es la columna vertebral de las operaciones de la DFI, 
+            y dependiendo de los Incoterms negociados, 
+                define la ruta de embarque 
+                y entrega al comprador.
+        ¿Cómo elegir el modo de transporte?
+                Tarifa
+                Distancia
+                Tiempo de Tránsito
+                Valor de la Mcía. (Motor de Combustión Interna Alternativo)
+                Seguro
+                Empaque y embalaje
+                Costos y tiempos de carga y descarga
+            Transporte Aéreo
+                Características:
+                    Se contrata Aeropuerto a Aeropuerto a través de agentes de carga aérea.
+                    La carga es suelta y se embarca por cupos o posiciones.
+                    Documento de transporte: 
+                        Guía aérea (AWB).
+                Ventajas: 
+                    Rapidez, 
+                    Fiabilidad, 
+                    Seguridad, 
+                    menores costos de seguros.
+                Desventajas: 
+                    Es el más costoso; 
+                    capacidad limitada, 
+                    restringido para ciertos productos peligrosos.
+
+
+
+                3. Selección del Modo de Transporte
+                4. Costos
+                5. Documentación
+            Transporte Marítimo
+                Características: 
+                    Aplica para 
+                        vías navegables marítimas, 
+                        o de navegación interior como ríos o lagos. 
+                Se contrata Puerto a Puerto a través de 
+                    agentes de carga 
+                    o embarcadores. 
+                La carga se embarca en contenedores especializados para lo cual debe ser consolidada. 
+                Documento de transporte: 
+                    Conocimiento de embarque (B/L). 
+                Ventajas: 
+                    tarifas más bajas,
+                    transporte en masa de grandes volúmenes, 
+                    diversidad 
+                    y especialización de buques, n
+                    o tiene restricciones para productos peligrosos. 
+                Desventajas: 
+                    baja velocidad, 
+                    seguro y embalajes más costosos, 
+                    costos portuarios, 
+                    altos riesgos de saqueo y deterioro, 
+                    frecuencias más espaciadas.
+            Transporte Terrestre por Carretera
+                Características: 
+                Aplica para transporte por vías y carreteras.
+                Se contrata Puerta a Puerta a través de agentes de carga.
+                La carga se transporta en contenedores especializados de acuerdo a sus características.
+                No tiene restricciones para productos peligrosos
+                Según las distancias puede ser
+                    menos costoso que el aéreo, 
+                    pero más costoso que el marítimo.
+                Documento de transporte: 
+                    Carta porte (CMR ).
+                TIPOS
+                    camion
+                    remolque (Trailer)
+                    tanque
+                    Remolque Articulado 
+                    Estacas 
+                    Refrigerado 
+                    Volqueta 
+                    Maquinaria Pesada 
+                    Contenedores
+            Transporte Terrestre por Tren
+                Características:
+                    Aplica únicamente para transporte por vías férreas. 
+                    Se contrata Terminal a Terminal a través de 
+                    agentes de carga 
+                    La carga se transporta en contenedores especializados de acuerdo a sus características. 
+                    No tiene restricciones para productos peligrosos.
+                    Es el menos costoso de los transportes terrestres especialmente en largas distancias. 
+                Documento de transporte: 
+                    Carta porte (CIM) 
+                tipos
+                    Vagon cerrado Multiusos 
+                    Vagon Gondola 
+                    Vagon tolva 
+                    Vagon Tanque 
+                    Vagon multiproposito
+                    Plataforma
+            Transporte Multimodal
+                El porte de mercancías de por lo menos dos modos transporte 
+                desde un lugar situado en un país en que el operador de transporte multimodal 
+                toma las mercancías bajo su custodia, 
+                hasta otro lugar designado para su entrega situado en un país diferente.
+                Características y Ventajas:
+                    Contrato de Transporte entre un OTM y su cliente.
+                    Mayor seguridad
+                    Proporciona precios previamente acordados para las operaciones puerta a puerta, 
+                    propicia nuevas oportunidades comerciales para exportaciones no tradicionales, 
+                    como consecuencia de mejores servicios de transporte.
+        Operadores Logísticos
+            Operadores logísticos son cada una de las empresas que 
+                gestionan el transporte 
+                y manejo de la carga desde 
+                    el punto de salida en origen, 
+                    hasta el punto de entrega en destino. 
+            Estas empresas han evolucionado ajustándose a los requerimientos 
+            de los mercados globales, y están en capacidad de brindar 
+            todos los servicios conexos con la cadena logística de manera integrada, 
+            proceso más conocido como logística integral de exportación.
+        Documentacion DFI 
+            Factura comercial 
+            Lista de Embarque 
+            Conocimiento de Embarque 
+            Guia Aerea 
+            Carta Porte
+            Carta porte OTM 
+            Poliza de Seguro 
+            Certificado de origen 
+            Licencia de Exportacion 
+
+    
+                Analisis de la carga a transportar de acuerdo a 
+                    los tipos de carga (general,suelta,unitarizada,granel)
+                    y su naturaleza (perecedera,fragil,peligrosa,extradimensionada)
+                preparacion del empaque y embalaje de los productos
+                Analisis del tipo de transporte a selecionar 
+                    (maritimo,aereo,terrestre,por tren,multiodal)
+                    de acuerdo a 
+                        Tarifa
+                        Distancia
+                        Tiempo de Tránsito
+                        Valor de la Mcía. (Motor de Combustión Interna Alternativo)
+                        Seguro
+                        Empaque y embalaje
+                        Costos y tiempos de carga y descarga
+                Analisis de Documentacion DFI 
+                    Factura comercial 
+                    Lista de Embarque 
+                    Conocimiento de Embarque 
+                    Guia Aerea 
+                    Carta Porte
+                    Carta porte OTM 
+                    Poliza de Seguro 
+                    Certificado de origen 
+                    Licencia de Exportacion 
+    TRABAJO PRÁCTICO / Jorge Vera Videla / Nota: 7
+        1.- ¿Qué son los indicadores en logística?
+                Los indicadores en logística son Información numérica "cuantitativa" que evalúa los
+                procesos en la cadena de suministro y que permiten conocer concretamente 
+                cómo se realizan las labores logísticas para mejorar todos los aspectos que son 
+                relevantes para la empresa.✓
+        2.- ¿Qué es posible identificar con los indicadores?
+                Es posible identificar positivamente o negativamente una gestión en la cadena de suministro
+                en base a una métrica de referencia.✓
+        3.- ¿Qué es el KPI?
+                KPI son Indicadores numéricos que representan un rendimiento para 
+                medir el nivel de desempeño de un proceso en base a 
+                una referencia anterior objetiva en la cadena de suministro 
+                y que permite tomar decisiones importantes de cambio al interior de la empresa.
+                en alguna de las áreas evaluadas 
+                    	Recepción de mercancías
+                    	Almacenaje
+                    	Preparación de pedidos
+                    	Gestión de inventarios
+                    	Expediciones
+                    	Entregas
+                    	Transporte 
+                    	devoluciones ✓
+        4.- ¿Cómo deben ser los KPI?
+                los KPI debe ser 
+                    Significativos
+                    Concretos
+                    coherentes
+                    Cuantificables
+                    periódicos
+                    Atribuibles
+                    variables
+                    consistentes✓
+        5.- ¿Cuál es la importancia de los KPI en la logística administrativa?
+                La importancia radica en que permiten tomar decisiones 
+                para gestionar cambios y mejoras en los procesos de la cadena 
+                de suministro al interior de la empresa optimizando los recursos
+                costos, y tiempos como así también
+                disminuyendo las pérdidas y fidelizando al cliente.✓
+        6.- Nombre los costos asociados en los indicadores de logística y a qué proceso corresponden.
+                De producción
+                    costos de control de calidad 
+                De almacenamiento e inventario 
+                    Costos de almacenamiento globales
+                    Costos de inventario globales
+                    Costo de unidad almacenada
+                    Costo del control de almacén
+                    Costo del control de inventario
+                    Costo del mantenimiento de instalaciones
+                De gestión de logística de abastecimiento y compra
+                    Costos de abastecimiento globales
+                    Costos unitarios
+                    Costos de control de calidad
+                    Costos de certificaciones
+                De transporte y distribución  
+                    Costos de transporte
+                    Costos operativos
+                    Costos unitarios
+                    Costos de exportación
+                De entrega y servicio al cliente  
+                    Costos por operación del centro logístico
+                    Costos logísticos globales
+                    Costos documentales    ✓
+        7.- ¿Qué es el Lean Manufacturing?
+                Método de organización del trabajo basado en 
+                la mejora continúa 
+                    optimizando el sistema de producción
+                	eliminando desperdicios 
+                    y actividades irrelevantes para la empresa✓
+        8.- ¿Cuál es el objetivo fundamental en el Lean Manufacturing?
+                El objetivo principal en el Lean Manufacturing es 
+                    minimizar las perdidas producidas en cualquier proceso
+                    optimizar los recursos mejorando la calidad, 
+                    reduciendo los tiempos de producción 
+                    y también los costos.✓
+        9.-Según el Lean Manufacturing, ¿Cuál es el capital más importante de la empresa?
+                El capital más importante es el capital humano.✓
+        10.- Explique con sus palabras los conceptos claves del Lean Manufacturing?
+                efectividad, eficiencia, eficacia, innovación, dimensión humana de la estrategia
+                con enfoque en satisfacer las expectativas del cliente✓
+        11.- Nombre los 7 principios del Lean Manufacturing
+                1. Hacerlo bien a la primera: 
+                    conseguir cero defectos. 
+                    Para ello hay que 
+                        detectar el problema 
+                        y solucionarlo desde el origen.
+                2. Excluir actividades que no añaden valor: 
+                    Se excluye todo lo que suponga 
+                        un despilfarro o desperdicio 
+                        y que no agrega valor añadido a la experiencia de cliente.
+                3. Mejora continua: 
+                    Se mantiene la calidad del producto o servicio 
+                    tratando de 
+                        reducir costes 
+                        y aumentar la productividad.
+                4. Procesos Pull: 
+                    Se produce según demanda puesto que la clave es evitar stocks.
+                    Se adapta la producción a la demanda efectiva,lo que significa que 
+                    el producto se fabrica únicamente cuando se genera una compra.
+                5. Flexibilidad: 
+                    Es necesario ser capaz de 
+                        producir diferentes tipos de productos 
+                        y ajustarse con exactitud a las cantidades
+                6. Colaborar con los proveedores: 
+                    Construir relaciones con los proveedores 
+                    basándose en el largo plazo, 
+                    con acuerdos compartiendo 
+                        riesgos 
+                        y costos.
+                7. Cambio de enfoque de venta: 
+                    Desde el punto de vista Lean Manufacturing 
+                    al cliente se le aporta una solución 
+                    y no solo un producto o servicio. ✓
+        12.- Nombre 3 herramientas utilizadas por el Lean Manufacturing.
+                KPI, Kaizen, Reingeniería de procesos✓
+        13.- ¿Qué es el Supply Chain Management?
+                corresponde a la gestión de la cadena de suministro, 
+                es decir, a 
+                    la planificación 
+                    optimización 
+                    control de los procesos 
+                    cadenas de valor
+                    e implementación 
+                    y control de las actividades involucradas en 
+                        la creación 
+                        y entrega de un producto o servicio ✓
+        14.- ¿Qué implica el Supply Chain Management?
+                Implica una cadena de suministro.
+                ósea un conjunto de procesos y actividades 
+                que se llevan a cabo para 
+                            producir 
+                            y entregar 
+                                un producto 
+                                o servicio a los consumidores finales✓
+        15.- ¿Cómo se llama el responsable del Supply Management y en qué consiste su trabajo?
+                Es el ‘Supply Chain Manager’
+                Su trabajo consiste en coordinar a 
+                    los distintos proveedores 
+                    transportistas 
+                    y distribuidores 
+                para asegurarse de que los productos lleguen a su destino final 
+                    en el momento 
+                    y las condiciones adecuadas. ✓
+        16.-Mencione los elementos claves en la implementación de Supply Management y explique en
+            breves palabras su función.
+                Es un enfoque integral para la administración de la cadena de suministro, 
+                que busca mejorar (la eficiencia y la efectividad) de la cadena 
+                lo que se traduce en 
+                    una mayor satisfacción del cliente 
+                    y una ventaja competitiva para la empresa.✓
+        17.- ¿Qué significa la sigla DFI y en qué consiste?
+                Distribución Física Internacional
+                Llevar un producto al mercado internacional por medio 
+                de un proceso logístico adecuado cumpliendo cabalmente 
+                con las negociaciones internacionales que se establecen 
+                en los contratos pactados.✓
+        18.- ¿Cuál es el objetivo principal de DFI?
+                Su objetivo principal es 
+                    reducir al máximo los tiempos, 
+                    los costos 
+                    y el riesgo 
+                    que se puedan generar durante el trayecto, 
+                        desde el punto de salida en origen 
+                        hasta el punto de entrega en destino.✓
+        19.-Nombre las etapas del DFI y explique en breves palabras cada una de ellas.
+                Análisis de la carga a transportar de acuerdo a 
+                    los tipos de carga (general, suelta, unitarizada, granel)
+                    y su naturaleza (perecedera,fragil,peligrosa,extradimensionada)
+                preparación del empaque y embalaje de los productos
+                Análisis del tipo de transporte a selecionar 
+                    (maritimo, aereo, terrestre, por tren, multiodal)
+                    de acuerdo a 
+                        Tarifa
+                        Distancia
+                        Tiempo de Tránsito
+                        Valor de la Mercancía. (Motor de Combustión Interna Alternativo)
+                        Seguro
+                        Empaque y embalaje
+                        Costos y tiempos de carga y descarga
+                Análisis de Documentación DFI 
+                    Factura comercial 
+                    Lista de Embarque 
+                    Conocimiento de Embarque 
+                    Guia Aerea 
+                    Carta Porte
+                    Carta porte OTM 
+                    Poliza de Seguro 
+                    Certificado de origen 
+                    Licencia de Exportacion ✓
+
+                Análisis de la carga a transportar de acuerdo a 
+                    los tipos de carga (general, suelta, unitarizada, granel)
+                    y su naturaleza (perecedera,fragil,peligrosa,extradimensionada)
+                preparación del empaque y embalaje de los productos
+                Análisis del tipo de transporte a selecionar 
+                    (maritimo, aereo, terrestre, por tren, multiodal)
+                    de acuerdo a 
+                        Tarifa
+                        Distancia
+                        Tiempo de Tránsito
+                        Valor de la Mercancía. (Motor de Combustión Interna Alternativo)
+                        Seguro
+                        Empaque y embalaje
+                        Costos y tiempos de carga y descarga
+                Análisis de Documentación DFI 
+                    Factura comercial 
+                    Lista de Embarque 
+                    Conocimiento de Embarque 
+                    Guia Aerea 
+                    Carta Porte
+                    Carta porte OTM 
+                    Poliza de Seguro 
+                    Certificado de origen 
+                    Licencia de Exportacion 
+MODULO 2
+    SERVICIO AL CLIENTE
+        DEFINICION
+            El servicio al cliente es 
+                todo el asesoramiento 
+                y la asistencia que proporciona la empresa 
+                a sus clientes durante sus interacciones con la marca. 
+        OBJETIVO        
+            El objetivo es
+                aumentar la satisfacción del cliente respondiendo a sus peticiones, 
+                a menudo el consumidor tendrá preguntas y/o consultas 
+                y el servicio al cliente se encargará de responderlas.
+        Elementos del servicio al cliente
+            Para ofrecer una experiencia que sea única y positiva, 
+            las empresas deben de contar con estos elementos que 
+            les ayudarán a ofrecer un servicio excepcional:
+                Contacto amable con los cliente
+                    Para ofrecer un servicio al cliente adecuado,
+                    es sumamente importante ser amable con ellos,
+                    ya sea 
+                        a través de una llamada telefónica, 
+                        un correo electrónico 
+                        o una conversación en persona. 
+                    Debes utilizar las palabras adecuadas, 
+                    ofrecer una sonrisa 
+                    y dirigirte a él preferentemente de forma personalizada. 
+                Estrechar relación con el cliente
+                    Los clientes no compran productos, 
+                    ellos adquieren una solución a sus necesidades. 
+                    Crear una relación con ellos te permite 
+                        identificarlas,
+                        comprenderlas 
+                        y anticiparse a resolverlas.
+                    Mientras más conozcas a tus clientes, 
+                    mejor podrás anticipar estas necesidades. 
+                    Te recomendamos 
+                        comunicarte con él regularmente, 
+                        participar en conversaciones, 
+                        e intercambiar ideas para conocer qué es lo que quieren 
+                        y, por lo tanto, lograr su satisfacción.
+                Responder a sus dudas 
+                    Responder a las dudas es uno de los elementos 
+                    más importantes del servicio al cliente. 
+                    Generalmente, recibirás cientos de solicitudes 
+                    sencillas y fáciles de resolver, 
+                    otras parecerán un poco imposibles y nada razonables,
+                    pero siempre debes ofrecer solucionar el problema.
+                    Lo anterior no significa ceder y resolverlo de inmediato, 
+                    solo trata de 
+                        hacer el proceso amigable 
+                        y mantener contento a tu cliente. 
+                    Lo agradecerá mucho más. 
+                Darle valor al cliente
+                    Mantente siempre alerta. 
+                    Escucha todo lo que los clientes tienen que decir, 
+                    crea interacciones, 
+                    identifica sus necesidades haciendo preguntas 
+                    y concéntrate en entender lo que el cliente está pidiendo. 
+                    Fomentar y agradecer sus comentarios y/o sugerencias 
+                        te ayudará a ajustar sus productos y servicios. 
+                        Con esto ellos sentirán que están aportando información útil 
+                        y se sentirán felices de hacerlo continuamente. 
+                Brindar una experiencia de compra positiva
+                    El servicio al cliente positivo, 
+                    además de un trato amable y una resolución de problemas eficaz, 
+                    implica tener un espacio adecuado para los consumidores. 
+                    Es decir, si la tienda es física, se debe ser riguroso 
+                    de que todo 
+                        esté correctamente acomodado, 
+                        limpio 
+                        y fácil de hallar para el cliente.
+                    Si tienes un sitio web, c
+                        rea un espacio donde navegar sea fácil, 
+                        y que el cliente tenga un proceso de compra rápido y eficaz. 
+        Importancia de ofrecer un servicio al cliente adecuado
+            Contar con estos elementos del servicio al cliente ayudará a 
+                mantener a los consumidores 
+                    satisfechos 
+                    y felices de regresar
+                    y continuar adquiriendo productos o servicios, 
+                    incluso si cuentan con otras opciones para resolver sus necesidades.
+            Hacer uso de estos elementos permitirán 
+                mejorar los procesos de la organización 
+                y hacer excepcional la experiencia del cliente, 
+                    lo que, sin duda los consumidores agradecerán y recomendarán a otras personas, 
+                    lo cual beneficiará la demanda de los productos e ingresos.
+        Costo vs Servicio
+            calidad/precio/servicio 
+                "El cliente que se va por precio, volverá por servicio. 
+                Mientras que el que se va por servicio, no volverá por ningún precio".
+            Esta poderosa frase encierra una verdad fundamental 
+            sobre el mundo del comercio y los negocios. 
+            En un mercado altamente competitivo y saturado de opciones, 
+            es común que los clientes busquen 
+                las mejores ofertas 
+                y los precios más bajos. 
+            Sin embargo, lo que esta frase nos enseña es 
+                que la prioridad en la toma de decisiones no siempre debe centrarse en el precio, 
+                sino en la calidad del servicio que se recibe.
+            El precio es un factor relevante al momento de realizar una compra, 
+            especialmente en tiempos de incertidumbre económica. 
+            Los clientes pueden sentirse tentados a optar por una opción más económica 
+            para ahorrar dinero. Sin embargo, esta decisión puede tener consecuencias a largo plazo. 
+            Los productos o servicios más baratos pueden no satisfacer las necesidades del cliente 
+            de la misma manera que una opción de mayor calidad y servicio.
+            Cuando un cliente elige una empresa basándose en la calidad del servicio que esta ofrece, 
+            está demostrando una mayor conciencia y madurez en su proceso de compra. 
+            El servicio de excelencia no solo brinda una experiencia satisfactoria, 
+            sino que también construye una relación de confianza entre el cliente y la empresa. 
+            Cuando un cliente se siente
+                bien atendido, 
+                valorado 
+                y escuchado, 
+            se establece una conexión emocional que va más allá del simple acto de compra.
+        El Servicio al Cliente en la Logística y la Cadena de Suministros
+            La logística de servicio al cliente es el departamento encargado de 
+            garantizar que el producto o servicio adquirido se entregue 
+            en las condiciones establecidas en el momento de la compra.
+            Desde la perspectiva logística, el servicio al cliente es 
+            el resultado final de todas las actividades logísticas o 
+            procesos de la cadena de suministros. 
+            Por ello, el diseño del sistema de logística establece 
+            el nivel que se ofrecerá del servicio al cliente. 
+            La decisión del nivel de servicio que se ofrecerá al cliente es esencial 
+            para cumplir con los objetivos de utilidad de la empresa.
+        EFECTOS DEL SERVICIO 
+            SOBRE LAS VENTAS
+                La atención al cliente es importante porque es 
+                una de las formas más efectivas de conocer la credibilidad de una marca, 
+                además de ser uno de los aspectos que más marcan la diferencia 
+                cuando una empresa quiere destacarse de la competencia.
+                Un servicio al cliente efectivo aumentará la fidelidad de los clientes 
+                y con ella aumentan las ventas.
+            SOBRE LA PREFERENCIA DEL CLIENTE
+                Las preferencias del consumidor son los gustos individuales que 
+                cada consumidor tiene a la hora de seleccionar 
+                    un producto, 
+                    servicio 
+                    o marca. 
+                Estas preferencias están influenciadas por factores como 
+                    la calidad percibida, 
+                    el precio, 
+                    la conveniencia, 
+                    la marca, 
+                    la reputación, 
+                    o la innovación.
+                Si la empresa tiene un eficiente servicio al cliente, 
+                en conjunto con sus preferencias, se logra fidelizar al cliente.
+    VIDEO 
+        atencion y servicio al cliente
+            https://www.youtube.com/watch?v=5xGoNUkHpZQ
+    TRABAJO PRACTICO REVISADO / Nota: 7
+        Excelente trabajo,respuestas claras y concretas.
+        La solución enfocada directamente con el cliente.
+        Una mala atención al cliente aparece cuando las empresas no cumplen con las
+        expectativas del cliente en términos de calidad de servicio, tiempo de respuesta o
+        experiencia general del cliente.
+        Busque información respecto al tema seleccionado
+        9- No dar seguimiento a un caso
+        Mencionar bajo su criterio una solución.
+        ANALISIS
+            Falta de Resolución: 
+                Si un cliente plantea un problema o pregunta 
+                y la empresa no sigue el caso 
+                es probable que el problema no se resuelva adecuadamente. 
+                Esto puede llevar a 
+                    una sensación de falta de atención y cuidado por parte del cliente.✓
+            Percepción de Desinterés: 
+                La falta de seguimiento puede hacer que los clientes sientan 
+                    que la empresa no valora su propio negocio 
+                    o que no se ocupa lo suficiente por resolver sus inquietudes. 
+                Esto puede afectar negativamente la percepción general de la Empresa.✓
+            Aumento de la Frustración: 
+                    La falta de seguimiento puede provocar que los clientes se sientan ignorados,
+                    lo que aumenta su nivel de frustración. ✓
+                Esto puede resultar en 
+                    1-	críticas negativas, 
+                    2-	comentarios desfavorables con gente conocida y en redes sociales 
+                    3-	una disminución en la lealtad del cliente.✓
+        SOLUCION PLANTEADA
+            Para abordar la falta de seguimiento a un caso 
+            y optimizar la atención al cliente, 
+            las empresas pueden considerar implementar algunas soluciones:
+                Sistemas de Gestión de Casos Efectivos:
+                    Utilizar sistemas de gestión de casos que permitan: 
+                        realizar un seguimiento eficiente de las consultas y problemas de los clientes. 
+                        Estos sistemas pueden ayudar a 
+                            asignar responsabilidades 
+                            establecer plazos 
+                            y garantizar que cada caso se aborde de manera oportuna.✓
+                Comunicación Transparente y asertiva: 
+                        Informar a los clientes sobre el progreso de sus casos 
+                        proporcionar actualizaciones periódicas. 
+                        La transparencia en la comunicación ayuda a 
+                            1-Construir la confianza del cliente 
+                            2-Demostrar que la empresa está trabajando activamente para resolver sus problemas.✓
+                Capacitación del Personal: 
+                    Asegurarse de :
+                        que el personal esté capacitado para manejar eficientemente los casos de los clientes ✓
+                        y brindar un seguimiento adecuado. 
+                    Esto incluye :
+                        habilidades blandas 
+                        Comunicación asertiva 
+                        resolución de problemas 
+                        empatía✓
+            Encuestas de Satisfacción del Cliente: 
+                Implementar encuestas de satisfacción del cliente 
+                para obtener retroalimentación directa sobre 
+                            la calidad del servicio 
+                            y el manejo de casos. 
+                (Esto proporciona a la empresa información valiosa para realizar mejoras continuas.)✓
+            Análisis de Datos: 
+                Utilizar análisis de datos para identificar patrones 
+                en los casos de los clientes y anticiparse a problemas recurrentes. 
+                Esto permite a la empresa:  
+                    tomar medidas preventivas ✓Excelente
+                    y mejorar la experiencia del cliente.✓ Excelente
+                Al abordar la falta de seguimiento a los casos de los clientes, las empresas pueden 
+                    1-mejorar significativamente la calidad de su atención al cliente ✓
+                    2- fortalecer las relaciones con sus clientes.✓
+MODULO 3
+    TÉCNICAS DE DETECCIÓN DEL PUNTO ÓPTIMO DE INSTALACIÓN DE UNA ESTACIÓN DE TRABAJO
+        El estudio de la localizacion contribuye a minimizar los costos y tiene el proposito de  
+            buscar la ubicacion 
+            y cubrir las exigencias o requerimientos de un proyecto
+        Contribuye a minimizar 
+            los costos de inversion 
+            y costos de gastos durante el periodo productivo del proyecto
+        y de acuerdo a su forma de estudio este se divide en 2 tipos 
+        En ambos casos el Procedimiento de analisis de localizacion abordara 
+        las sigueintes fases 
+        ANALISIS DE LOCALIZACION 'FASES' 
+            Analisis preliminar  
+            Busqueda de alternativas de localizacion 
+            Evaluacion de Alternativas 
+            Seleccion de localizacion 
+        MACROLOCALIZACION 
+                Es decir la seleccion de la region o zona mas adecuada 
+                evaluando las regiones que preliminarmente presentes ciertos atractivos 
+                para la industri que se trate 
+                Tambien llamada MacroZona es el estadio de localizacion que 
+                tiene como proposito encontrar la ubicacion mas ventajosa para el proyecto 
+                OBJETIVO 
+                    Determinar el territorio o region en la que el proyecto
+                    tendra influencia con el medio, describiendo las 
+                    caracteristicas y ventajas.
+                    La region seleccionada puede ser en el ambito internacional 
+                    nacional o territorial. Solo requier analizar factores 
+                    de localizacion de acuerdo a su alcance geografico 
+                ASPECTOS A TOMAR EN CUENTA  
+                    Facilidades y costos de transporte 
+                    Disponibilidad y costo de la mano de obra e insumos 
+                    Materias primas 
+                    Energia electrica 
+                    Combustibles 
+                    agua etc 
+                    localizacion del mercado 
+                    disponibilidad 
+                    caracteristicas topograficas 
+                    costos de los terrenos 
+                    facilidades de distribucion 
+                    com unicaciones 
+                    condicones de vida 
+                    leyes y reglamentos 
+                    clima 
+                    acciones para evitar la contaminacion del medio amb 
+                    disponibilidad y confiabilidad de los sis de apoyo 
+                    actitud de la comunidad 
+                    zonas francas 
+                    condiciones sociales y culturales 
+                METODO SINERGICO DE LOCALIZACION DE PLANTA BROWN Y GIBSON 
+                    El Método Sinérgico o Método de Gibson y Brown 
+                    es un algoritmo cuantitativo de localización de plantas 
+                    que tiene como objetivo evaluar entre diversas opciones, 
+                    que sitio ofrece las mejores condiciones para instalar una planta
+                    basándose en tres tipos de factores: 
+                        críticos, 
+                        objetivos 
+                        y subjetivos. 
+                    La aplicación del modelo en cada una de sus etapas lleva a desarrollar 
+                    la secuencia de cálculo:
+                        Factores críticos: 
+                            Son factores claves para el funcionamiento de organización. 
+                            Su calificación es binaria, es decir, 1 o 0 y se clasifican en:
+                                Energía eléctrica
+                                Mano de obra
+                                Materia prima
+                                Seguridad
+                            El Factor crítico de una zona se determina como el producto 
+                            de las calificaciones de los sub-factores, por ejemplo:
+                                FC = Energía * Mano de Obra * Materia Prima * Seguridad
+                            En caso de que uno de los sub-factores sea calificado como 0 
+                            el resultado del factor crítico total de la zona será igual a 0.
+                        Factores Objetivos: 
+                            Son los costos mensuales o anuales más importantes ocasionados 
+                            al establecerse una industria y se clasifican en:
+                                Costo del lote
+                                Costo de mantenimiento
+                                Costo de construcción
+                                Costo de materia prima
+                        Factores Subjetivos: 
+                            Estos son los factores de tipo cualitativo, 
+                            pero que afectan significativamente el funcionamiento de la empresa. 
+                            Su calificación se da en porcentaje (%) y se clasifican en:
+                                Impacto ambiental
+                                Clima social
+                                Servicios comunitarios
+                                Hospitales
+                                Bomberos
+                                Policía
+                                Zonas de recreación
+                                Instituciones educativas
+                                Transporte
+                                Competencia
+                                Actitud de la comunidad
+                        Etapas del método sinérgico
+                            El método consta de las siguientes etapas:
+                            Asignar el valor binario a los factores críticos.
+                            Asignar un valor relativo a cada factor objetivo 
+                                (FO) para cada localización alternativa.
+                            Estimar un valor relativo de cada factor subjetivo 
+                                (FS) para cada localización alternativa.
+                            Combinar los factores objetivos, subjetivos y críticos 
+                            mediante la fórmula del algoritmo sinérgico.
+                            Seleccionar la ubicación que tenga la máxima 
+                            medida de preferencia de localización (MPL o IL).
+                        EJEMPLOS EN PLANILLA EXCEL 
+                            /trabajos practicos/EJERCICOS MÉTODO DEL CENTRO DE GRAVEDAD Y MÉTODO GIPSON Y BROWN.xls
+                        FORMULAS 
+                            FACTOR OBJETIVO
+                                FO=(1/Cti)/Zum(1/Cti)  
+                                El Factor objetivo para la ciudad A debera calcularse 
+                                    FOa=1/Cta*((1/Cta)+(1/Ctb)+(1/Ctc)+(1/Ctd))
+                                    FOa+FOb+FOc+FOd=1 (LA SUMA DE LOS FACTORES OBJETIVOS ES IGUAL A 1)
+                                Al ser siempre la suma de los FO igual a 1, 
+                                el valor que asume cada uno de ellos es siempre 
+                                un término relativo entre las distintas 
+                                alternativas de localización.
+                            FACTOR SUBJETIVO 
+                                El siguiente paso corresponde a la determinación 
+                                de los Factores subjetivos. 
+                                El carácter subjetivo de los factores de orden cualitativo 
+                                hace necesario asignar una medida de comparación que 
+                                valore los distintos factores. 
+                                ejem
+                                En el caso de que la disponibilidad de la mano de obra de la ciudad A 
+                                    sea «buena» su ponderación será del 15%, 
+                                    en el caso de que sea «excelente» será del 30% 
+                                    y de esta manera se determinan el resto de los factores 
+                                    según su ponderación y para las ciudades restantes.
+                            RESULTANTE
+                                El siguiente paso corresponde a la combinación de 
+                                    los factores críticos, 
+                                    objetivos 
+                                    y subjetivos 
+                                    mediante la fórmula del algoritmo sinérgico:
+                                    IL=FCi((FOi*α)+((1-α)*FSi))=Indice de localizacion
+                                    Donde α equivale al nivel de confiabilidad
+                                la ciudad que tiene el mayor índice de localización
+                                sería la mejor opción 
+                            VIDEO 
+                                https://www.youtube.com/watch?v=t8jj3cNojSk&ab_channel=ELSAMARGARITAGUERREROD%C3%8DAZ
+        MICROLOCALIZACION
+                La seleccion especifica del sitio o terreno que se encuentra 
+                en la region que ha sido evaluada como la mas conveniente 
+                Se elije el punto preciso dentro de la macrozona 
+                donde se ubicara definitivamente la empresa o negocio 
+                Conjuga aspectos relativos a 
+                    los asentamientos humanos
+                    Identificacion de las actividades productivas 
+                    y determinacion de centros de desarrollo 
+                    Seleccion y delimitacion precisa de las areas 
+                        tambien denominada sitio en que se localizara y operara 
+                        el proyecto dentro de la macro zona 
+                TOMAR EN CUENTA 
+                    Localizacion urbana, suburbana o rural 
+                    Transporte de personal 
+                    Policia y bomberos 
+                    Costo de terrenos 
+                    Cercania a carreteras 
+                    Cercania al aeropuerto 
+                    Disponibilidad de vias ferreas 
+                    Cercania al centro de la ciudad 
+                    Disponibilidd de servicios 
+                        (agua,energia electrica,gas,serv. telefonico)   
+                    Tipo de drenajes 
+                    Condiciones de las vias urbanas y de las carreteras 
+                    disponibilidad de restaurantes 
+                    recoleccion de basuras y residuos, restricciones locales 
+                    impuestos  
+                    Tamano del sitio 
+                    forma de lsitio 
+                    caracteristicas topograficas del sitio 
+                    condiciones del suelo en el sitio 
+                METODO DE CENTRO DE GRAVEDAD 
+                   ¿Para qué se usa el método de centro de gravedad?
+                    El método de centro de gravedad es utilizado para 
+                    calcular la localización de centros de distribución 
+                    cuando se tienen dos o más destinos. 
+                    Su utilización surge, de la necesidad de minimizar 
+                        costos de envío 
+                        y transportes 
+                        asociados a la entrega de mercancía 
+                        a las sucursales o a los clientes.
+                    Al desarrollar el método de centro de gravedad, 
+                    nos dará como resultado la localización 
+                    del lugar óptimo para la instalación 
+                    del almacén o centro de distribución.
+                    Este método se trabaja con un sistema de coordenadas. 
+                    A continuación, se presentan diferentes referencias de
+                    sistemas geográficos basados en coordenadas:
+                        Coordenadas geográficas (latitud – longitud).
+                        Coordenadas cartesianas.
+                        Coordenadas de un municipio.
+                    Cx=Zum(dix*Vi)/Zum(Vi)
+                    cy=Zum(diy*Vi)/Zum(Vi)
+                    Cx coordenada de la nueva instalacion en x 
+                    cy coordenada de la nueva instalacion en y 
+                    dix Distancia de la ubicacion i en terminos de x 
+                    diy Distancia de la ubicacion en terminos de y 
+                    Vi Aporte de la ubicacion 
+                EJEMPLOS EN PLANILLA EXCEL 
+                    /trabajos praticos/calculo coordenadas.xls
+                VIDEO 
+                    https://www.youtube.com/watch?v=NY0ggkTSgCc&ab_channel=Ingenierosconingenio
+MODULO 4
+    METODOLOGÍA Mejora Continua
+    Método Kaizen  ¿Qué es y cómo se implementa?
+        El método Kaizen se basa en 
+            realizar cambios en nuestras tareas diarias 
+            con la finalidad de llegar a cumplir los objetivos trazados a largo plazo. 
+        Este método es un sistema de gestión de calidad que sirve para 
+            eliminar las ineficiencias o errores que puedan afectar el desempeño 
+            del proyecto.
+        La filosofía Kaizen es utilizada en el ámbito empresarial en 
+            organizaciones mundialmente reconocidas como 
+                Toyota, Samsung o Nestlé, 
+            generando 
+                una mayor productividad por parte de sus empleados, 
+                logrando así una mejora continua en sus actividades 
+                y el cumplimiento de las metas u objetivos.
+        El término Kaizen se compone por dos palabras japonesas: 
+            kai (cambio)
+            zen (mejor)
+        Ambas traducidas hacen mención de la mejora continua. 
+            Por eso se dice que el significado de Kaizen deriva de dos pilares fundamentales: 
+                la gradualidad 
+                y la continuidad.    
+        Origen del método Kaizen
+            Su origen se remonta tras la II Guerra Mundial 
+            donde Japón perdió gran parte de su industria. 
+            Para promoverla, el gobierno nipón impulsó las medidas que promovían 
+                William Edwards Deming 
+                y Joseph Juran, 
+                especialistas en control de la calidad en la gestión empresarial, 
+                que se basaban en utilizar la estadística para 
+                controlar la calidad de los procesos.
+            Tras la puesta en marcha de su metodología, en pocas décadas, 
+            las empresas japonesas se convirtieron en líderes del mercado mundial 
+            y en grandes competidores.
+            Métodos para implantar una Mejora Continua
+                El método Kaizen se basa en 
+                    realizar cambios o mejoras dentro de nuestras actividades diarias 
+                    de manera gradual. 
+                    Realizando estas actividades alcanzaremos mejores resultados que 
+                    si realizamos un cambio grande en un período corto de tiempo.
+                A continuación, te detallaremos 4 técnicas 
+                    para comenzar a emplear la metodología Kaizen dentro de tu empresa:
+                    1- Las 5S es 
+                            una herramienta de gestión visual fundamental dentro de Lean Manufacturing, 
+                                y utilizada habitualmente como punto de partida para 
+                                introducir la mejora continua en la empresa. 
+                            Su misión es 
+                                optimizar el estado del entorno de trabajo, 
+                                facilitar la labor de los empleados 
+                                y potenciar su capacidad para la detección de problemas. 
+                            Con su implementación conseguimos mejorar 
+                                la productividad del proceso 
+                                y aumentar la calidad.
+                            Disponer de un puesto de trabajo 
+                                ordenado,
+                                limpio 
+                                y bien organizado, 
+                            es clave para 
+                                atajar las pérdidas de tiempo-desplazamientos innecesarios, 
+                                reducir los defectos en piezas, 
+                                ahorrar en mantenimiento 
+                                y aumentar la seguridad. 
+                            ayuda a que el personal de planta 
+                                    esté motivado 
+                                    y trabaje en las mejores condiciones.
+                            La metodología 5S fue desarrollada en Japón 
+                            y cada una de las S hace referencia a una acción 
+                            a realizar para implantar este método: 
+                                    1ª S 
+                                    CLASIFICACIÓN (SEIRI)
+                                        Consiste en 
+                                            identificar 
+                                            y clasificar los materiales indispensables 
+                                            para la ejecución del proceso. 
+                                            El resto, se considerará material innecesario 
+                                            y por lo tanto se eliminará o separará. 
+                                            A partir de ese momento, 
+                                            se realizará un inventario estándar de cada puesto de trabajo.
+                                            De esta forma, el trabajador dispone de 
+                                            las herramientas que realmente necesita 
+                                            y ya no existirán otros elementos que puedan dificultar su trabajo.
+                                    2ª S 
+                                    ORGANIZACIÓN (SEITON)
+                                        En segundo lugar, se procede a ordenar 
+                                            los materiales indispensables, 
+                                            facilitando las tareas de 
+                                                encontrar, 
+                                                usar 
+                                                y reponer estos útiles.
+                                            Con ello se consigue 
+                                                eliminar tiempos no productivos asociados a la búsqueda de materiales 
+                                                y desplazamientos innecesarios. 
+                                                Se debe marcar la ubicación de 
+                                                    cada material, 
+                                                    componente 
+                                                    o herramienta, 
+                                                    para ello nos servimos de 
+                                                        etiquetas, moldes, dibujos, señales, etc.
+                                    3ª S 
+                                    LIMPIEZA (SEISO)
+                                        Es indispensable 
+                                                localizar 
+                                                y eliminar 
+                                                la suciedad del puesto de trabajo, 
+                                                así como su correcto mantenimiento.
+                                            Disponer de un estándar adecuado de 
+                                                limpieza 
+                                                y organización 
+                                                repercute directamente 
+                                                    en la motivación del personal, 
+                                                    además de reducir en gran medida los accidentes y lesiones.
+                                    4ª S 
+                                    ESTANDARIZAR (SEIKETSU)
+                                        El proceso de estandarizar trata de distinguir fácilmente 
+                                            una situación NORMAL de una ANORMAL, 
+                                            es decir, el personal debe ser capaz de discernir 
+                                            cuando las 3S anteriores se están aplicando correctamente y cuando no.
+                                            Es imprescindible que todo el personal de planta disponga de +
+                                            la formación adecuada para identificar este tipo de situaciones. 
+                                            De esta forma, el personal 
+                                                se siente más valorado 
+                                                y aumenta su motivación.
+                                                A su vez, los operarios son más polivalentes 
+                                                y son capaces de detectar pequeños fallos en su puesto, 
+                                                    que a posteriori pudieran desencadenar problemas más graves.
+                                    5ª S 
+                                    SEGUIR MEJORANDO (SHITSUKE)
+                                        Las 5S no tienen un fin definido. 
+                                        Es un ciclo que se repite continuamente y en el que se debe 
+                                        de disponer de una disciplina para mantener un puesto de trabajo ordenado y limpio.
+                                        El éxito en la implantación de las 5S genera 
+                                            un espacio de trabajo mucho más agradable, 
+                                            se reducen stocks, 
+                                            accidentes y 
+                                            se aumenta la productividad 
+                                            y satisfacción del personal de la empresa. 
+                                        Por ello la prioridad es mantener esta disciplina de una forma rigurosa y constante.
+                    2- SMED +
+                        (acrónimo de Single Minute Exchange of Die) 
+                        es una técnica de trabajo que permite reducir 
+                            el tiempo de cambio 
+                            y configuración de un producto o lote 
+                            en una operación de un solo dígito; es decir, 
+                            en menos de 10 minutos.
+                        Este método fue desarrollado por Shigeo Shingo, ingeniero industrial japonés reconocido a nivel mundial por ayudar a las compañías a reducir drásticamente sus tiempos de cambio. 
+                        Pero ¿cómo implementar el SMED en una empresa? 
+                        Para ello, se deben cumplir una serie de pasos:
+
+                        1,-Identificar un proceso
+                            El primer paso es identificar el proceso en que se desea mejorar los tiempos de cambio. 
+                            Algunos criterios para determinarlo pueden ser:
+                            ¿El tiempo de cambio es bastante largo?
+                            ¿Existen muchos tiempos de cambio diferentes entre un paso específico y otro?
+                            ¿Los pasos o procesos ocurren con regularidad?
+                            ¿Los empleados están bien informados y capacitados en el proceso?
+                        2.-Identificar los elementos
+                            El siguiente escalón es identificar los elementos inmersos en el proceso de cambio. 
+                            Para ello, se recomienda grabar cada uno de los pasos para determinar cuáles se deben mejorar. 
+                            Cuando se haya observado cada paso, es importante separarlos de acuerdo a dos criterios: 
+                            Los que pueden hacer los humanos y los que pueden realizar las máquinas. 
+                            El resultado de este paso es una lista completa de los elementos de cambio, cada uno con su respectiva descripción y el costo del tiempo.
+                        3.-Identificar los elementos externos separados
+                            En este paso, los elementos del proceso de cambio que se pueden realizar con poca o nula modificación, mientras el equipo está en funcionamiento, se identifican y se llevan a cabo antes del cambio real.
+                            Para ello, el equipo debe hacerse la siguiente pregunta: 
+                            ¿Se puede completar este elemento, Cómo se realiza actualmente o con cambios mínimos, mientras el equipo está en funcionamiento? 
+                            Si la respuesta es sí, se categoriza el elemento como externo.
+                        4.-Convertir los elementos internos en externos
+                            Se examina cuidadosamente el proceso de cambio que se está llevando a cabo para convertir tantos elementos internos en externos como sea posible. 
+                            Para ello, el equipo que está llevando a cabo el estudio debe hacerse las siguientes preguntas: 
+                            Si hubiera una manera de hacer que este elemento sea externo, ¿cuál sería? ¿Cómo podríamos hacerlo?
+                            La respuesta brindará una lista de elementos que son candidatos para acciones futuras, dándoles prioridad a aquellos que brindan mayores beneficios con respecto a su costo.
+                        5.-Simplificar los elementos restantes
+                            En este paso, se revisan los elementos restantes para que puedan completarse en el menor tiempo posible. 
+                            Para ello, es importante darles prioridad a los elementos internos, pues ellos ayudarán a alcanzar el objetivo principal de acortar el tiempo de cambio.
+                            Al final, se tendrá una serie de instrucciones que permitirán en futuras acciones reducir el tiempo de cambio de manera rápida y precisa.
+                    3- GESTION DE CALIDAD
+                        La gestión de calidad es el conjunto de actividades 
+                        y procesos que se llevan a cabo en una organización 
+                        con el objetivo de garantizar y mejorar la calidad 
+                        de los productos o servicios que ofrece. 
+                        Consiste en 
+                            planificar, 
+                            coordinar, 
+                            controlar 
+                            y evaluar todas las etapas y aspectos 
+                            relacionados con la calidad, 
+                            desde el diseño y desarrollo hasta la producción, 
+                            distribución y atención al cliente.
+
+                        La gestión de calidad implica establecer 
+                            estándares 
+                            y normas de calidad,
+                            implementar sistemas 
+                            y procesos para cumplir con esos estándares, 
+                            realizar el control 
+                            y seguimiento de la calidad, 
+                            y tomar medidas correctivas 
+                            y preventivas para asegurar 
+                                que se cumplan los requisitos de calidad establecidos. 
+                            También implica la capacitación y participación de los empleados 
+                            en la mejora continua de los procesos 
+                            y en la satisfacción del cliente.
+                        ¿Qué actividades se incluyen en la gestión de la calidad?
+                            Es clave que cada empresa establezca un 
+                            sistema de gestión de la calidad profesional 
+                            (QMS, por sus siglas en inglés o SGC, por sus siglas en español). 
+                            El diseño de dicho sistema es responsabilidad 
+                                del director de calidad 
+                                y del departamento de Gestión de Calidad.
+                        En general, las siguientes actividades forman parte de las responsabilidades de un responsable de gestión de calidad:
+                            Supervisión de los procesos y flujos de trabajo.
+                            Definición de los estándares de calidad
+                            Optimización de los procesos internos.
+                            Planificación e implementación del sistema de gestión de calidad.
+                            Elaboración de la documentación del sistema de gestión de calidad o SGC.
+                            Realización de auditorías internas y externas.
+                            Brindar asesoramiento y capacitación a los empleados.
+                        Calidad o normas ISO 9000
+                            Las normas ISO 9000 son una serie de estándares internacionales 
+                            desarrollados por la Organización Internacional de Normalización 
+                            (ISO) que se centran en los sistemas de gestión de calidad. 
+                            Estas normas establecen 
+                                los criterios 
+                                y principios para 
+                                    implementar 
+                                    y mantener un sistema de gestión de calidad efectivo 
+                                    en una organización.
+
+                            Las normas ISO 9000 se componen de varias partes, 
+                            siendo las principales la norma ISO 9001, que establece 
+                            los requisitos para un sistema de gestión de calidad, 
+                            y las normas ISO 9000:2015 e ISO 9004:2018, 
+                            que brindan orientación sobre la aplicación 
+                            de un sistema de gestión de calidad y la mejora continua.
+                            La norma ISO 9000 existe desde 1947 como respuesta 
+                            a la orientación de las empresas hacia los procesos en ese momento.
+                            Tiene como objetivo brindar apoyo a las empresas que desean 
+                            implementar sistemas de gestión de calidad.
+                            En esta primera norma se explican en detalle los conceptos 
+                            básicos de los sistemas de gestión de calidad 
+                            y se definen términos importantes. 
+                            Su propósito es familiarizar a las empresas con el tema 
+                            para que puedan comprender las explicaciones de las normas posteriores.
+                        Etapas en la implantación de gestión de calidad en la empresa
+                            Un proyecto de implantación de gestión de la calidad en una empresa 
+                            comprenderá entre otras, las siguientes fases:
+                                Diagnóstico y evaluación de la situación actual 
+                                    para identificar los puntos débiles.
+                                Elección y designación del equipo de implantación. 
+                                    Se elegirá un equipo responsable de la plantificación 
+                                    y gestión d calidad.
+                                Formación y entrenamiento. 
+                                    Esta formación se destinará a todos los estamentos 
+                                    de la organización incluidos los directivos.
+                        Criterios de calidad. 
+                            Definición de los criterios e indicadores de calidad.
+                        Manual de calidad. 
+                            Este documento debe recoger todo lo relevante relativo 
+                            a la gestión de calidad en la empresa, desde quiénes son 
+                            los responsables de la planificación de la gestión de calidad, 
+                            hasta las actividades, formación y certificaciones.
+                        Auditorías y evaluación de resultados con el objetivo de evaluar el proyecto.
+                    4- JUST IN Time
+                        El método Just in Time (JIT), también denominado sistema Justo a Tiempo, 
+                        es una metodología originalmente creada para la organización de la producción 
+                        cuyo objetivo es 
+                            el de contar únicamente con la cantidad necesaria de producto, 
+                            en el momento y lugar justo, 
+                            eliminar cualquier desperdicio o elemento que no aporte valor.
+                        Actualmente el Sistema Just in Time se aplica de forma generalizada 
+                        en los procesos logísticos de las bodegas con el fin de conseguir 
+                        la mayor eficiencia posible en toda la cadena de suministro.
+                        Se trata de un sistema de sencilla definición, 
+                        pero de compleja aplicación ya que requiere de 
+                            una gran coordinación 
+                            y organización entre todos los elementos que interactúan en la cadena de suministro.
+                        Origen y funcionamiento del Sistema Just in Time (JIT)
+                            El sistema Justo a tiempo tiene su origen en Japón en los años 50, 
+                            cuando la empresa automovilística Toyota comenzó a utilizar 
+                            un sistema propio de producción Toyota Production System 
+                            que con los años se fue perfeccionando hasta definir el método Just in Time actual.
+                            El objetivo con el que surgió este sistema era sencillo, 
+                                eliminar o reducir del proceso de producción 
+                                    cualquier elemento que no aportase valor. 
+                                En definitiva, conseguir 
+                                    la eficiencia a través de la simplicidad, 
+                                    filosofía muy arraigada en el país Nipón.
+                        Estos elementos podrían ser +
+                            desde materia prima 
+                            hasta equipamiento 
+                            o espacio de bodega, 
+                            y con ellos conseguir reducir costes, plazos y recursos.
+                        Pronto el método Just in Time comenzó a aplicarse no solo 
+                        en el proceso productivo, si no en todos los ámbitos de la empresa, 
+                        debido a las notables mejoras de competitividad que experimentaban 
+                        las empresas que lo aplicaban.
+                        La filosofía JIT se extendió entre las principales empresas japonesas, 
+                        y posteriormente, aunque con mayores dificultades, en las empresas de occidente.
+                        Con este sistema, se pasa de un sistema del tipo Push 
+                        en el que cada fase de la cadena acumula su producción 
+                        hasta ser requerida por la siguiente fase, 
+                        a un sistema Pull en el que cada fase es quien solicita 
+                        a la fase anterior de la cadena de suministro la cantidad requerida, 
+                        y de esta forma solo se produce lo necesario.
+                        Para aplicar la filosofía Just in Time correctamente en la bodega 
+                        se deben suprimir todas las fases que no aportan valor al proceso, 
+                        por lo que se debe estudiar en profundidad el sistema de almacenaje 
+                        a instalar y su tipo de gestión y flujo de producto, 
+                            se deben reducir las distancias recorridas por operarios y grúas horquilla,
+                            se deben reducir los tiempos de la preparación de pedidos 
+                            y simplificar el proceso de recepción 
+                            y expedición de la mercancía.
+                        Ventajas del sistema Just in Time
+                            Las principales ventajas que tiene la aplicación del sistema Just in Time son:
+                                Reducción del nivel de stock de existencias. Solo se produce la cantidad necesaria solicitada por la siguiente fase de la cadena de suministra, por lo que se optimiza el tiempo de almacenaje de los productos y el uso del espacio.
+                                Se evita la caducidad o deterioro de productos almacenados durante tiempo excesivo. El sistema JIT necesitará apoyarse del sistema de gestión de bodegas óptimo para cumplir con esta correcta rotación de existencias.
+                                Se reducen los tiempos de carga y descarga de la mercancía.
+                                Reducción de costes de almacenaje e inventario y por tanto mejora de la competitividad de las empresas.
+                                Es un sistema de gran adaptabilidad una vez implantado, ya que simplifica todas las fases de cadena de suministro.
+                        ¿Cómo aplicar el sistema Just in Time en una bodega?
+                            Para poner en marcha de forma adecuada el método Just in Time (JIT) 
+                            en una bodega se debe tener en cuenta:
+                                Diseño del Layout reduciendo recorridos
+                                    El diseño del Layout de la bodega inicial es clave a 
+                                    la hora de implementar el sistema Justo a tiempo.
+                                    Se debe diseñar un Layout de bodega que reduzca 
+                                    los recorridos que deben hacer las grúas horquilla 
+                                    y los operarios y que simplifique el flujo de las 
+                                    mercancías entre las distintas zonas de la bodega.
+                                Definir el sistema de almacenaje adecuado
+                                    El sistema de racks industriales elegido para almacenar 
+                                    las existencias de la bodega es otro punto clave.
+                                    Por lo general se utilizan sistemas de almacenaje que 
+                                    faciliten el flujo de la mercancía y el control de stock, 
+                                    como suelen los sistemas de gestión FIFO.
+                                    El máximo grado de eficiencia se puede conseguir 
+                                    con la automatización del sistema de almacenaje, 
+                                    eliminando de esta forma las maniobras de los operarios 
+                                    y llevando a cabo un control de existencias automático.
+                                    Pueden instalarse sistemas semiautomáticos como 
+                                        el AR Shuttle para pallets, 
+                                        o sistemas totalmente automatizados como 
+                                        las bodegas Automáticas AS/RS, 
+                                        bodegas Autoportantes 
+                                        o Sistemas Miniload para cargas ligeras.
+                                Agilizar el proceso de recepción y expedición
+                                    En la optimización de tiempos en bodega el proceso de recepción 
+                                    y expedición de la mercancía es una fase en la que también hay que trabajar. 
+                                    Las recepciones se harán con cantidades menores con el sistema Just in Time 
+                                    por lo que el proceso debe ser más rápido.
+                                    Es recomendable instalar sistemas de carga y descarga automática de la mercancía.
+                                Realizar un estricto control de inventarios
+                                    Una vez la bodega cuenta con un correcto Layout, 
+                                    un sistema de almacenaje adecuado 
+                                    y un rápido proceso de carga y descarga, 
+                                    la empresa debe asegurar que el proceso funciona mediante 
+                                    un control de inventarios estricto y constante.
+                                    En el sistema “Just in Time”, esta fase es vital 
+                                    ya que cualquier desajuste en el stock supondrá 
+                                    el retraso de toda la cadena de suministro 
+                                    y por tanto el mal funcionamiento del método.
+            ANALISIS DE PROCESOS 
+                Un proceso es un sistema que consiste en una serie recurrente de actividades 
+                que se realizan en una secuencia específica para lograr un resultado deseado. 
+                Visualicemos esto con un ejemplo simple: 
+                    Como administrador de devoluciones, 
+                    se asegura de que las devoluciones entrantes se manejen sin problemas. 
+                    El proceso de manipulación de una devolución podría ser el siguiente: 
+                        1. Recepción de mercancías
+                        2. Evaluación de las mercancías
+                        3. Embalaje
+                        4. Almacenamiento.
+                ¿Qué es un análisis de procesos?
+                    A través de un análisis, los procesos en su empresa 
+                    se visibilizan y evalúan por primera vez. 
+                    Desglosar sus operaciones y realizar un análisis sistemático 
+                    para obtener una comprensión de cada proceso e identificar 
+                        las debilidades 
+                        y el potencial de optimización. 
+                    Un análisis de procesos es una parte fundamental de la gestión operativa. 
+                    El análisis del proceso revela 
+                        debilidades, 
+                        potenciales de mejora 
+                        y causas de posibles discrepancias 
+                            entre el rendimiento actual y el rendimiento objetivo del proceso.
+
+                    Sobre la base de los objetivos, el rendimiento de los procesos 
+                    se supervisa y analiza continuamente. 
+                    Un proceso estandarizado le permite investigar sistemáticamente 
+                    las desviaciones o errores en la ejecución del proceso y sus causas. 
+                    La información de medición de la ejecución del proceso sirve como base aquí. 
+                    Se evalúan los potenciales de mejora identificados y se toma una decisión sobre 
+                    su implementación. 
+                    Debe hacerse estas preguntas antes de realizar un análisis de proceso:
+                        ¿Cómo se puede estandarizar el procedimiento?
+                        ¿Cómo se pueden sincronizar los procesos interdepartamentales?
+                        ¿Dónde se pueden evitar las curvas de trabajo sin función alguna?
+                        ¿Todos los procesos están provistos de información suficiente?
+                    CONOZCA MEJOR SUS PROCESO EN 4 PASOS 
+                        1-identificar procesos 
+                            Sobre la base de las estructuras 
+                            organizativas y de procesos, primero se identifican 
+                            las areas problematicas que deben 
+                            considerarse en el contexto de modelado tal como esta 
+                        2-registrar procesos (estado actual) 
+                            La segunda fase consiste en crear modelos graficos 
+                            que mapeen y visualicen los proceso en cuestion 
+                        3- analizar procesos 
+                            aqui se revisa el estado actual 
+                            con respecto a 
+                                debilidades 
+                                y ahorros potenciales         
+                        4- identificar medidas de optimizacion 
+                            dependiendo del objetivo predefinido 
+                            desarrolle diferentes enfoques para la optimizacion 
+                            de los procesos 
+                    METODOS    
+                        ¿Qué método puede utilizar para el análisis de procesos?
+                        FODA (estado actual) fortalezas y debilidades
+                            El análisis DAFO es un método probado para analizar 
+                            el estado actual de su empresa. 
+                                Por un lado, examina las fortalezas y debilidades de la empresa, 
+                                y por otro lado las oportunidades y amenazas del entorno. 
+                            DAFO consiste en las letras iniciales de las palabras 
+                                Fortalezas, Debilidades, Oportunidades y Amenazas. 
+                                Este método de análisis le permite registrar 
+                                el estado actual de su empresa para posteriormente 
+                                derivar medidas de mejora adecuadas.
+                                ANALISIS INTERNO 
+                                    FORTALEZAS / DEBILIDADES 
+                                ANALISIS EXTERNO 
+                                    OPORTUNIDADES / AMENAZAS 
+                                    Estrategia 
+                                        reorientacion / supervivencia
+                                        ofensiva / defensiva   
+                        ISHIKAWA (debilidades) Espina de pescado Causas y efectos               
+                            Cómo descubrir debilidades en sus procesos y explotar el potencial de mejora
+                                El diagrama de Ishikawa o diagrama de espina de pescado 
+                                    es un método cualitativo de gestión de la calidad 
+                                    que sirve para identificar problemas en 
+                                    sus flujos de trabajo y para resolver sus causas. 
+                                Según Ishikawa, se consideran las siguientes 
+                                fuentes de error o dimensiones de causa (7M):
+                                    1 Humano: 
+                                        Falta de conocimiento de los empleados, 
+                                        conflictos en el equipo, 
+                                        mala comunicación y cooperación.
+
+                                    2 Máquina: 
+                                        Raro o nulo mantenimiento e inspección de 
+                                            maquinaria, 
+                                            equipos 
+                                            y herramientas.
+
+                                    3 Método: 
+                                        Falta de procesos, 
+                                        flujos de trabajo deficientes.
+
+                                    4 Entorno: 
+                                        Influencias externas como 
+                                            nuevas regulaciones, 
+                                            leyes, 
+                                            cambios en el comportamiento del cliente, 
+                                            cambios en el mercado.
+
+                                    5 Material: 
+                                        Mal almacenamiento 
+                                        y calidad de las materias primas.
+
+                                    6 Medición: 
+                                        Medición incorrecta e insuficiente de los datos.
+
+                                    7 Gestión: 
+                                        Objetivos poco claros, 
+                                        decisiones de gestión equivocadas.
+                                En función de las posibles causas del problema, 
+                                    se desarrollan ideas para soluciones 
+                                    y posteriormente se derivan medidas de optimización. 
+                                Por ejemplo, 
+                                    si la causa de su problema radica en la falta de procesos, 
+                                    un software de gestión de procesos le ayuda a capturar, 
+                                    documentar y visualizar claramente sus procesos de negocio existentes.
+    VIDEOS kaizen   
+        https://www.youtube.com/watch?v=TIluVXT0c1s
+        https://www.youtube.com/watch?v=tfXbK7R5sf8
+        https://www.youtube.com/watch?v=v3Ily-LKC4w
+        https://www.youtube.com/watch?v=SblJqSY4tdM
+                    2- Metodo SMED 
+                        (acrónimo de Single Minute Exchange of Die) 
+                        es una técnica de trabajo que permite reducir 
+                            el tiempo de cambio 
+                            y configuración de un producto o lote +
+                            en una operación de un solo dígito; es decir, en menos de 10 minutos.
+                        Este método fue desarrollado por Shigeo Shingo, ingeniero industrial japonés 
+                        reconocido a nivel mundial por ayudar a las compañías a 
+                            reducir drásticamente sus tiempos de cambio. 
+                        Pero ¿cómo implementar el SMED en una empresa? 
+                        Para ello, se deben cumplir una serie de pasos:
+                        1,-Identificar un proceso
+                            El primer paso es identificar el proceso 
+                            en que se desea mejorar los tiempos de cambio. 
+                            Algunos criterios para determinarlo pueden ser:
+                                ¿El tiempo de cambio es bastante largo?
+                                ¿Existen muchos tiempos de cambio diferentes entre un paso específico y otro?
+                                ¿Los pasos o procesos ocurren con regularidad?
+                                ¿Los empleados están bien informados y capacitados en el proceso?
+                        2.-Identificar los elementos
+                            El siguiente escalón es identificar los elementos inmersos en el proceso de cambio. 
+                            Para ello, se recomienda 
+                                grabar cada uno de los pasos para determinar cuáles se deben mejorar. 
+                            Cuando se haya observado cada paso, es importante
+                            separarlos de acuerdo a dos criterios: 
+                                Los que pueden hacer los humanos 
+                                y los que pueden realizar las máquinas. 
+                                El resultado de este paso es una lista completa de los elementos de cambio, 
+                                cada uno con 
+                                    su respectiva descripción 
+                                    y el costo del tiempo.
+                        3.-Identificar los elementos externos separados
+                            En este paso, los elementos del proceso de cambio que se pueden realizar 
+                            con poca o nula modificación, mientras el equipo está en funcionamiento, 
+                            se identifican y se llevan a cabo antes del cambio real.
+                                Para ello, el equipo debe hacerse la siguiente pregunta: 
+                                    ¿Se puede completar este elemento, 
+                                    Cómo se realiza actualmente o con cambios mínimos,
+                                    mientras el equipo está en funcionamiento? 
+                                    Si la respuesta es sí, se categoriza el elemento como externo.
+                        4.-Convertir los elementos internos en externos
+                            Se examina cuidadosamente el proceso de cambio que se está llevando a cabo 
+                            para convertir tantos elementos internos en externos como sea posible. 
+                            Para ello, el equipo que está llevando a cabo el estudio 
+                            debe hacerse las siguientes preguntas: 
+                                Si hubiera una manera de hacer que este elemento sea externo, 
+                                    ¿cuál sería? 
+                                    ¿Cómo podríamos hacerlo?
+                                La respuesta brindará una lista de elementos que son candidatos para 
+                                acciones futuras, dándoles prioridad a aquellos que brindan
+                                mayores beneficios con respecto a su costo.
+                        5.-Simplificar los elementos restantes
+                            En este paso, se revisan los elementos restantes para 
+                            que puedan completarse en el menor tiempo posible. 
+                            Para ello, es importante darles prioridad a los elementos internos, 
+                            pues ellos ayudarán a alcanzar el objetivo principal 
+                                de acortar el tiempo de cambio.
+                            Al final, se tendrá una serie de instrucciones que permitirán en futuras acciones 
+                            reducir el tiempo de cambio de manera rápida y precisa.
+            TQM MEJORA CONTINUA 
+        CALIDAD
+            productos 
+            procesos
+            trabajo 
+            Empresa
+        TOTAL 
+            INCLUSION 
+                clientes 
+                empleados 
+                proveedores
+        GESTION 
+            Trabajo en Equipo 
+            Capacidad de aprendizaje 
+            REsponsabilidad 
+            La gestión de calidad es el conjunto de 
+                actividades 
+                y procesos 
+                que se llevan a cabo en una organización con el objetivo de 
+                    garantizar 
+                    y mejorar la calidad de 
+                        los productos 
+                        o servicios que ofrece. 
+                Consiste en 
+                    planificar, coordinar, controlar y evaluar 
+                    todas las etapas y aspectos relacionados con la calidad, 
+                    desde el diseño y desarrollo hasta 
+                        la producción, 
+                        distribución 
+                        y atención al cliente.
+            La gestión de calidad implica establecer 
+                estándares 
+                y normas de calidad, 
+                implementar sistemas y procesos 
+                para cumplir con esos estándares, 
+                    realizar el control 
+                    y seguimiento de la calidad, 
+                    y tomar medidas 
+                        correctivas 
+                        y preventivas 
+                        para asegurar que se cumplan los requisitos de calidad establecidos. 
+                También implica 
+                    la capacitación 
+                    y participación de los empleados en la mejora continua de 
+                    los procesos y en la satisfacción del cliente.
+            ¿Qué actividades se incluyen en la gestión de la calidad?
+                Es clave que cada empresa establezca un sistema de gestión de la calidad profesional 
+                (QMS, por sus siglas en inglés o 
+                SGC, por sus siglas en español). 
+                El diseño de dicho sistema es responsabilidad 
+                    del director de calidad 
+                    y del departamento de Gestión de Calidad.
+                En general, las siguientes actividades forman parte de 
+                las responsabilidades de un responsable de gestión de calidad:
+                    Supervisión de los procesos y flujos de trabajo.
+                    Definición de los estándares de calidad
+                    Optimización de los procesos internos.
+                    Planificación e implementación del sistema de gestión de calidad.
+                    Elaboración de la documentación del sistema de gestión de calidad o SGC.
+                    Realización de auditorías internas y externas.
+                    Brindar asesoramiento y capacitación a los empleados.
+            Calidad o normas ISO 9000
+                Las normas ISO 9000 son una serie de estándares internacionales 
+                desarrollados por la Organización Internacional de Normalización (ISO) 
+                que se centran en los sistemas de gestión de calidad. 
+                Estas normas establecen los criterios y principios para 
+                implementar y mantener un sistema de gestión de calidad efectivo en una organización.
+
+                Las normas ISO 9000 se componen de varias partes, 
+                    siendo las principales la norma ISO 9001, 
+                        que establece los requisitos para un sistema de gestión de calidad, 
+                    y las normas ISO 9000:2015 e ISO 9004:2018, que brindan orientación 
+                        sobre la aplicación de 
+                            un sistema de gestión de calidad 
+                            y la mejora continua.
+                    La norma ISO 9000 existe desde 1947 como respuesta a la orientación de las empresas hacia los procesos en ese momento. Tiene como objetivo brindar apoyo a las empresas que desean implementar sistemas de gestión de calidad.
+
+                En esta primera norma se explican en detalle los conceptos básicos 
+                de los sistemas de gestión de calidad y se definen términos importantes. 
+                Su propósito es familiarizar a las empresas con el tema para que puedan 
+                comprender las explicaciones de las normas posteriores.
+    VIDEO FODA  
+        https://youtu.be/7OfpkmCQBEk?si=l_FX_6OWpZ8xomHf
+    VIDEO ISHIKAWA
+        https://youtu.be/7fYLFzl1njM?si=N-Tsf2852mDwTeB6 
+MODULO 5 
+    METODO ABC
+        Qué es el método ABC para almacenes e inventarios
+            El método ABC para la gestión de almacenes es 
+                una estrategia de clasificación de la mercancía 
+                en función de 
+                    su valor 
+                    y nivel de rotación.
+            Se trata de un sistema de optimización logística 
+            destinado a mejorar 
+                los tiempos de entrada y salida de los productos del inventario, 
+                priorizando aquellos que otorgan una mayor ganancia. 
+            El método ABC aplica la teoría de Pareto en un almacén, bajo la cual 
+                el 20% de la mercancía será la responsable de traer 
+                el 80% de los beneficios empresariales. 
+            De esta manera, los artículos se distribuyen estratégicamente para 
+                que el aporte económico a la empresa sea máximo, +
+                siendo los artículos categorizados como 
+                    A los más rentables 
+                    y los de clase C los más ineficientes de gestionar.
+            Cómo categorizar los productos en el sistema ABC
+                La clave para aplicar el sistema ABC es 
+                    saber clasificar los artículos según 
+                        su rentabilidad para su posterior reubicación:
+            CLASIFICACION
+                Mercadería o Producto de categoría A
+                    Los productos clasificados como A 
+                    son los más importantes en el método ABC 
+                    y corresponden al 20% del inventario, 
+                    pero aportan el 80% de los ingresos empresariales.
+                    El objetivo de la empresa es priorizar 
+                    la buena rotación de estos artículos en todo momento, 
+                    ya que suelen ser aquellos con una alta demanda. 
+                    Por otro lado, cualquier problema de escasez o falta de unidades 
+                    supondrá una gran pérdida para la empresa.
+                    En cuanto a la ubicación, según el método ABC toda mercancía 
+                    categorizada como A debe colocarse en zonas de almacén de fácil acceso. 
+                Mercadería de categoría B
+                    La categoría B se aplica a aquellos productos de importancia media 
+                    y cuya rotación dentro del inventario no es prioritaria. 
+                    Suponen un 30% del almacén 
+                    y pueden llegar a generar hasta el 15% de los ingresos.
+                    Esta mercancía también debe ser tratada con cierta diligencia, 
+                    siempre y cuando su optimización no entorpezca o limite los recursos 
+                    destinados a la mercancía de categoría A. 
+                    Su ubicación debe ser la siguiente más accesible una vez toda 
+                    la mercancía de categoría A esté cubierta. 
+                    Lo más habitual es colocarlos en zonas intermedias del inventario.
+                Mercadería de categoría C
+                    Los productos de categoría C suponen el 50% del almacén, pero su impacto 
+                    en el beneficio no supera el 5%, por lo que deben ser gestionados 
+                    con una prioridad mínima.
+                    Como es lógico, sólo se destinará tiempo y recursos en este tipo de mercancías 
+                    cuando el resto del almacén ya esté optimizado. 
+                    Además, su ubicación dentro del almacén es la más apartada de todas.
+                    En ocasiones habrá que valorar si mantener este tipo de stock es realmente rentable
+                    puede que los costes de mantenimiento sean excesivos o que entorpezcan otros 
+                    procesos logísticos del almacén.
+                Ventajas y beneficios del sistema ABC
+                    Agiliza los procesos de gestión y preparación de pedidos
+                    Reduce los cuellos de botella en el almacén
+                    Optimiza el control del stock y mejora el conteo de unidades
+                    Minimiza costes y reduce el tiempo de trabajo de los operarios
+                    Facilita la rotación de stock y asegura el aprovisionamiento de las mercancías+
+                Facilita la gestión operativa de la bodega
+                    Con el sistema ABC se da prioridad y mejor ubicación 
+                    en la bodega a aquellos productos que más carga de trabajo 
+                    suponen en el almacén, por lo que al agilizar los procesos operativos 
+                    de estos productos principales la gestión diaria de la bodega se vuelve 
+                    más ágil y menos caótica.
+                    Los operarios tienen claro en que tienen que productos 
+                    deben centrar sus esfuerzos, y estos productos además están almacenados 
+                    de forma más directa y accesible por lo que aumenta la productividad.
+                Mayor control del stock
+                    Las exigencias de control de inventarios que implica la puesta 
+                    en marcha del método ABC, 
+                    favorece que haya un mejor control del stock de la bodega.
+                    Además, este control de stock será más exhaustivo en 
+                    los productos de categoría A, 
+                    que a su vez serán los que tengan un mayor peso en el inventario total.
+                Reducción de los costes
+                    Con el método ABC se priorizan los productos más relevantes para la empresa, 
+                    y por tanto se centran en ellos los esfuerzos y recursos de la compañía.
+                    Por lo tanto, una vez se categoricen los productos A, B y C, 
+                    se podrán optimizar los costes de los productos menos importantes. 
+                    Por ejemplo, reduciendo el stock de seguridad de la mercancía B y C.
+                Servicio más eficiente
+                    Esta reorganización de los recursos de la bodega y la empresa, 
+                    centrada en los productos prioritarios permite una mejora 
+                    notable del servicio, posibilitando mejores plazos de entrega, 
+                    más agilidad en la preparación de pedidos y reducción de incidencias.
+                actividad / procesos /costos
+            Sistemas de almacenaje en el método ABC de inventarios
+                Las características del método ABC para la gestión del stock 
+                otorgan a los sistemas de almacenaje y a los racks industriales 
+                del almacén un papel importante ya que serán los responsables de gran parte 
+                de la correcta organización de la mercancía.
+                Como la clasificación ABC distribuye los productos en 3 categorías distintas, 
+                se recomienda contar en la bodega con sistemas de almacenaje diferentes que 
+                se puedan adaptar a las necesidades de esas 3 categorías.
+                Se priorizarán las existencias de la Categoría A y por tanto la bodega 
+                necesitar tener para estos productos un sistema de almacenaje que facilite 
+                la ágil carga y descarga de los productos y en el que el acceso 
+                a las unidades de carga sea sencillo.
+
+                Uno de los sistemas de almacenaje que se adapta bien a estas características 
+                es el sistema semiautomático AR Shuttle para paletas, que es un tipo de rack 
+                compacto de alta densidad que utiliza carros satélites para el transporte de 
+                las unidades de carga en el interior de los racks.
+                De esta forma se agiliza la carga y descarga ya que la grúa horquilla 
+                no debe introducirse en el interior del sistema de almacenaje.
+
+                También es recomendable que los sistemas de almacenaje instalados sean 
+                versátiles y adaptables ante diversas necesidades de la bodega, 
+                ya que en el método ABC puede haber cambios entre las categorías 
+                de los productos que exijan reorganizar el almacén de forma periódica.
+                Como sistema de racks versátil podemos destacar los racks selectivos 
+                para pallets que pueden ser adaptadas y ampliadas con facilidad y 
+                además pueden ser combinadas con sistemas de almacenajes dinámicos.
+                Sin embargo, al igual que en el caso de los tipos de clasificación 
+                de productos ABC, no existe un sistema de almacenaje perfecto para 
+                todas las bodegas por lo que es recomendable estudiar todas 
+                las necesidades de la bodega caso a caso.
+            A 20% PROD 80% VALOR 
+            B 30% PROD 15% VALOR
+            C 50% PROD 5% VALOR
+    METODO LIFO
+        LIFO Significa :
+            Últimos productos o mercancías en entrar son los primeros en salir.
+        ¿Qué es método LIFO?
+            Es un método de gestión de almacenamiento, que asume que 
+            los últimos artículos adquiridos o producidos son los primeros en ser vendidos 
+            o utilizados, es decir, da prioridad de salida a las últimas unidades de producto 
+            que han llegado al almacén.
+        Este método de gestión de inventarios por su naturaleza puede ser de productos de la empresa, 
+            las materias primas con las que trabaja, componentes necesarios para su producción 
+            o productos adquiridos por la empresa.
+        Ejemplos 
+            Productos sin caducidad como la arena o ripio o herramientas 
+            tambien productos de temporada   
+        ¿Cuándo es recomendable utilizar un almacenaje LIFO?
+            El sistema de almacenaje LIFO suele utilizarse cuando se almacenan mercancías 
+            o productos que no pierdan su valor en el tiempo y no sean de carácter perecedero.
+            Es muy aconsejable para aquellas empresas que puedan mantener un nivel 
+            de stock considerable y no necesiten cierta rotación en sus productos.
+            Especialmente indicado para el almacenaje de productos para la construcción, 
+            donde el método LIFO se adapta perfectamente a las características de este 
+            tipo de productos.
+    METODO FIFO 
+        FIFO Significa :
+            Primeros productos o mercancías en entrar son los primeros en salir.
+        ¿Qué es método FIFO?
+            El método FIFO también llamado método PEPS 
+            (primero en entrar, primero en salir), 
+            es un sistema que te permite el inventario determinar 
+            a qué precio debes ir vendiendo las mercancías a lo largo del año.
+            Para ello, el método FIFO consiste en hacer que la salida de los productos 
+            (venta) se realice en el mismo orden en que estos entraron a la empresa (compra). 
+            Por tanto, los lotes que tienen más antigüedad en stock 
+            son los primeros en salir al punto de venta
+        Ejemplos 
+            Frutas y verduras /CADUCIDAD 
+            celulares /OBSOLECENCIA
+        El método FIFO (PEPS) es utilizado habitualmente para la gestión de stock de 
+            productos perecederos, con fecha de caducidad, 
+            siendo los más comunes los alimentos, medicamentos o productos cosméticos.
+        ¿Cuándo es recomendable utilizar un almacenaje FIFO?
+            Principalmente para productos perecederos con fecha de caducidad. 
+            Por la naturaleza de estos productos es necesario sacar aquello 
+            que primero entró en el almacén, de lo contrario, por una gestión incorrecta, 
+            podemos correr el riesgo de perder el lote más próximo a caducar.
+            El método FIFO asegura una buena rotación de stock. 
+                Es la mejor solución para el almacenaje de productos perecederos o con un 
+                ciclo de vida corto que requieren una perfecta rotación de stocks. 
+            Principalmente, alimentos o medicamentos, en los que la fecha de caducidad es importante,
+            pero también artículos de moda donde la vida útil es la estación 
+            o temporada en la que se vayan a vender o productos tecnológicos 
+            donde la obsolescencia es un factor determinante.
+        Beneficios de la selección FIFO
+            - Es para comprobar la calidad de los productos que se enviarán a los clientes. 
+                que los productos no caduquen antes de llegar al cliente 
+                y tenga la seguridad de que los productos que aún están 
+                en el almacén son productos nuevos.
+            - Facilita el control de los productos.
+            - Hace más sistemática la recogida y recolección de productos.
+                es un sistema ampliamente aceptado internacionalmente.
+        El objetivo final del método FIFO es conseguir una excelente rotación de existencias 
+            en bodega, dando prioridad a la salida de los productos que más llevan almacenados 
+            y pueden perecer o quedar obsoletos.
+        La gestión de stocks tipo FIFO o PEPS, 
+            no es aplicable únicamente en un entorno de bodega, 
+            sino que es utilizado diariamente para la gestión del producto en supermercados 
+            y establecimientos de consumo.
+        VENTAJAS Y BENEFICIOS DEL MÉTODO FIFO (PEPS)
+            Llevar a cabo una gestión de stock en almacén por el método FIFO tiene las siguientes 
+            principales ventajas:
+                Una perfecta rotación de producto, que asegura que el primer producto 
+                    que ha entrado en el rack será el primero en salir del mismo.
+                Prioridad a la salida de productos más antiguos, 
+                    obsoletos o con fecha de caducidad más próxima.
+                Con ello, se evita la pérdida parcial o total de valor del producto almacenado, 
+                o su devaluación por su fecha de fabricación.
+    METODO FEFO 
+        ¿Qué es método FEFO?
+            El método FEFO consiste en organizar el almacenamiento en el almacén de 
+            forma que se dé salida prioritaria aquellos productos con una fecha de 
+            caducidad más cercana. 
+            En este caso, la información más relevante de un lote de productos 
+            es la fecha de vencimiento.
+            El método FEFO es ideal para las empresas que manufacturan productos 
+            con fechas límite de consumo, el ejemplo más claro sería la industria alimenticia. 
+            Un productor de lácteos, por ejemplo, siempre va a desear que sus inventarios 
+            antiguos salgan lo antes posible para evitar desperdicios, 
+            incumplimientos de calidad o abaratamiento de productos.
+        EJEMPLO 
+            medicamentos,comidas preparadas,lacteos    
+        VENTAJAS Y BENEFICIOS DEL MÉTODO FEFO
+            Las ventajas del control de almacén FEFO son los métodos más comunes 
+            y funcionan para empresas con objetivos específicos:
+                Gestionar productos/materiales con ciclos de vida corta.
+                Optimizar la salida de productos de temporada (Make to order).
+                Reducir costos de almacenamiento.
+                Aumentar el valor de activos 
+                    (los productos más antiguos y por lo tanto baratos, son los primeros en salir). 
+        Consecuencias de distribuir un lote de productos caducados
+            Sería un caos y repercutiría de manera negativa a la empresa. 
+            Sacar al mercado productos caducados supondría:
+                Una mala reputación para la empresa. 
+                Si el producto llega al consumidor,  la imagen de tu marca se verá dañada, pues los clientes pensarán que tu producto y servicio no es de calidad.
+                Una pérdida económica, ya que esos productos no se podrían vender en el mercado y habría que retirarlos y tirarlos.
+                Una pérdida de tiempo, lo que se traduce en más dinero.
+            El método FEFO ha sido creado con el fin de que los productos que antes vayan a caducar, 
+            no se queden bajo las filas de cajas o perdidos en el fondo del almacén.
+    video Reglas para el flujo de materiales (FIFO/LIFO/FEFO)
+        https://www.youtube.com/watch?v=fzIrm8ZkVg8
+    DIAGRAMA DE FLUJO EN LOGÍSTICA / FLUJOGRAMA
+        Historia del diagrama de flujo
+            El origen de los diagramas de flujo se remonta a 1921, 
+            cuando Frank y Lillian Gilbreth presentaron las primeras versiones 
+            conocidas de diagramas de flujo en un proyecto para la Sociedad Americana 
+            de Ingenieros Mecánicos (ASME). 
+            Este diagrama tenía un formato vertical y fue uno de los primeros marcos 
+            conocidos para describir procesos. 
+            A partir de entonces, otros profesionales comenzaron a difundir la metodología
+            de su creación en las empresas a través de conferencias y clases. 
+            Con la difusión de la metodología, en 1947 la ASME creó un sistema de símbolos estándar 
+            para crear flujogramas, inspirado en el trabajo de Gilbreth. 
+            En esa misma década, los diagramas de flujo empezaron a extenderse a otros ámbitos, 
+            como el tecnológico, ayudando a las empresas a desarrollar códigos informáticos 
+            a partir de los diagramas de flujo. 
+            Otro hito importante en su historia fue el uso que hizo de ellos e
+            l renombrado profesional japonés Kaoru Ishikawa (1915-1989), 
+            conocido por su trabajo en iniciativas de calidad de la producción. 
+            Comenzó a utilizar esta metodología y empezó a considerarlos como una 
+            de las principales herramientas de control de calidad.
+        ¿Qué es un diagrama de flujo?
+            Un diagrama de flujo es un tipo de diagrama que explica 
+                visualmente un proceso o flujo de trabajo, 
+            por lo que también se llama flujograma. 
+            Utiliza 
+                símbolos 
+                y definiciones estandarizadas, 
+            los diagramas de flujo describen visualmente 
+                los diferentes pasos 
+                y decisiones de un proceso.
+            Los diagramas de flujo son 
+                un mecanismo de control 
+                y descripción de procesos, 
+                que permiten 
+                    una mayor organización,
+                    evaluación 
+                    o replanteamiento de 
+                        secuencias de actividades y 
+                        procesos de distinta índole, dado que son versátiles y sencillos. 
+            Son empleados a menudo en disciplinas como 
+                la programación, 
+                informática, 
+                la economía, 
+                las finanzas, 
+                los procesos industriales, 
+                procesos logísticos entre otros.
+            Sirven para 
+                comunicar desde los procesos más sencillos 
+                hasta los más complejos, por lo que son 
+                    increíblemente dinámicos 
+                    y versátiles. 
+            Al mirar un diagrama de flujo, se debe poder obtener 
+            una visión general de un proceso con facilidad. 
+            Normalmente, se dibuja utilizando +
+                varios símbolos, 
+                cada uno delos cuales representa un paso diferente dentro de una secuencia
+                o proceso. 
+        Para crear un diagrama de flujo 
+            se utilizan diversos elementos y formas, como: 
+                acciones, materiales, servicios, entradas y salidas. 
+                Si hay que evaluar una decisión y no se conoce la totalidad
+                del proceso, su uso puede simplificar mucho la toma de decisiones.
+        La representación gráfica de estos procesos 
+            emplea en los diagramas de flujo, una serie determinada de 
+                figuras geométricas que representan cada paso puntual del proceso 
+                que está siendo evaluado. 
+            Estas formas definidas de antemano se conectan entre sí a través de
+                flechas 
+                y líneas que marcan la dirección del flujo y establecen
+             el recorrido del proceso, como si de un mapa se tratara.
+                Simbología de un diagrama de flujo
+            Los principales símbolos convencionales que se emplean en los 
+                diagramas de flujo son los siguientes:
+                    Símbolos del diagrama de flujo
+                        Existen elementos estándar que se utilizan en la mayoría de 
+                        los flujogramas.
+                    Cada símbolo representa 
+                        una acción o paso diferente dentro 
+                        de una secuencia o proceso. 
+            A continuación, destacamos los símbolos más comunes:
+                Óvalo
+                    Un elemento ovalado en un diagrama de flujo representa 
+                    el terminal. 
+                    En otras palabras, indica el inicio 
+                    y la parada dentro de una secuencia.
+                Rectángulos
+                    Los rectángulos indican las acciones.
+                Paralelogramos
+                    El paralelogramo indica una entrada o una salida.
+                Diamantes
+                    Los diamantes indican las decisiones que hay que tomar. 
+                    Suelen dar lugar a dos caminos alternativos en función 
+                    de la decisión tomada.
+                Líneas de flujo
+                    Las líneas de flujo y las flechas representan las 
+                    direcciones tomadas en la secuencia.
+        Beneficios de crear un diagrama de flujo
+            El uso de un diagrama de flujo para visualizar los procesos 
+            puede beneficiar a una empresa o incluso en la vida cotidiana. 
+            Estas son algunas de las ventajas de utilizar diagramas de flujo:
+                Claridad visual
+                    Una de las ventajas más importante de utilizar un 
+                    diagrama de flujo es poder visualizar y comprender 
+                    los procesos de una operación compleja en un formato sencillo. 
+                    Varias de las empresas que trabajan en los sectores de la 
+                    fabricación, la logística y de administración utilizan estos 
+                    diagramas para trazar correctamente secuencias de procesos 
+                    importantes.
+                    También se puede utilizar los diagramas de flujo para ayudar
+                    a las partes interesadas a entender fácilmente los flujos de 
+                    trabajo de una empresa.
+                Mejora la comunicación
+                    Los diagramas de flujo son muy útiles en reuniones en las 
+                    que un equipo necesita entender y comunicar procesos 
+                    importantes. 
+                    La simplificación de una operación compleja mediante símbolos 
+                    de diagrama de flujo y estandarizaciones es una forma eficaz de comunicar con claridad una información que, de otro modo, sería difícil de discutir.
+                Documentar de forma eficiente
+                    El uso de un diagrama de flujo para describir los procesos 
+                    de una empresa es una buena manera de documentar lo que hay 
+                    que hacer y también de comprender el progreso en la realización 
+                    de las tareas. 
+                    Son una gran estrategia para complementar la documentación con 
+                    elementos visuales.
+        EJEMPLO DE DIAGRAMA DE FLUJO
+                Diagrama de flujo de inventarios de almacén
+                    El control de inventarios en un almacén es indispensable 
+                    principalmente cuando se trata de 
+                    productos con fecha de caducidad
+                    con este proceso en un almacén puedes 
+                    evitar 
+                        devoluciones 
+                        y una mala experiencia a clientes.
+                    El siguiente diagrama involucra 
+                        al administrador del almacén y 
+                        auxiliar o auxiliares del mismo. 
+                    Dónde se verifica la fecha de caducidad en los diferentes 
+                        estantes, 
+                        inventarios 
+                        y bodegas.
+                    En caso de que el medicamento está caducado, 
+                    se separan del resto de medicamentos, 
+                    de lo contrario igualmente se genera 
+                    un reporte de medicamentos caducados, 
+                    así como proceder a dar su baja en el sistema. 
+                    Además, que va acompañado de un reporte de inventarios para 
+                    cotejar las existencias en los diferentes almacenamientos, 
+                    como paso final generar un reporte final del control 
+                    de inventarios. 
+        VIDEO 
+               https://www.youtube.com/watch?v=pWVFKfTUeYQ
+    ÁRBOL DE DECISIONES
+        ¿Qué es un árbol de decisiones?
+            Es un diagrama de flujo que empieza 
+            con una idea principal 
+            y luego se ramifica según las consecuencias
+            de decisiones. 
+            Se denomina árbol de decisiones 
+            por su semejanza con un árbol 
+            con muchas ramas.
+        Este método se usa para realizar 
+            un análisis que consiste en 
+            delinear de forma gráfica 
+            los posibles resultados, costos y consecuencias
+            de una decisión compleja. 
+            Se puede usar un árbol de decisiones 
+            para calcular el valor esperado de 
+            cada resultado en función de 
+            las decisiones tomadas y sus respectivas consecuencias. 
+            Luego, se compara los diferentes resultados 
+            para determinar rápidamente cuál será el mejor
+            plan de acción. 
+            También se puede usar un árbol de decisiones para
+            resolver problemas, gestionar costos e identificar
+            oportunidades.
+        Simbología de un Árbol de Decisiones
+            Los árboles de decisiones están conformados
+            por una serie de nodos de decisiones con ramas 
+            que llegan y salen de ellos. 
+            Estos nodos pueden ser:
+                Nodos Cuadrados o de decisión: 
+                    Representan los puntos de decisión donde 
+                    se muestran las distintas alternativas disponibles a elegir. 
+                    Se escoge la alternativa que presenta el mayor valor esperado.
+                Nodos Circulares o de probabilidad: 
+                    Donde salen las diferentes ramificaciones que muestran 
+                    los hechos fortuitos que tienen una probabilidad de ocurrencia. 
+                    La suma de las probabilidades de cada suceso (rama) 
+                    que sale de un nodo circular debe ser uno. 
+                    El valor esperado del nodo se obtiene realizando 
+                    un promedio ponderado de las ramificaciones con sus probabilidades.
+                Nodos Terminales: 
+                    Representan un resultado definitivo de una ramificación.
+                    Las ramificaciones se representan de la siguiente forma:
+                Ramificaciones alternativas: 
+                    Cada ramificación representa un resultado probable.
+                Alternativa rechazada: 
+                        Una vez desarrollado el árbol, 
+                        las alternativas que no se seleccionan se marcan con dos líneas.
+        Control Estadístico de Procesos
+    CONTROL ESTADISTICO DE PROCESOS 
+        El control estadístico de procesos supervisa los procesos de fabricación 
+            con tecnología que mide y controla la calidad. 
+            El control estadístico de procesos activa varias máquinas e instrumentos 
+            para proporcionar datos de calidad a partir de mediciones de productos y lecturas de procesos. 
+            Una vez recopilados, los datos se evalúan y monitorean para controlar ese proceso.
+            El control estadístico de procesos es una forma sencilla de fomentar la mejora continua. 
+            Cuando un proceso se monitorea y controla continuamente, 
+            los gerentes pueden asegurarse de que funcione a su máximo potencial, 
+            lo que da como resultado una gestión consistente y de calidad.
+        El concepto de control estadístico de procesos ha existido por un tiempo. 
+            En 1924, el empleado de Bell Laboratories, William A. Shewhart, 
+            diseñó el primer gráfico de control y fue pionero en la idea del control estadístico. 
+            Este proceso de control de calidad se utilizó ampliamente 
+            durante la Segunda Guerra Mundial en las instalaciones de municiones y armas. 
+            El control de proceso estadístico supervisó la calidad 
+            de los productos sin comprometer la seguridad.
+            Después de la guerra, el uso de controles de procesos estadísticos 
+            disminuyó en Estados Unidos, pero los japoneses los adoptaron, 
+            quienes los aplicaron a su sector manufacturero y continúan usándolos en la actualidad. 
+            En la década de 1970, el control estadístico de procesos volvió a utilizarse 
+            en Estados Unidos para rivalizar con los productos de Japón.
+            Hoy en día, el sector manufacturero mundial utiliza ampliamente 
+            los controles de procesos estadísticos.
+        La inspección de los procesos sigue siendo la forma clave de 
+            detectar problemas de calidad para la mayoría de las empresas,
+            pero su eficacia es discutible. 
+            Con el control estadístico de procesos, una organización puede 
+            pasar de estar basada en la detección a estar basada en la prevención. 
+        Con el monitoreo constante del desempeño del proceso, 
+            los operadores pueden detectar tendencias o procesos cambiantes 
+            antes de que el desempeño se vea afectado.
+        Las empresas tienen que hacer frente a la constante variación de los precios 
+            de las materias primas y una gran competencia. 
+            Las empresas no pueden controlar estos factores, 
+            pero pueden controlar la calidad de sus productos y procesos. 
+            Necesitan trabajar constantemente para 
+                mejorar la calidad, 
+                la eficiencia 
+                y los márgenes de costo para ser líderes en el mercado.
+        herramientas de control de calidad
+            Descripción general de las herramientas de control estadístico de procesos
+            En total, se utilizan 14 herramientas de control de calidad en el control estadístico de procesos, 
+            que se dividen en 
+                siete herramientas de control de calidad 
+                    1 Diagramas de causa y efecto
+                        También conocido como diagrama de Ishikawa o diagrama de espina de pescado. 
+                        Los diagramas de causa y efecto se utilizan para identificar 
+                        varias causas de cualquier problema. 
+                        Cuando se crean, los diagramas parecen una espina de pescado, 
+                        con cada espina principal extendiéndose en ramas más pequeñas 
+                        que profundizan en cada causa.
+                    2 Hojas de verificación
+                        Estos son formularios simples y listos para usar 
+                        que se pueden recopilar y luego analizar. 
+                        Las hojas de verificación son especialmente buenas para los datos 
+                        que se observan y recopilan repetidamente por la misma persona o en el mismo lugar.
+                    3 Histogramas
+                        Los histogramas parecen gráficos de barras y son gráficos que 
+                        representan distribuciones de frecuencia. 
+                        Son ideales para datos numerados.
+                    4 Diagramas de Pareto
+                        Estos son gráficos de barras que representan 
+                        tiempo y dinero o frecuencia y costo. 
+                        Los diagramas de Pareto son particularmente útiles para medir 
+                        la frecuencia de los problemas. 
+                        Muestran el principio de Pareto 80/20: 
+                        abordar el 20 por ciento de los procesos resolverá el 80 por ciento de los problemas.
+                    5 Diagramas de dispersión
+                        También conocido como gráfico XY. 
+                        Los diagramas de dispersión funcionan mejor cuando se combinan con datos numéricos.
+                    6 Estratificación
+                        Esta es una herramienta para separar datos que simplifica la identificación de patrones. 
+                        La estratificación es un proceso que clasifica 
+                        objetos, personas y datos relacionados en capas o grupos específicos. 
+                        Es perfecto para datos de diferentes fuentes.
+                    7 Gráficos de control
+                        Estas son las herramientas de proceso estadístico más antiguas y populares.
+                y siete herramientas complementarias:
+                    1 Estratificación de datos
+                        Una ligera diferencia con la herramienta de estratificación 
+                        en las herramientas de control de calidad.
+                    2 Mapas de defectos
+                        Estos son mapas que visualizan y rastrean los defectos de un producto, 
+                        centrándose en las ubicaciones físicas y los defectos.
+                        Cada defecto se identifica en el mapa.
+                    3 Registros de eventos
+                        Estos son registros estandarizados que registran 
+                        eventos clave de software y hardware.
+                    4 Diagramas de flujo del proceso
+                        Los diagramas de flujo de procesos son una instantánea 
+                        de los pasos de un proceso, que se muestran en el orden en que ocurren.
+                    5 Centros de progreso
+                        Cuando es necesario tomar decisiones, 
+                        los centros de progreso son ubicaciones centralizadas que permiten 
+                        a las empresas monitorear el progreso y recopilar datos.
+                    6 Aleatorización
+                        La aleatorización es el uso del azar para asignar 
+                        unidades de fabricación a un grupo de tratamiento.
+                    7 Determinación del tamaño de la muestra
+                        Esta herramienta determina el número de personas 
+                        o eventos necesarios para incluir en el análisis estadístico.
+        Beneficios del Control Estadístico de Procesos
+            Los controles de proceso estadísticos tienen una variedad de beneficios:
+                Reducción de desperdicios y reclamos de garantía
+                Productividad maximizada en una unidad de fabricación
+                Mayor eficiencia operativa
+                Reducción de la necesidad de inspecciones manuales
+                Mayor satisfacción del cliente
+                Costos controlados
+                Análisis e informes mejorados
+        Cómo utilizar el control estadístico de procesos
+            Al igual que con cualquier proceso nuevo, el primer paso para usar 
+                el control estadístico de procesos es 
+                    evaluar dónde la organización enfrenta problemas de desperdicio o rendimiento. 
+                Una empresa se beneficiará al aplicar primero los sistemas de control estadístico de procesos 
+                a estas áreas problemáticas.
+                El control estadístico de procesos no siempre se relaciona con factores como 
+                    gastos, tiempo o retrasos en la producción, es según la necesidad. 
+                Al implementar nuevos procesos, un equipo multifuncional identificará 
+                los aspectos críticos del diseño o del proceso que deben abordarse.  
+            Recolección y registro de datos
+                Los datos de control estadístico de procesos se recopilan de dos maneras: 
+                    primero como mediciones de una problemática en particular 
+                    y segundo como lecturas de instrumentación de procesos.
+                Una vez registrados, estos datos se rastrean con 
+                varios tipos de gráficos de control, 
+                específicos para el tipo de datos recopilados.
+            Analizando los datos
+                Durante el análisis, todos los puntos de datos registrados 
+                en el gráfico de control deben estar dentro de los límites de control, 
+                siempre que no haya causas especiales. 
+                Las causas comunes dan como resultado puntos de datos que caen dentro de los límites de control, 
+                pero las causas especiales tienden a ser valores atípicos. 
+                Para clasificar un proceso como bajo control estadístico, 
+                no debe haber valores atípicos en ningún gráfico. 
+            Cuando un proceso está bajo control, no tendrá causas especiales identificadas 
+                y todos los datos estarán dentro de los límites de control.
+                Sin embargo, hay ejemplos de variación de causa común:
+                    Un cambio en las propiedades del material
+                    Cambios de temperatura relacionados con la estación o un cambio en los niveles de humedad
+                    Desgaste regular de máquinas o herramientas
+                    Variaciones en la configuración relacionada con el operador
+                    Variaciones regulares de medición
+                Las causas especiales quedan fuera de los límites de control del ámbito 
+                y pueden indicar un cambio masivo en el proceso. 
+                Estas variaciones pueden incluir cosas como:
+
+                    Controladores fallidos
+                    Ajuste incorrecto del equipo
+                    Cambios en los sistemas de medición
+                    Turnos en proceso
+                    Máquinas que funcionan mal
+                    Propiedades de los materiales de recursos que quedan fuera del alcance de una especificación de diseño
+                    Herramientas dañadas
+                    Inexperiencia del operador
+            Mientras se monitorean los procesos con gráficos de control estadístico de procesos, 
+                todos los puntos de datos se verifican constantemente 
+                para verificar si se mantienen dentro de los límites de control. 
+                Estarán atentos a cualquier cambio en las tendencias o cambios abruptos en los procesos. 
+                Si se identifica una causa especial, se toman las medidas necesarias para determinar la causa. 
+                Lo siguiente es buscar una mejora y permitir que el proceso vuelva al control estadístico.
+        Desventajas con el Control Estadístico de Procesos
+            Al igual que con cualquier proceso, existen algunas desventajas en el control estadístico de procesos:
+            Consideraciones de costos
+                El control estadístico de procesos también es un asunto costoso 
+                y requiere que una empresa firme un contrato con un proveedor de servicios 
+                e invierta en recursos y materiales de capacitación.
+            Medidas de calidad
+                Un problema con el control estadístico de procesos es que detecta 
+                cuando hay una no conformidad en el protocolo del proceso, 
+                pero no dice cuántos productos pueden estar defectuosos hasta ese momento.
+        Mejora del Control Estadístico de Procesos
+            Al estabilizar su proceso de producción, una organización puede reducir 
+            el número de variaciones en la productividad, beneficiando tanto al consumidor como a la empresa. 
+            Mientras que el consumidor obtiene un producto seguro y adecuadamente evaluado, 
+            la empresa se beneficia al reducir los costos y cualquier inconveniente 
+            que surja de un producto defectuoso.
+            A medida que avance la inteligencia artificial, 
+            aumentarán las capacidades de control estadístico de procesos. 
+            Esto generará 
+                mayores ganancias para la organización, 
+                una mayor ventaja competitiva y clientes satisfechos.
+        VIDEO 
+            https://youtu.be/g0yU4IT1Bok?si=jA2IqLhD9Ov4truF    
+CLASES
+    CLASE 1
+        18:57 20-11-2023
+        Los archivo estan en la plataforma
+        editar a resumen diario
+        -bienvenida / 1-PPT DE BIENVENIDA CURSO TÉCNICAS DE ADM. DE LOGÍSTICA
+        -tecnicas / 2-MODULO I TÉCNICAS ADMINISTRACIÓN DE LOGÍSTICA
+        -embalajes / 3-EMBALAJES EN LOGÍSTICA
+        -tipos de almacenes / 4-TIPOS DE ALMACENES    
+    CLASE 2
+        19:08 21-11-2023
+        RESUMEN CLASE ANTERIOR
+        VIDEO envase empaque y embalaje en youtube
+        https://www.youtube.com/watch?v=zM81vLVuuBQ
+        2030 break
+        Trabajo practico 1 enviado al correo 	
+            tecnicas.adm.logistica@gmail.com
+    CLASE 3
+        19:00 22-11-2023 
+        RETROALIMENTACION TRABAJO PRACTICO 
+        SISTEMA DE ADMINISTRACIÓN DE ALMACENAMIENTO
+        830 BREAK
+        2139 break 2200
+        VIDEO OPERACIONES DE ALMACENAMIENTO YOUTUBE
+            https://www.youtube.com/watch?v=6hwb8GToDnc
+    CLASE 4
+        19:00 23-11-2023 
+        REPASO 
         VIDEO
-            https://www.youtube.com/watch?v=sgqMtZniB9M
-        ESTUDIA PUSH PULL    
-        l sistema Push y Pull son dos métodos de producción 
-        que se utilizan en la logística y que tienen un 
-        impacto directo en la gestión del inventario. 
-        En el sistema Push, el producto se fabrica con antelación,
-         es decir, antes de que se produzca la compra del producto.
-          Por lo tanto, este modelo está directamente relacionado 
-          con la predicción de la demanda, ya que es indispensable 
-          saber previamente y con la máxima precisión qué productos 
-          requerirán los clientes, cuándo y en qué cantidad. 
-          En cambio, el sistema Pull adapta la producción a la 
-          demanda efectiva, lo que significa que el producto se 
-          fabrica únicamente cuando se genera una compra, es decir,
-           una vez que la compañía recibe la solicitud por parte 
-           del cliente, al que se le da una fecha de entrega 
-           determinada. La adopción de este método, que no contempla
-            la disponibilidad de stock de producto terminado, 
-            es habitual en empresas especializadas en productos 
-            elaborados bajo demanda o completamente personalizados.
-             Es común, por ejemplo, en la industria del automóvil. 
-             La principal diferencia entre el sistema Push y Pull 
-             reside en el inicio del proceso de producción.    
-CLASE 1
-    18:57 20-11-2023
-    Los archivo estan en la plataforma
-    editar a resumen diario
-    -bienvenida / 1-PPT DE BIENVENIDA CURSO TÉCNICAS DE ADM. DE LOGÍSTICA
-    -tecnicas / 2-MODULO I TÉCNICAS ADMINISTRACIÓN DE LOGÍSTICA
-    -embalajes / 3-EMBALAJES EN LOGÍSTICA
-    -tipos de almacenes / 4-TIPOS DE ALMACENES    
+            https://www.youtube.com/watch?feature=shared&v=_3OobXetjs8&ab_channel=CurriculumMineduc
+        INDICADORES DE GESTION
+            para el control debe haber info mayor a un ano 
+            auditorias mensuales y de cierre del ano
+            VIDEO
+            https://www.youtube.com/watch?v=HhnbRA8hIks&t=16s&ab_channel=EstrategiaenAcci%C3%B3nconIv%C3%A1nMart%C3%ADnezLima
+        SE VERAN KPI DE COSTOS
+        EJEM 
+            compra de vehiculo costo            25000
+            costo de envio y transporte         1000
+            costo de almacenamiento 6meses       500
+            costo instalacion accesorios         200       
+                gps camaras
+            costo interese prestamo             2000 
+            seguro                               1200
+            registro tramites                   300
+            combustible                         1500  
+            costo preventivo                    400
 
-CLASE 2
-    19:08 21-11-2023
-    RESUMEN CLASE ANTERIOR
-    VIDEO envase empaque y embalaje en youtube
-    https://www.youtube.com/watch?v=zM81vLVuuBQ
-    2030 break
-    Trabajo practico 1 enviado al correo 	
-        tecnicas.adm.logistica@gmail.com
+            csto total adquisicion del vehiculo 32100 
+            indicador de la adquisicion
 
-CLASE 3
-    19:00 22-11-2023 
-    RETROALIMENTACION TRABAJO PRACTICO 
-    SISTEMA DE ADMINISTRACIÓN DE ALMACENAMIENTO
-    830 BREAK
-    2139 break 2200
-    VIDEO OPERACIONES DE ALMACENAMIENTO YOUTUBE
-        https://www.youtube.com/watch?v=6hwb8GToDnc
-
-CLASE 4
-    19:00 23-11-2023 
-    REPASO 
-    VIDEO
-        https://www.youtube.com/watch?feature=shared&v=_3OobXetjs8&ab_channel=CurriculumMineduc
-    INDICADORES DE GESTION
-        para el control debe haber info mayor a un ano 
-        auditorias mensuales y de cierre del ano
+            despues de un ano se hace un analisis 
+            cuantas mantenciones
+            se utilizo costo prevencion 
+            averias
+            combustible ...se vera en pantalla 
+            SE VERAN CASOS 
+                DE ROTACION DE PROD
+                DE ENTRADA Y SALIDA 
+                DE INVENTARIO
+                LIFO FIFO FEFO  
+    CLASE 5 
+        19:00 24-11-2023    
+        REPASO  
+        DESARROLLANDOP TRABAJO PRACTICO ARCHIVO EXCEL 1 
+        Profesora con intermitencia ( se aborta la clase antes de las 21hrs)
+    CLASE 6
+        19:00 25-11-2023 
+        Trabajos practicos en linea en excel 
+        del 24 de nov 
+        del 25 de nov hoy 
+        enviados 
+    CLASE 7 
+        19:00 l 27-11-2023 
+        Desarrollo del caso practico  
+        del 25 nov de excel
+        y analisis con profesora 
+        PPT 
+            7-LEAN MANUFACTURING
+    CLASE 8
+        19:00 m 28-11-2023 
+        video lean manufacturin 9 la casa tollota
+        8-Supply chain management.pptm
+        9-Distribución Física Internacional - DFI
+    CLASE 9
+        19:00 m 29-11-2023
+        desarrollo de trabajo practico 2
+        y envio al correo
+        INICIO MODULO 2 
+            1-SERVICIO AL CLIENTE EN LOGÍSTICA 
+            Y LA CADENA DE SUMINISTROS.pptm
+    CLASE 10 
+        19:00 j 30-11-2023
+        revision trabajo practico 2 respueta al correo un 7
+        MODULO 2 SERVICIO AL CLIENTE
+        VIDEO 
+            atencion y servicio al cliente
+            https://www.youtube.com/watch?v=5xGoNUkHpZQ
+        Trabajo Practico enviado a desarrolar 
+        terminado y enviado     
+    CLASE 11 
+        19:00 v 1-12-2023
+        comienzo modulo 3
+        TÉCNICAS DE DETECCIÓN DEL PUNTO ÓPTIMO 
+        DE INSTALACIÓN DE UNA ESTACIÓN DE TRABAJO  
         VIDEO
-        https://www.youtube.com/watch?v=HhnbRA8hIks&t=16s&ab_channel=EstrategiaenAcci%C3%B3nconIv%C3%A1nMart%C3%ADnezLima
-    SE VERAN KPI DE COSTOS
-    EJEM 
-        compra de vehiculo costo            25000
-        costo de envio y transporte         1000
-        costo de almacenamiento 6meses       500
-        costo instalacion accesorios         200       
-            gps camaras
-        costo interese prestamo             2000 
-        seguro                               1200
-        registro tramites                   300
-        combustible                         1500  
-        costo preventivo                    400
-
-        csto total adquisicion del vehiculo 32100 
-        indicador de la adquisicion
-
-        despues de un ano se hace un analisis 
-        cuantas mantenciones
-        se utilizo costo prevencion 
-        averias
-        combustible ...se vera en pantalla 
-        SE VERAN CASOS 
-            DE ROTACION DE PROD
-            DE ENTRADA Y SALIDA 
-            DE INVENTARIO
-            LIFO FIFO FEFO  
-            
-CLASE 5 
-    19:00 24-11-2023    
-    REPASO  
-    DESARROLLANDOP TRABAJO PRACTICO ARCHIVO EXCEL 1 
-    Profesora con intermitencia ( se aborta la clase antes de las 21hrs)
-CLASE 6
-    19:00 25-11-2023 
-    Trabajos practicos en linea en excel 
-    del 24 de nov 
-    del 25 de nov hoy 
-    enviados 
-CLASE 7 
-    19:00 26-11-2023 
-    Desarrollo del caso practico  
-    del 25 nov de excel
-    y analisis con profesora 
-    PPT 
-        7-LEAN MANUFACTURING
-CLASE 8
-    19:00 27-11-2023 
-    video lean manufacturin 9 la casa tollota
-    8-Supply chain management.pptm
-
-
-https://github.com/
-  git init
-  git add README.md
-  git commit -m "primer commit"
-  git branch -M main
-  git remote add origin https://github.com/yonarev/curso-logistica.git
-  git push -u origin main
-  git status
-    git add .
-git commit -m "Mensaje descriptivo de los cambios"
-git push origin <nombre_de_tu_rama>
-
+            https://www.youtube.com/watch?v=NY0ggkTSgCc&ab_channel=Ingenierosconingenio
+        EJERCICION EN EXCEL 
+            coordenadas
+            metodo sinergico  
+    CLASE 12
+        9 am s 2/12/2023
+        en biblioteca 
+        ejercicion en exel         
+              coordenadas
+            metodo sinergico     
+    CLASE 13 
+        19pm, lunes 4/12/2023
+    CLASE 14 
+        19 martes 5/12/2023 
+        METODOLOGÍA Mejora Continua
+    CLASE 15 
+        Miercoles 6
+        repaso hasta ishikawa 
+    CLASE 16 
+        jueves 7
+        diagramando ishikagua con la profesora en linea    
+    CLASE 17 
+        sabado 9 dic 
+            desarrolo de trabajo practico para entrega 
+            en causas senalar 2 subcausas y 2 solucion
+            lo hize en  smartdraw.com 
+        VIERNES FERIADO 
+    CLASE 18 
+        lunes 11-12 
+        MODULO 5
+        metodo abc
+        fifo fefo lifo
+    CLASE 19 
+        martes 12 dic 
+        entregando prueba modulo 5 abc fifo lifo fefo 
+    CLASE 20 
+        Miercoles 13 dic 
+        diagramas de flujo repaso y ejercicios
+        escojer tema para diagrama
+            Realizar un flujograma y escoger 1 tema:
+            1.-Almacenamiento
+            2.-Despacho
+            3.-Devolución o cambio de 1 producto
+            4.-Compra de 1 producto de un cliente
+    CLASE 21 
+        jueves 14 dic 
+        entregando flujograma despacho de bodega  
+        desarrollando con la profesora anomalias 
+    CLASE 22    
+        viernes 14 dic  
+        diagrama de flujo anomalias
+        copartido manual de procedimiento 
+        ARBOL DE DECISIONES 
+    CLASE 23    
+        sabado 16 dic 
+        CONTROL ESTADISTICO DE PROCESOS
+        
+        PREPARACION PARA LA PRUEBA EL LUNES 
+        3hrs y media para desarrollar 
+    PRUEBA GLOBAL 
+        lunes 18 dic  
+        evaluacionFinal_JorgeVeraVidela  
+        responder las 11 no la 5
 

@@ -1,0 +1,195 @@
+TRABAJO PRÁCTICO / Jorge Vera Videla
+        CIERRE MÓDULO I
+        28-11-2023
+        1.- ¿Qué son los indicadores en logística?
+                Los indicadores en logística son Informacion 
+                numerica "cuantitativa" que evalua los
+                procesos en la cadena de suministro y
+                que permiten conocer concretamente 
+                cómo se realizan las labores logísticas 
+                para mejorar todos los aspectos que son 
+                relevantes para la empresa.
+        2.- ¿Qué es posible identificar con los indicadores?
+                Es posible identificar positivamente o negativamente 
+                una gestion en la cadena de suministro
+                en base a una metrica de referencia. 
+        3.- ¿Qué es el KPI?
+                KPI son Indicadores numericos que representas un rendimiento 
+                para medir el nivel del desempeño de un proceso
+                en base a una referencia anterior objetiva en 
+                la cadena de suministro y que permite tomar decisiones
+                importantes de cambio al interior de la empresa.
+                en alguna de las areas evaluadas 
+                    Recepción de mercancías
+                    Almacenaje
+                    Preparación de pedidos
+                    Gestión de inventarios
+                    Expediciones
+                    Entregas
+                    Transporte 
+                    devoluciones 
+        4.- ¿Cómo deben ser los KPI?
+                los KPI debe ser 
+                    Significativos
+                    Concretos
+                    coherentes
+                    Cuantificables,
+                    periodicos
+                    Atribuibles
+                    variables
+                    consistentes
+        5.- ¿Cuál es la importancia de los KPI en la logística administrativa?
+                La importancia radica en que permiten tomar decisiones 
+                para gestionar cambios y mejoras en los procesos de la cadena 
+                de suministro al interior de la empresa optimizando los recursos
+                costos, y tiempos como asi tambien
+                disminuyendo las perdidas y fidelizando al cliente.
+        6.- Nombre los costos asociados en los indicadores de logística y a qué proceso corresponden.
+                De produccion
+                    costos de control de calidad 
+                De almacenamiento e inventario 
+                    Costos de almacenamiento globales
+                    Costos de inventario globales
+                    Costo de unidad almacenada
+                    Costo del control de almacén
+                    Costo del control de inventario
+                    Costo del mantenimiento de instalaciones
+                De gestión de logística de abastecimiento y compra
+                    Costos de abastecimiento globales
+                    Costos unitarios
+                    Costos de control de calidad
+                    Costos de certificaciones
+                De transporte y distribución  
+                    Costos de transporte
+                    Costos operativos
+                    Costos unitarios
+                    Costos de exportación
+                De entrega y servicio al cliente  
+                    Costos por operación del centro logístico
+                    Costos logísticos globales
+                    Costos documentales    
+        7.- ¿Qué es el Lean Manufacturing?
+                Metodo de organizacion del trabajo basado en 
+                la mejora continua optimizando el sistema de produccion
+                eliminando desperdicios y actividades irrelevantes para la empresa
+        8.- ¿Cuál es el objetivo fundamental en el Lean Manufacturing?
+                El objetivo principal en el Lean Manufacturing es 
+                    minimizar las perdidas producidas en cualquier proceso
+                    optimizar los recursos mejorando la calidad, 
+                    reduciendo los tiempos de produccion 
+                    y tambien los costos.
+        9.-Según el Lean Manufacturing, ¿Cuál es el capital más importante de la empresa?
+                El capital mas importante es el humano.
+        10.- Explique con sus palabras los conceptos claves del Lean Manufacturing?
+                efectividad, eficiencia, eficacia, innovacion, dimension humana de la estrategia
+                con enfoque en satisfacer las expectativas del cliente
+        11.- Nombre los 7 principios del Lean Manufacturing
+                1. Hacerlo bien a la primera: 
+                    conseguir cero defectos. 
+                    Para ello hay que 
+                        detectar el problema 
+                        y solucionarlo desde el origen.
+                2. Excluir actividades que no añaden valor: 
+                    Se excluye todo lo que suponga 
+                        un despilfarro o desperdicio 
+                        y que no agrega valor añadido a la experiencia de cliente.
+                3. Mejora continua: 
+                    Se mantiene la calidad del producto o servicio 
+                    tratando de 
+                        reducir costes 
+                        y aumentar la productividad.
+                4. Procesos Pull: 
+                    Se produce según demanda puesto que la clave es evitar stocks.
+                    Se adapta la producción a la demanda efectiva,lo que significa que 
+                    el producto se fabrica únicamente cuando se genera una compra.
+                5. Flexibilidad: 
+                    Es necesario ser capaz de 
+                        producir diferentes tipos de productos 
+                        y ajustarse con exactitud a las cantidades
+                6. Colaborar con los proveedores: 
+                    Construir relaciones con los proveedores 
+                    basándose en el largo plazo, 
+                    con acuerdos compartiendo 
+                        riesgo 
+                        y costos.
+                7. Cambio de enfoque de venta: 
+                    Desde el punto de vista Lean Manufacturing 
+                    al cliente se le aporta una solución 
+                    y no solo un producto o servicio. 
+
+        12.- Nombre 3 herramientas utilizadas por el Lean Manufacturing.
+                KPI,Kaizen,Reingeniería de procesos
+        13.- ¿Qué es el Supply Chain Management?
+                corresponde a la gestión de la cadena de suministro, 
+                es decir a 
+                    la planificación 
+                    optimización 
+                    control de los procesos 
+                    cadenas de valor
+                    e implementación 
+                    y control de las actividades involucradas en 
+                        la creación 
+                        y entrega de un producto o servicio 
+        14.- ¿Qué implica el Supply Chain Management?
+                Implica una cadena de suministro.
+                osea un conjunto de procesos y actividades 
+                que se llevan a cabo para 
+                            producir 
+                            y entregar 
+                                un producto 
+                                o servicio a los consumidores finales
+        15.- ¿Cómo se llama el responsable del Supply Management y en qué consiste su trabajo?
+                Es el Supply Chain Manager
+                Su trabajo consiste en coordinar a 
+                    los distintos proveedores 
+                    transportistas 
+                    y distribuidores 
+                para asegurarse de que los productos lleguen a su destino final 
+                    en el momento 
+                    y las condiciones adecuadas. 
+        16.-Mencione los elementos claves en la implementación de Supply Management y explique en
+            breves palabras su función.
+                Es un enfoque integral para la administración de la cadena de suministro, 
+                que busca mejorar (la eficiencia y la efectividad) de la cadena 
+                lo que se traduce en 
+                    una mayor satisfacción del cliente 
+                    y una ventaja competitiva para la empresa.
+        17.- ¿Qué significa la sigla DFI y en qué consiste?
+                Distribución Física Internacional
+                LLevar un producto al mercado internacional por medio 
+                de un proceso logistico adecuado cumpliendo cabalmente 
+                con las negociaciones internacionales que se establecen 
+                en los contratos pactados.
+        18.- ¿Cuál es el objetivo principal de DFI?
+                Su objetivo principal es 
+                    reducir al máximo los tiempos, 
+                    los costos 
+                    y el riesgo 
+                    que se puedan generar durante el trayecto, 
+                        desde el punto de salida en origen 
+                        hasta el punto de entrega en destino.
+        19.-Nombre las etapas del DFI y explique en breves palabras cada una de ellas.
+                Analisis de la carga a transportar de acuerdo a 
+                    los tipos de carga (general,suelta,unitarizada,granel)
+                    y su naturaleza (perecedera,fragil,peligrosa,extradimensionada)
+                preparacion del empaque y embalaje de los productos
+                Analisis del tipo de transporte a selecionar 
+                    (maritimo,aereo,terrestre,por tren,multiodal)
+                    de acuerdo a 
+                        Tarifa
+                        Distancia
+                        Tiempo de Tránsito
+                        Valor de la Mcía. (Motor de Combustión Interna Alternativo)
+                        Seguro
+                        Empaque y embalaje
+                        Costos y tiempos de carga y descarga
+                Analisis de Documentacion DFI 
+                    Factura comercial 
+                    Lista de Embarque 
+                    Conocimiento de Embarque 
+                    Guia Aerea 
+                    Carta Porte
+                    Carta porte OTM 
+                    Poliza de Seguro 
+                    Certificado de origen 
+                    Licencia de Exportacion 
